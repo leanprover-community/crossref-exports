@@ -1,4 +1,4 @@
-{"generated": "2026-06-11T13:00:38Z",
+{"generated": "2026-06-11T13:28:50Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "line": 108,
@@ -912,8 +912,8 @@
    "file": "Mathlib/CategoryTheory/Sites/CoverPreserving.lean",
    "decl": "CategoryTheory.Functor.isContinuous_of_coverPreserving"},
   {"refs":
-   [{"id": "Q1062242", "db": "wikidata", "comment": ""},
-    {"id": "00Z4", "db": "stacks", "comment": ""}],
+   [{"id": "00Z4", "db": "stacks", "comment": ""},
+    {"id": "Q1062242", "db": "wikidata", "comment": ""}],
    "line": 65,
    "file": "Mathlib/CategoryTheory/Sites/Grothendieck.lean",
    "decl": "CategoryTheory.GrothendieckTopology"},
@@ -1052,8 +1052,8 @@
    "file": "Mathlib/CategoryTheory/Category/Basic.lean",
    "decl": "CategoryTheory.Mono"},
   {"refs":
-   [{"id": "Q1945014", "db": "wikidata", "comment": ""},
-    {"id": "0FFK", "db": "stacks", "comment": ""}],
+   [{"id": "0FFK", "db": "stacks", "comment": ""},
+    {"id": "Q1945014", "db": "wikidata", "comment": ""}],
    "line": 153,
    "file": "Mathlib/CategoryTheory/Monoidal/Category.lean",
    "decl": "CategoryTheory.MonoidalCategory"},
@@ -2019,8 +2019,8 @@
    "file": "Mathlib/RingTheory/Flat/EquationalCriterion.lean",
    "decl": "Module.Flat.projective_of_finitePresentation"},
   {"refs":
-   [{"id": "058D", "db": "stacks", "comment": "(1) ↔ (2)"},
-    {"id": "00HK", "db": "stacks", "comment": ""}],
+   [{"id": "00HK", "db": "stacks", "comment": ""},
+    {"id": "058D", "db": "stacks", "comment": "(1) ↔ (2)"}],
    "line": 104,
    "file": "Mathlib/RingTheory/Flat/EquationalCriterion.lean",
    "decl": "Module.Flat.tfae_equational_criterion"},
@@ -2815,4 +2815,4 @@
    "line": 546,
    "file": "Mathlib/RingTheory/AlgebraicIndependent/TranscendenceBasis.lean",
    "decl": "trdeg_add_eq"}],
- "commit": "20d38473f05bdb4bcf3e08ffcb343c75686cd68c"}
+ "commit": "9eb2baf8fcb6aa3eadf480f8dc59464bcb92d700"}
