@@ -11,15 +11,16 @@ identifiers in those external databases.
 A small [GitHub Pages](https://leanprover-community.github.io/crossref-exports/) site
 redirects from an external identifier to the corresponding Mathlib documentation:
 
-- `…/crossref-exports/doc?db=<db>&id=<id>` → the declaration's documentation page
-- `…/crossref-exports/src?db=<db>&id=<id>` → the declaration's source location
+- `…/crossref-exports/?db=<db>&id=<id>#doc` → the declaration's documentation page
+- `…/crossref-exports/?db=<db>&id=<id>#src` → the declaration's source location
 
 where `<db>` is `wikidata`, `stacks`, or `kerodon` and `<id>` is the identifier in that
 database — e.g.
-[`doc?db=wikidata&id=Q83478`](https://leanprover-community.github.io/crossref-exports/doc?db=wikidata&id=Q83478).
-The lookup resolves to a declaration name and hands off to
-[mathlib4_docs](https://leanprover-community.github.io/mathlib4_docs/)' own `/find`
-endpoint. When a single identifier is shared by several declarations (e.g.
+[`?db=wikidata&id=Q83478#doc`](https://leanprover-community.github.io/crossref-exports/?db=wikidata&id=Q83478#doc).
+The `#doc`/`#src` fragment (defaulting to `#doc`) mirrors mathlib4_docs' own
+`/find?pattern=…#doc` convention. The lookup resolves to a declaration name and hands
+off to [mathlib4_docs](https://leanprover-community.github.io/mathlib4_docs/)' own
+`/find` endpoint. When a single identifier is shared by several declarations (e.g.
 additive/multiplicative twins) a disambiguation page is shown instead.
 
 ## How it works

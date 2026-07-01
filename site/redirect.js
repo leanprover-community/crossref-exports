@@ -1,17 +1,20 @@
 /**
  * Crossref redirect page.
  *
- * Reads `db` and `id` from the query string, looks up the matching Mathlib
+ * Reads `db` and `id` from the query string and the view from the URL fragment
+ * (`#doc` or `#src`, defaulting to `doc`), looks up the matching Mathlib
  * declaration(s) in the cross-reference index, then either:
  *   - 1 match  -> redirects to the mathlib4_docs `/find` page for that decl,
  *   - >1 match -> renders a disambiguation list (e.g. additive/multiplicative
  *                 twins that share a single external id), or
  *   - 0 match / bad input -> renders a "not found" message.
  *
- * The `#doc` vs `#src` view is chosen per-page via `window.CROSSREF_VIEW`.
+ * With no `db`/`id` at all the static landing content is left in place, so the
+ * same page doubles as the site's help page.
  *
- * We hand the decl off to mathlib4_docs' own `/find` endpoint rather than
- * resolving it to a doc URL ourselves: `/find` already knows how to turn a
+ * The `#doc` / `#src` fragment mirrors mathlib4_docs' own `/find?pattern=…#doc`
+ * convention. We hand the decl off to that `/find` endpoint rather than
+ * resolving it to a doc URL ourselves: it already knows how to turn a
  * declaration name into its doc/source page, so this stays a thin lookup layer.
  */
 
@@ -23,7 +26,7 @@ const REPO_URL = "https://github.com/leanprover-community/crossref-exports";
 // Resolved relative to this script, so it works regardless of the page path.
 const DATA_URL = new URL("./crossrefs.bmp", import.meta.url);
 
-const view = window.CROSSREF_VIEW === "src" ? "src" : "doc";
+const view = window.location.hash.replace(/^#/, "") === "src" ? "src" : "doc";
 const otherView = view === "doc" ? "src" : "doc";
 
 function findUrl(decl, v = view) {
@@ -72,10 +75,16 @@ async function main() {
   const db = params.get("db");
   const id = params.get("id");
 
+  // Bare page (no query): leave the static landing/help content in place.
+  if (!db && !id) return;
+
+  // A lookup is happening; replace the landing content while we resolve it.
+  render(`<p class="muted">Looking up…</p>`);
+
   if (!db || !id) {
     renderNotFound(
       "This page expects a query of the form <code>?db=&hellip;&amp;id=&hellip;</code>.",
-      db || id ? `Got db=<code>${escapeHtml(db ?? "")}</code>, id=<code>${escapeHtml(id ?? "")}</code>.` : ""
+      `Got db=<code>${escapeHtml(db ?? "")}</code>, id=<code>${escapeHtml(id ?? "")}</code>.`
     );
     return;
   }

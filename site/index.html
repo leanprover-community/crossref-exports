@@ -5,12 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>crossref-exports</title>
     <link rel="stylesheet" href="./style.css" />
+    <script type="module" src="./redirect.js"></script>
   </head>
   <body>
     <header class="site-header">
       <a href="https://leanprover-community.github.io/mathlib4_docs/">Mathlib</a>
       cross-references
     </header>
+    <!-- redirect.js takes over #content when db/id are supplied; otherwise this
+         landing/help text stays. -->
     <main id="content">
       <h1>crossref-exports</h1>
       <p>
@@ -22,25 +25,23 @@
           ><code>crossrefs.json</code></a
         >.
       </p>
-      <h2>Endpoints</h2>
-      <ul>
-        <li>
-          <code>doc?db=&lt;db&gt;&amp;id=&lt;id&gt;</code> → the declaration's
-          documentation page.
-        </li>
-        <li>
-          <code>src?db=&lt;db&gt;&amp;id=&lt;id&gt;</code> → the declaration's
-          source location.
-        </li>
-      </ul>
+      <h2>Usage</h2>
+      <p>
+        <code>?db=&lt;db&gt;&amp;id=&lt;id&gt;#doc</code> redirects to the
+        declaration's documentation page, and <code>#src</code> to its source
+        location (<code>#doc</code> is the default).
+      </p>
       <p>
         <code>db</code> is one of <code>wikidata</code>, <code>stacks</code>, or
         <code>kerodon</code>; <code>id</code> is the identifier in that database.
         For example,
-        <a href="./doc?db=wikidata&amp;id=Q83478"
-          >doc?db=wikidata&amp;id=Q83478</a
+        <a href="./?db=wikidata&amp;id=Q83478#doc"
+          >?db=wikidata&amp;id=Q83478#doc</a
         >.
       </p>
+      <noscript>
+        <p>This redirect requires JavaScript.</p>
+      </noscript>
     </main>
   </body>
 </html>
