@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>crossref-exports</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="https://leanprover-community.github.io/mathlib4_docs/">Mathlib</a>
+      cross-references
+    </header>
+    <main id="content">
+      <h1>crossref-exports</h1>
+      <p>
+        Redirects from external-database identifiers to the corresponding
+        <a href="https://leanprover-community.github.io/mathlib4_docs/"
+          >Mathlib documentation</a
+        >. The underlying data lives in
+        <a href="https://github.com/leanprover-community/crossref-exports"
+          ><code>crossrefs.json</code></a
+        >.
+      </p>
+      <h2>Endpoints</h2>
+      <ul>
+        <li>
+          <code>doc?db=&lt;db&gt;&amp;id=&lt;id&gt;</code> → the declaration's
+          documentation page.
+        </li>
+        <li>
+          <code>src?db=&lt;db&gt;&amp;id=&lt;id&gt;</code> → the declaration's
+          source location.
+        </li>
+      </ul>
+      <p>
+        <code>db</code> is one of <code>wikidata</code>, <code>stacks</code>, or
+        <code>kerodon</code>; <code>id</code> is the identifier in that database.
+        For example,
+        <a href="./doc?db=wikidata&amp;id=Q83478"
+          >doc?db=wikidata&amp;id=Q83478</a
+        >.
+      </p>
+    </main>
+  </body>
+</html>
