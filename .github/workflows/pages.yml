@@ -1,0 +1,51 @@
+name: Deploy to GitHub Pages
+
+# Builds the redirect site from crossrefs.json and publishes it to GitHub Pages.
+# Runs on every push to master (including the automated crossrefs.json updates
+# pushed from mathlib4, which use a GitHub App token and therefore trigger this
+# workflow), and can be run manually with a dry-run that builds without deploying.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Build and upload the artifact, but do not deploy to Pages."
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; let an in-progress one finish (don't cancel a
+# live deploy) so Pages is never left half-updated.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - name: Build site
+        run: python3 scripts/build_site.py
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    # Deploy on push; on a manual run, skip when dry_run is requested.
+    # github.event.inputs.* is always a string, so compare against 'true'.
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.dry_run != 'true' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5.0.0

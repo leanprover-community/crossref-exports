@@ -1,0 +1,108 @@
+/* Mirrors the doc-gen4 / mathlib4_docs look: Lato for text, JuliaMono for code,
+   the same palette and link/code styling, with automatic light/dark. */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/lato-font/3.0.0/css/lato-font.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/juliamono/0.051/juliamono.css");
+
+:root {
+  color-scheme: light dark;
+  --header-bg: #f8f8f8;
+  --body-bg: white;
+  --code-bg: #f3f3f3;
+  --text-color: black;
+  --link-color: hsl(210, 100%, 30%);
+  --muted-color: gray;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --header-bg: #111010;
+    --body-bg: #171717;
+    --code-bg: #363333;
+    --text-color: #eee;
+    --link-color: #58a6ff;
+    --muted-color: #9b9b9b;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lato Medium", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  font-variant-ligatures: none;
+  color: var(--text-color);
+  background: var(--body-bg);
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lato Medium", sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+a {
+  color: var(--link-color);
+}
+
+/* doc-gen4 convention: no underline except on hover. */
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-header {
+  background: var(--header-bg);
+  padding: 0.6em 1em;
+  font-size: 1.2em;
+}
+
+.site-header a {
+  color: var(--text-color);
+}
+
+main {
+  max-width: min(52rem, 92vw);
+  margin: 2rem auto;
+  padding: 0 1.25rem;
+}
+
+code {
+  font-family: "JuliaMono", ui-monospace, SFMono-Regular, Menlo, Consolas,
+    monospace;
+  font-size: 92%;
+  background: var(--code-bg);
+  border-radius: 5px;
+  padding: 1px 3px;
+}
+
+ul.decls {
+  padding-left: 1.2rem;
+}
+
+ul.decls li {
+  margin: 0.35rem 0;
+}
+
+a.alt {
+  font-size: 0.85em;
+  color: var(--muted-color);
+}
+
+.muted {
+  color: var(--muted-color);
+}
