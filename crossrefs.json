@@ -1,4 +1,4 @@
-{"generated": "2026-07-04T03:52:05Z",
+{"generated": "2026-07-04T09:47:58Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -135,11 +135,11 @@
    "decl": "Algebra.Generators.cotangentCompLocalizationAwayEquiv"},
   {"refs": [{"id": "07CF", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Extension.Cotangent.Basis",
-   "line": 280,
+   "line": 283,
    "decl": "Algebra.Generators.exists_presentation_of_basis_cotangent"},
   {"refs": [{"id": "07CF", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Extension.Cotangent.Basis",
-   "line": 332,
+   "line": 335,
    "decl": "Algebra.Generators.exists_presentation_of_free_cotangent"},
   {"refs": [{"id": "08JZ", "db": "stacks", "comment": "part of (1)"}],
    "module": "Mathlib.RingTheory.Extension.Cotangent.LocalizationAway",
@@ -2367,7 +2367,7 @@
    "decl": "Padic"},
   {"refs": [{"id": "Q43260", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Polynomial.Basic",
-   "line": 72,
+   "line": 74,
    "decl": "Polynomial"},
   {"refs": [{"id": "09HV", "db": "stacks", "comment": "Predicate version"}],
    "module": "Mathlib.FieldTheory.SplittingField.IsSplittingField",
@@ -2885,7 +2885,7 @@
    "decl": "exists_deriv_eq_zero"},
   {"refs": [{"id": "03GD", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Smooth.IntegralClosure",
-   "line": 195,
+   "line": 197,
    "decl": "exists_derivative_mul_eq_and_isIntegral_coeff"},
   {"refs": [{"id": "Q866116", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.Normed.Module.HahnBanach",
@@ -2906,7 +2906,7 @@
    "decl": "exists_isIntegral_sub_of_isIntegralElem_of_mul_mem_range"},
   {"refs": [{"id": "0H71", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparablyGenerated",
-   "line": 265,
+   "line": 267,
    "decl":
    "exists_isTranscendenceBasis_and_isSeparable_of_linearIndepOn_pow_of_adjoin_eq_top"},
   {"refs":
@@ -2914,7 +2914,7 @@
      "db": "stacks",
      "comment": "(2) ⇒ (1) finitely generated case"}],
    "module": "Mathlib.FieldTheory.SeparablyGenerated",
-   "line": 289,
+   "line": 291,
    "decl":
    "exists_isTranscendenceBasis_and_isSeparable_of_linearIndepOn_pow_of_essFiniteType"},
   {"refs": [{"id": "00PX", "db": "stacks", "comment": ""}],
@@ -3063,7 +3063,7 @@
      "db": "stacks",
      "comment": "without the generalization to arbitrary etale algebra"}],
    "module": "Mathlib.RingTheory.Smooth.IntegralClosure",
-   "line": 280,
+   "line": 282,
    "decl": "mem_adjoin_map_integralClosure_of_isStandardEtale"},
   {"refs": [{"id": "004W", "db": "stacks", "comment": "(4)"}],
    "module": "Mathlib.Topology.Irreducible",
@@ -3142,4 +3142,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "c093ecaf2255abd0cd9b076d33e86253a1e8ebb4"}
+ "commit": "613038575adbb25fe394846010a0507cfe643053"}
