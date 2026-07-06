@@ -1,4 +1,4 @@
-{"generated": "2026-07-04T09:47:58Z",
+{"generated": "2026-07-06T09:46:18Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2077,7 +2077,7 @@
    "decl": "JacobsonSpace"},
   {"refs": [{"id": "Q190546", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.SesquilinearForm.Basic",
-   "line": 830,
+   "line": 824,
    "decl": "LinearMap.BilinForm.apply_mul_apply_le_of_forall_zero_le"},
   {"refs": [{"id": "Q364089", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.LinearRecurrence",
@@ -3142,4 +3142,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "613038575adbb25fe394846010a0507cfe643053"}
+ "commit": "a3b50ce4ec76a7409b42c8fea5801d2f0b2a5d03"}
