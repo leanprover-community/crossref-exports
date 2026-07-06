@@ -1,4 +1,4 @@
-{"generated": "2026-07-06T12:59:10Z",
+{"generated": "2026-07-06T21:58:02Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -309,7 +309,7 @@
    "decl": "Algebra.ZariskisMainProperty.of_finiteType_of_weaklyQuasiFiniteAt"},
   {"refs": [{"id": "00UH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.UniversalFactorizationRing",
-   "line": 688,
+   "line": 685,
    "decl":
    "Algebra.exists_etale_bijective_residueFieldMap_and_map_eq_mul_and_isCoprime"},
   {"refs": [{"id": "00UL", "db": "stacks", "comment": ""}],
@@ -3142,4 +3142,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "eb56e53fe59380b78617e2a94dc4d0a479d8b9d4"}
+ "commit": "12b4b4adf73c3bf0917409bb4b9dd4c8b96f4e8f"}
