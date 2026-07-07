@@ -1,4 +1,4 @@
-{"generated": "2026-07-06T21:58:02Z",
+{"generated": "2026-07-07T03:41:09Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2119,6 +2119,10 @@
    "module": "Mathlib.LinearAlgebra.Matrix.Determinant.Basic",
    "line": 60,
    "decl": "Matrix.det"},
+  {"refs": [{"id": "Q936434", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.LinearAlgebra.SymplecticGroup",
+   "line": 101,
+   "decl": "Matrix.symplecticGroup"},
   {"refs":
    [{"id": "00JA",
      "db": "stacks",
@@ -3142,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "12b4b4adf73c3bf0917409bb4b9dd4c8b96f4e8f"}
+ "commit": "ce0dcaa4265956ae72abd2dfa77214d838ddce24"}
