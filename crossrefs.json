@@ -1,4 +1,4 @@
-{"generated": "2026-07-08T07:11:21Z",
+{"generated": "2026-07-08T16:01:45Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2984,7 +2984,7 @@
   {"refs": [{"id": "0BCH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.PicardGroup",
    "line": 857,
-   "decl": "instSubsingletonPicOfIsDomainOfNonemptyNormalizedGCDMonoid"},
+   "decl": "instSubsingletonPicOfIsDomainOfIsGCDMonoid"},
   {"refs": [{"id": "Q245098", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Order.IntermediateValue",
    "line": 553,
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "812b9b69676b63b4d58aed90d400e56fa3a0b99d"}
+ "commit": "2f35248703f4824acffd6dce07cc4d44105bc56f"}
