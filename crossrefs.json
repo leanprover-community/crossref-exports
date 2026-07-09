@@ -1,4 +1,4 @@
-{"generated": "2026-07-08T19:21:05Z",
+{"generated": "2026-07-09T12:01:43Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2573,7 +2573,7 @@
    "decl": "Ring.ord"},
   {"refs": [{"id": "02MD", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.OrderOfVanishing.Basic",
-   "line": 325,
+   "line": 323,
    "decl": "Ring.ordFrac"},
   {"refs": [{"id": "02MD", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.OrderOfVanishing.Basic",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "463839dbb4ba1f666390dffb830ed42e7605e088"}
+ "commit": "2d00c9242abecf5af452fe84bf7ce95d299313be"}
