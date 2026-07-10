@@ -1,4 +1,4 @@
-{"generated": "2026-07-09T12:01:43Z",
+{"generated": "2026-07-10T10:46:47Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2301,7 +2301,7 @@
    "decl": "Module.support_of_exact"},
   {"refs": [{"id": "00L3", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Support",
-   "line": 243,
+   "line": 249,
    "decl": "Module.support_quotient"},
   {"refs": [{"id": "00L3", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Support",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "2d00c9242abecf5af452fe84bf7ce95d299313be"}
+ "commit": "0098dd94d810711e831b250902687d3edab9969b"}
