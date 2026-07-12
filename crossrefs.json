@@ -1,4 +1,4 @@
-{"generated": "2026-07-10T15:13:31Z",
+{"generated": "2026-07-12T12:25:50Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2390,7 +2390,7 @@
    "decl": "Polynomial.SplittingField"},
   {"refs": [{"id": "09HU", "db": "stacks", "comment": "Splitting part"}],
    "module": "Mathlib.FieldTheory.SplittingField.Construction",
-   "line": 272,
+   "line": 274,
    "decl": "Polynomial.SplittingField.splits"},
   {"refs": [{"id": "00H5", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.Algebra.Ideal",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "2028213c0d615301c14937e52dcc899ee04481c4"}
+ "commit": "2800ac2bd3c2653f48647df6cb15b22c6e6e5039"}
