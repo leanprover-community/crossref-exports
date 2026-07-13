@@ -1,4 +1,4 @@
-{"generated": "2026-07-12T12:25:50Z",
+{"generated": "2026-07-13T11:50:17Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2816,7 +2816,7 @@
    "decl": "UniqueFactorizationMonoid"},
   {"refs": [{"id": "0AFT", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.UFD",
-   "line": 86,
+   "line": 87,
    "decl": "UniqueFactorizationMonoid.iff_forall_isPrincipal_of_height_eq_one"},
   {"refs": [{"id": "052K", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "2800ac2bd3c2653f48647df6cb15b22c6e6e5039"}
+ "commit": "a7a0864217d023035b6915bf6fcd07cc9e3161d0"}
