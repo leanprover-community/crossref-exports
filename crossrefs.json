@@ -1,4 +1,4 @@
-{"generated": "2026-07-15T01:29:58Z",
+{"generated": "2026-07-15T09:44:53Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2979,7 +2979,7 @@
      "comment":
      "We define Krull topology directly without proving the universal property"}],
    "module": "Mathlib.FieldTheory.KrullTopology",
-   "line": 143,
+   "line": 139,
    "decl": "instIsTopologicalGroupAlgEquiv"},
   {"refs": [{"id": "0BCH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.PicardGroup",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "462dde945bf18c2ae494fc5e012d24260e32a897"}
+ "commit": "e0824fdc1cf95ea19518210636c74510a36acb05"}
