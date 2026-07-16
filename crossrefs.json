@@ -1,4 +1,4 @@
-{"generated": "2026-07-16T03:02:56Z",
+{"generated": "2026-07-16T04:04:29Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1194,7 +1194,7 @@
   {"refs":
    [{"id": "0BN4", "db": "stacks", "comment": "Essential surjectivity part"}],
    "module": "Mathlib.CategoryTheory.Galois.EssSurj",
-   "line": 267,
+   "line": 266,
    "decl": "CategoryTheory.PreGaloisCategory.exists_lift_of_continuous"},
   {"refs": [{"id": "0BN4", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Galois.Equivalence",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "19d52f4cfbb837d7fb244930c315be4dc6a60b53"}
+ "commit": "a5b9632358932b87ef0d4d84dbfe392166b226fa"}
