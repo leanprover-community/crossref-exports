@@ -1,4 +1,4 @@
-{"generated": "2026-07-16T09:54:33Z",
+{"generated": "2026-07-16T16:21:13Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2165,7 +2165,7 @@
    "decl": "Module.Dual"},
   {"refs": [{"id": "0519", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Finiteness.Finsupp",
-   "line": 121,
+   "line": 157,
    "decl": "Module.Finite.of_exact"},
   {"refs": [{"id": "0519", "db": "stacks", "comment": "(3)"}],
    "module": "Mathlib.RingTheory.Finiteness.Basic",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "cd580e54f1a6b46063824e80cec92f64692cbe78"}
+ "commit": "9ff650a05edbad3ca4c9f97a49454fb83ef803fe"}
