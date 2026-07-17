@@ -1,4 +1,4 @@
-{"generated": "2026-07-16T16:21:13Z",
+{"generated": "2026-07-17T11:00:29Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1878,7 +1878,7 @@
   {"refs": [{"id": "00J7", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Artinian.Module",
    "line": 517,
-   "decl": "IsArtinianRing.setOf_isMaximal_finite"},
+   "decl": "IsArtinianRing.setOfPred_isMaximal_finite"},
   {"refs": [{"id": "Q1780743", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.Normed.Operator.Compact.Basic",
    "line": 71,
@@ -2987,7 +2987,7 @@
    "decl": "instSubsingletonPicOfIsDomainOfIsGCDMonoid"},
   {"refs": [{"id": "Q245098", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Order.IntermediateValue",
-   "line": 553,
+   "line": 559,
    "decl": "intermediate_value_Icc"},
   {"refs": [{"id": "Q1071270", "db": "wikidata", "comment": ""}],
    "module":
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "9ff650a05edbad3ca4c9f97a49454fb83ef803fe"}
+ "commit": "119eea4bbfa6d2b3363d0358c2fb79e9e13b881c"}
