@@ -1,4 +1,4 @@
-{"generated": "2026-07-17T11:00:29Z",
+{"generated": "2026-07-17T17:20:54Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1656,6 +1656,10 @@
    "module": "Mathlib.GroupTheory.Nilpotent",
    "line": 247,
    "decl": "Group.IsNilpotent"},
+  {"refs": [{"id": "Q759832", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.GroupTheory.Solvable",
+   "line": 109,
+   "decl": "Group.IsSolvable"},
   {"refs": [{"id": "Q1203540", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Maximal",
    "line": 47,
@@ -2037,10 +2041,6 @@
    "module": "Mathlib.GroupTheory.Subgroup.Simple",
    "line": 38,
    "decl": "IsSimpleGroup"},
-  {"refs": [{"id": "Q759832", "db": "wikidata", "comment": ""}],
-   "module": "Mathlib.GroupTheory.Solvable",
-   "line": 107,
-   "decl": "IsSolvable"},
   {"refs":
    [{"id": "005A", "db": "stacks", "comment": ""},
     {"id": "08YG", "db": "stacks", "comment": ""}],
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "119eea4bbfa6d2b3363d0358c2fb79e9e13b881c"}
+ "commit": "7ffc1c27cb91ddf84fa84efbfa01c3578c39d54f"}
