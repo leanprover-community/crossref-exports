@@ -1,4 +1,4 @@
-{"generated": "2026-07-17T17:20:54Z",
+{"generated": "2026-07-19T03:21:37Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2113,7 +2113,7 @@
    "decl": "LocallyConvexSpace"},
   {"refs": [{"id": "Q44337", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Defs",
-   "line": 56,
+   "line": 57,
    "decl": "Matrix"},
   {"refs": [{"id": "Q178546", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Determinant.Basic",
@@ -3146,4 +3146,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "7ffc1c27cb91ddf84fa84efbfa01c3578c39d54f"}
+ "commit": "c2ea7ca1e55ede82135eb79555926975d87bd264"}
