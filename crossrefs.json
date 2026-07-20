@@ -1,4 +1,4 @@
-{"generated": "2026-07-19T04:48:38Z",
+{"generated": "2026-07-20T03:57:39Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1853,7 +1853,7 @@
    "decl": "IsAlgClosed.exists_root"},
   {"refs": [{"id": "09GU", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 347,
+   "line": 350,
    "decl": "IsAlgClosed.lift"},
   {"refs": [{"id": "09GR", "db": "stacks", "comment": "(3) ⟹ (4)"}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
@@ -1865,7 +1865,7 @@
    "decl": "IsAlgClosure"},
   {"refs": [{"id": "09GV", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 402,
+   "line": 405,
    "decl": "IsAlgClosure.equiv"},
   {"refs": [{"id": "09GC", "db": "stacks", "comment": "Algebraic elements"}],
    "module": "Mathlib.RingTheory.Algebraic.Defs",
@@ -2666,11 +2666,11 @@
    "decl": "SheafOfModules.IsLocallyFree"},
   {"refs": [{"id": "Q141488", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Basic",
-   "line": 93,
+   "line": 95,
    "decl": "SimpleGraph"},
   {"refs": [{"id": "Q45715", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Basic",
-   "line": 321,
+   "line": 323,
    "decl": "SimpleGraph.completeGraph"},
   {"refs": [{"id": "08YG", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Topology.Spectral.Basic",
@@ -3132,7 +3132,7 @@
    "decl": "separableClosure"},
   {"refs": [{"id": "0EXK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsSepClosed",
-   "line": 320,
+   "line": 323,
    "decl": "separableClosure.isGalois"},
   {"refs":
    [{"id": "030K",
@@ -3162,4 +3162,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "8c79cb4f540eeb519b1a2187009a1916521fd168"}
+ "commit": "fb6b1ce3f5e96319e0b29f9badf9b969fd8a3b9c"}
