@@ -1,4 +1,4 @@
-{"generated": "2026-07-24T20:09:57Z",
+{"generated": "2026-07-24T21:29:31Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3076,7 +3076,7 @@
    "decl": "linearIndependent_monoidHom"},
   {"refs": [{"id": "Q1138992", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.LucasLehmer",
-   "line": 584,
+   "line": 581,
    "decl": "lucas_lehmer_sufficiency"},
   {"refs":
    [{"id": "03GE",
@@ -3162,4 +3162,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "f61feab96298c65b11632a917d19ca10d5048ca0"}
+ "commit": "5ef92af16e7e6bf9d2f50751f06de253bd132fdf"}
