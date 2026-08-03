@@ -1,4 +1,4 @@
-{"generated": "2026-08-02T10:35:49Z",
+{"generated": "2026-08-03T09:48:16Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2828,7 +2828,7 @@
      "comment":
      "This Mathlib declaration captures 'unique factorization'.\nUse in conjunction with `IsDomain` to capture unique factorization domain."}],
    "module": "Mathlib.RingTheory.UniqueFactorizationDomain.Defs",
-   "line": 132,
+   "line": 135,
    "decl": "UniqueFactorizationMonoid"},
   {"refs": [{"id": "0AFT", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.UFD",
@@ -3162,4 +3162,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "e75dd8437c8d32385c65a341f67a7cb1d82ccef1"}
+ "commit": "d586c71e87ddf1c4fef06a739cdd3b733fd8b64d"}
