@@ -1,4 +1,4 @@
-{"generated": "2026-08-03T22:16:12Z",
+{"generated": "2026-08-04T15:08:38Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2165,7 +2165,7 @@
    "decl": "Metric.ball"},
   {"refs": [{"id": "Q253214", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.MetricSpace.Bounded",
-   "line": 336,
+   "line": 335,
    "decl": "Metric.isCompact_iff_isClosed_bounded"},
   {"refs": [{"id": "Q180953", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.MetricSpace.Defs",
@@ -3162,4 +3162,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "9fb10993c11c9e7abfa291e86fb499b6e1f4da82"}
+ "commit": "1c3257b287ab86713ef4c1ae68a4a39c249b8468"}
