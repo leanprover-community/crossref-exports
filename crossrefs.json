@@ -1,4 +1,4 @@
-{"generated": "2026-08-06T00:22:39Z",
+{"generated": "2026-08-07T01:29:16Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1504,7 +1504,7 @@
    "decl": "ConnectedComponents.t2"},
   {"refs": [{"id": "Q1491995", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Connected.Basic",
-   "line": 687,
+   "line": 705,
    "decl": "ConnectedSpace"},
   {"refs": [{"id": "Q170058", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Basic",
@@ -3162,4 +3162,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "99458cf1f3559c7090a53203fb8c9092fe975ebd"}
+ "commit": "62f22e634429cc88061613bf3a5058fb97e3ac5c"}
