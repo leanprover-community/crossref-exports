@@ -1,4 +1,4 @@
-{"generated": "2026-08-10T14:05:51Z",
+{"generated": "2026-08-10T14:51:06Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2831,11 +2831,11 @@
    "decl": "T0Space"},
   {"refs": [{"id": "Q746550", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Geometry.Manifold.IsManifold.Basic",
-   "line": 1067,
+   "line": 1069,
    "decl": "TangentBundle"},
   {"refs": [{"id": "Q909601", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Geometry.Manifold.IsManifold.Basic",
-   "line": 1034,
+   "line": 1036,
    "decl": "TangentSpace"},
   {"refs": [{"id": "Q1411887", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.UniformSpace.UniformConvergence",
@@ -3234,4 +3234,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "f7699dd3e2e2f90ab1a45531bbd84b2bcbc8f76d"}
+ "commit": "4a3cbc9c7606e4706507e1c2e3af21c148b72d63"}
