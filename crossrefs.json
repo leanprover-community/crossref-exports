@@ -1,4 +1,4 @@
-{"generated": "2026-08-12T14:01:09Z",
+{"generated": "2026-08-12T23:23:58Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2992,6 +2992,10 @@
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
    "line": 178,
    "decl": "exists_isIntegral_sub_of_isIntegralElem_of_mul_mem_range"},
+  {"refs": [{"id": "Q1119050", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.SetTheory.Cardinal.Cofinality.Club",
+   "line": 339,
+   "decl": "exists_isStationary_preimage_singleton"},
   {"refs": [{"id": "0H71", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparablyGenerated",
    "line": 264,
@@ -3234,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "1a0ef26d9624d64a1ad11853d17c30b8c32f2a10"}
+ "commit": "736793ffc8e6180b2ee6c8efc550e4632bb6c795"}
