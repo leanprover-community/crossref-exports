@@ -1,4 +1,4 @@
-{"generated": "2026-08-13T14:57:47Z",
+{"generated": "2026-08-13T15:32:59Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -55,7 +55,7 @@
   {"refs":
    [{"id": "09FX", "db": "stacks", "comment": "first part, see also 09FI"}],
    "module": "Mathlib.RingTheory.AdjoinRoot",
-   "line": 526,
+   "line": 530,
    "decl": "AdjoinRoot.instField"},
   {"refs": [{"id": "Q53875", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.AffineSpace.AffineSubspace.Basic",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "d16a3fccfa0e7ba10b678da6ae01e6e306a6619a"}
+ "commit": "6da1b08df6f1ea976cff62775881612e0a036d70"}
