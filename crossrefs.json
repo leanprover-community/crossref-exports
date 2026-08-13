@@ -1,4 +1,4 @@
-{"generated": "2026-08-13T10:58:58Z",
+{"generated": "2026-08-13T14:57:47Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2625,7 +2625,7 @@
    "decl": "Real.log"},
   {"refs": [{"id": "Q167", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic",
-   "line": 127,
+   "line": 128,
    "decl": "Real.pi"},
   {"refs": [{"id": "Q205966", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.LSeries.RiemannZeta",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "72f9c607bb3a3e3a9fbe2a0513c7c79f998b9944"}
+ "commit": "d16a3fccfa0e7ba10b678da6ae01e6e306a6619a"}
