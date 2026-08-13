@@ -1,4 +1,4 @@
-{"generated": "2026-08-13T15:32:59Z",
+{"generated": "2026-08-13T18:07:22Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -317,11 +317,11 @@
    "decl": "Algebra.WeaklyEtale.trans"},
   {"refs": [{"id": "00Q9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 659,
+   "line": 658,
    "decl": "Algebra.ZariskisMainProperty.of_finiteType"},
   {"refs": [{"id": "00Q9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 636,
+   "line": 635,
    "decl": "Algebra.ZariskisMainProperty.of_finiteType_of_weaklyQuasiFiniteAt"},
   {"refs": [{"id": "00UH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.UniversalFactorizationRing",
@@ -3027,7 +3027,7 @@
    "decl": "exists_ratio_deriv_eq_ratio_slope"},
   {"refs": [{"id": "09GH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.Basic",
-   "line": 214,
+   "line": 213,
    "decl": "fg_adjoin_of_finite"},
   {"refs": [{"id": "00IS", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Adjoin.Tower",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "6da1b08df6f1ea976cff62775881612e0a036d70"}
+ "commit": "79cba2e8b532ff92484dfd99f45987bae8b2fd7e"}
