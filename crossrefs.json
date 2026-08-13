@@ -1,4 +1,4 @@
-{"generated": "2026-08-12T23:23:58Z",
+{"generated": "2026-08-13T08:40:27Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1949,7 +1949,7 @@
    "decl": "IsExtrOn"},
   {"refs": [{"id": "09FJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Localization.FractionRing",
-   "line": 225,
+   "line": 226,
    "decl": "IsFractionRing.toField"},
   {"refs": [{"id": "09I0", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "736793ffc8e6180b2ee6c8efc550e4632bb6c795"}
+ "commit": "130d6f7afed95e0e88cefbb18986af4a9d376379"}
