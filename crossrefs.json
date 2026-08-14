@@ -1,4 +1,4 @@
-{"generated": "2026-08-14T09:15:21Z",
+{"generated": "2026-08-14T10:28:19Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1058,11 +1058,11 @@
    "decl": "CategoryTheory.Limits.CategoricalPullback"},
   {"refs": [{"id": "04AP", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Shapes.BinaryProducts",
-   "line": 897,
+   "line": 882,
    "decl": "CategoryTheory.Limits.HasBinaryCoproducts"},
   {"refs": [{"id": "001T", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Shapes.BinaryProducts",
-   "line": 891,
+   "line": 876,
    "decl": "CategoryTheory.Limits.HasBinaryProducts"},
   {"refs": [{"id": "001W", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Shapes.Pullback.HasPullback",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "1f07440aeca309c93c6a60be777afa6d40c4af66"}
+ "commit": "618f225e1ff4a6b2790a944e01b806b7c68bdc56"}
