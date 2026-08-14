@@ -1,4 +1,4 @@
-{"generated": "2026-08-14T12:41:33Z",
+{"generated": "2026-08-14T15:14:55Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1175,11 +1175,11 @@
    "decl": "CategoryTheory.ObjectProperty.SerreClassLocalization.abelian"},
   {"refs": [{"id": "0FX1", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 291,
+   "line": 288,
    "decl": "CategoryTheory.ObjectProperty.extensionProduct_assoc"},
   {"refs": [{"id": "0FX2", "db": "stacks", "comment": "first part"}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 318,
+   "line": 315,
    "decl":
    "CategoryTheory.ObjectProperty.extensionProduct_retractClosure_retractClosure_le"},
   {"refs": [{"id": "0FXB", "db": "stacks", "comment": ""}],
@@ -1188,7 +1188,7 @@
    "decl": "CategoryTheory.ObjectProperty.leftOrthogonal"},
   {"refs": [{"id": "0FX2", "db": "stacks", "comment": "second part"}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 335,
+   "line": 332,
    "decl":
    "CategoryTheory.ObjectProperty.retractClosure_extensionProduct_retractClosure_retractClosure"},
   {"refs": [{"id": "0FXB", "db": "stacks", "comment": ""}],
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "e80e68b543bcc2e3de15b2456f24f0480100255e"}
+ "commit": "126412cc63dab61cfcf590bccf4bdc2a1e9dc1d1"}
