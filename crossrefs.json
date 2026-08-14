@@ -1,4 +1,4 @@
-{"generated": "2026-08-13T18:07:22Z",
+{"generated": "2026-08-14T09:15:21Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1044,7 +1044,7 @@
    "decl": "CategoryTheory.IsNoetherianObject"},
   {"refs": [{"id": "05QK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Triangulated",
-   "line": 305,
+   "line": 299,
    "decl": "CategoryTheory.IsTriangulated"},
   {"refs":
    [{"id": "0017", "db": "stacks", "comment": ""},
@@ -1318,15 +1318,15 @@
    "CategoryTheory.Pretriangulated.instIsHomologicalOppositeAddCommGrpCatObjFunctorPreadditiveYoneda"},
   {"refs": [{"id": "014A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 526,
+   "line": 523,
    "decl": "CategoryTheory.Pretriangulated.isIso₁_of_isIso₂₃"},
   {"refs": [{"id": "014A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 479,
+   "line": 476,
    "decl": "CategoryTheory.Pretriangulated.isIso₂_of_isIso₁₃"},
   {"refs": [{"id": "014A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 516,
+   "line": 513,
    "decl": "CategoryTheory.Pretriangulated.isIso₃_of_isIso₁₂"},
   {"refs": [{"id": "026F", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.CategoryTheory.Sites.Descent.IsPrestack",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "79cba2e8b532ff92484dfd99f45987bae8b2fd7e"}
+ "commit": "1f07440aeca309c93c6a60be777afa6d40c4af66"}
