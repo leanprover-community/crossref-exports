@@ -1,4 +1,4 @@
-{"generated": "2026-08-14T21:35:57Z",
+{"generated": "2026-08-15T18:52:17Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1405,7 +1405,7 @@
    "decl": "CategoryTheory.coyonedaLemma"},
   {"refs": [{"id": "001A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Discrete.Basic",
-   "line": 78,
+   "line": 100,
    "decl": "CategoryTheory.discreteCategory"},
   {"refs": [{"id": "003C", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "653c36f019ec26896d6bf8b738b41c9ea99c7d16"}
+ "commit": "49d8727de9b22669081c08d034547d1147638a2c"}
