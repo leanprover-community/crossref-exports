@@ -1,4 +1,4 @@
-{"generated": "2026-08-15T18:52:17Z",
+{"generated": "2026-08-16T08:24:42Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2419,11 +2419,11 @@
    [{"id": "09GA", "db": "stacks", "comment": ""},
     {"id": "Q616608", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.NumberField.Basic",
-   "line": 44,
+   "line": 45,
    "decl": "NumberField"},
   {"refs": [{"id": "Q1358313", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.NumberField.Basic",
-   "line": 103,
+   "line": 104,
    "decl": "NumberField.RingOfIntegers"},
   {"refs": [{"id": "Q1283623", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.SetTheory.Cardinal.Cofinality.Basic",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "49d8727de9b22669081c08d034547d1147638a2c"}
+ "commit": "f25d4267c9bd8a29d94cc146eb845d284ba1d85e"}
