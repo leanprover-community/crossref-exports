@@ -1,4 +1,4 @@
-{"generated": "2026-08-16T08:24:42Z",
+{"generated": "2026-08-16T12:09:22Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -211,7 +211,7 @@
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_polynomial"},
   {"refs": [{"id": "09GF", "db": "stacks", "comment": "part two"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 470,
+   "line": 474,
    "decl": "Algebra.IsAlgebraic.tower_top"},
   {"refs": [{"id": "09GJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
@@ -1889,7 +1889,7 @@
    "decl": "IsAlgebraic"},
   {"refs": [{"id": "09GF", "db": "stacks", "comment": "part one"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 458,
+   "line": 462,
    "decl": "IsAlgebraic.tower_top"},
   {"refs": [{"id": "00GW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
@@ -2750,7 +2750,7 @@
    "decl": "StandardBorelSpace"},
   {"refs": [{"id": "0BID", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 704,
+   "line": 708,
    "decl": "Subalgebra.isField_of_algebraic"},
   {"refs": [{"id": "09FD", "db": "stacks", "comment": "second part"}],
    "module": "Mathlib.Algebra.Field.Subfield.Defs",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "f25d4267c9bd8a29d94cc146eb845d284ba1d85e"}
+ "commit": "355bc1e0ed1d36e49525121e1a280ca13a058a92"}
