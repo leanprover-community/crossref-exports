@@ -1,4 +1,4 @@
-{"generated": "2026-08-17T00:59:40Z",
+{"generated": "2026-08-17T01:46:21Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -50,12 +50,12 @@
    "decl": "AdicCompletion.pow_smul_top_eq_ker_eval"},
   {"refs": [{"id": "09FX", "db": "stacks", "comment": "second part"}],
    "module": "Mathlib.RingTheory.AdjoinRoot",
-   "line": 134,
+   "line": 139,
    "decl": "AdjoinRoot.instAlgebra"},
   {"refs":
    [{"id": "09FX", "db": "stacks", "comment": "first part, see also 09FI"}],
    "module": "Mathlib.RingTheory.AdjoinRoot",
-   "line": 530,
+   "line": 546,
    "decl": "AdjoinRoot.instField"},
   {"refs": [{"id": "Q53875", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.AffineSpace.AffineSubspace.Basic",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "d0be1efe9afff6119115373bf4ea5abd833b3a95"}
+ "commit": "40437ccf7795bdb5f1edea680ae8a06fb5bd07dc"}
