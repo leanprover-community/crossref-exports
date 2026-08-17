@@ -1,4 +1,4 @@
-{"generated": "2026-08-16T12:09:22Z",
+{"generated": "2026-08-17T00:59:40Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2949,7 +2949,7 @@
    "decl": "card_algHom_le_finrank"},
   {"refs": [{"id": "0901", "db": "stacks", "comment": "quasi-compactness"}],
    "module": "Mathlib.Topology.Spectral.ConstructibleTopology",
-   "line": 93,
+   "line": 92,
    "decl": "compactSpace_withConstructibleTopology"},
   {"refs": [{"id": "00GX", "db": "stacks", "comment": "Part 1"}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
@@ -3238,4 +3238,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "355bc1e0ed1d36e49525121e1a280ca13a058a92"}
+ "commit": "d0be1efe9afff6119115373bf4ea5abd833b3a95"}
