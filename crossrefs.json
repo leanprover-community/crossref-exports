@@ -1,4 +1,4 @@
-{"generated": "2026-08-24T08:37:05Z",
+{"generated": "2026-08-24T11:23:23Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1274,15 +1274,15 @@
      "comment":
      "Note that Stacks calls a category together with a pretopology a site,\nand [MM92] calls this a basis for a topology."}],
    "module": "Mathlib.CategoryTheory.Sites.Pretopology",
-   "line": 64,
+   "line": 65,
    "decl": "CategoryTheory.Pretopology"},
   {"refs": [{"id": "00ZC", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Sites.Pretopology",
-   "line": 112,
+   "line": 113,
    "decl": "CategoryTheory.Pretopology.toGrothendieck"},
   {"refs": [{"id": "07GE", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Sites.Pretopology",
-   "line": 178,
+   "line": 179,
    "decl": "CategoryTheory.Pretopology.trivial"},
   {"refs": [{"id": "0145", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
@@ -3240,4 +3240,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "af5b7e58af96e73a3fb193515261f17ad25989fe"}
+ "commit": "dbb8420388ea9f85c0469a3f77d7180ba624e50a"}
