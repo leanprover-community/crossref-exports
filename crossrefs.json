@@ -1,4 +1,4 @@
-{"generated": "2026-08-23T19:55:20Z",
+{"generated": "2026-08-24T02:08:40Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -701,7 +701,7 @@
    "decl": "AlgebraicGeometry.isAffine_of_isAffineOpen_basicOpen"},
   {"refs": [{"id": "01KM", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Separated",
-   "line": 278,
+   "line": 277,
    "decl": "AlgebraicGeometry.isClosedImmersion_equalizer_ι_left"},
   {"refs": [{"id": "01K9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.QuasiCompact",
@@ -1229,32 +1229,32 @@
    "decl": "CategoryTheory.Presheaf.IsSheaf"},
   {"refs": [{"id": "00VM", "db": "stacks", "comment": "The map `pr₀*` there."}],
    "module": "Mathlib.CategoryTheory.Sites.Sheaf",
-   "line": 628,
+   "line": 627,
    "decl": "CategoryTheory.Presheaf.firstMap"},
   {"refs":
    [{"id": "00VM",
      "db": "stacks",
      "comment": "The middle object of the fork diagram there."}],
    "module": "Mathlib.CategoryTheory.Sites.Sheaf",
-   "line": 607,
+   "line": 606,
    "decl": "CategoryTheory.Presheaf.firstObj"},
   {"refs":
    [{"id": "00VM",
      "db": "stacks",
      "comment": "The left morphism the fork diagram there."}],
    "module": "Mathlib.CategoryTheory.Sites.Sheaf",
-   "line": 613,
+   "line": 612,
    "decl": "CategoryTheory.Presheaf.forkMap"},
   {"refs": [{"id": "00VM", "db": "stacks", "comment": "The map `pr₁*` there."}],
    "module": "Mathlib.CategoryTheory.Sites.Sheaf",
-   "line": 633,
+   "line": 632,
    "decl": "CategoryTheory.Presheaf.secondMap"},
   {"refs":
    [{"id": "00VM",
      "db": "stacks",
      "comment": "The rightmost object of the fork diagram there."}],
    "module": "Mathlib.CategoryTheory.Sites.Sheaf",
-   "line": 622,
+   "line": 621,
    "decl": "CategoryTheory.Presheaf.secondObj"},
   {"refs":
    [{"id": "00VM",
@@ -3240,4 +3240,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "5b1c3618759375e0ef0033d39000b1338e99f133"}
+ "commit": "cf65d43b4f5e1a79482e8c488d121853b9d7ca05"}
