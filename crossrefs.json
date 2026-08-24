@@ -1,4 +1,4 @@
-{"generated": "2026-08-24T07:22:18Z",
+{"generated": "2026-08-24T08:37:05Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3025,7 +3025,7 @@
    "decl": "exists_mem_irreducibleComponents_subset_of_isIrreducible"},
   {"refs": [{"id": "Q189136", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.Calculus.Deriv.MeanValue",
-   "line": 132,
+   "line": 133,
    "decl": "exists_ratio_deriv_eq_ratio_slope"},
   {"refs": [{"id": "09GH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.Basic",
@@ -3240,4 +3240,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "be7cb662114c2bbb700762da85db9fa8836c752b"}
+ "commit": "af5b7e58af96e73a3fb193515261f17ad25989fe"}
