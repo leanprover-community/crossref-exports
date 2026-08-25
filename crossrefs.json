@@ -1,4 +1,4 @@
-{"generated": "2026-08-25T05:07:51Z",
+{"generated": "2026-08-25T17:55:56Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2437,7 +2437,7 @@
    "decl": "Ordinal"},
   {"refs": [{"id": "Q311627", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.Padics.PadicNumbers",
-   "line": 526,
+   "line": 531,
    "decl": "Padic"},
   {"refs": [{"id": "Q43260", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Polynomial.Basic",
@@ -3240,4 +3240,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "61eda68641d0e5dab6e6829b004488a5b3376eba"}
+ "commit": "6a4ae1bc986e14cad435bc101850d12b5b1bf01c"}
