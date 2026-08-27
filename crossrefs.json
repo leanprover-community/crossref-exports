@@ -1,4 +1,4 @@
-{"generated": "2026-08-26T19:30:28Z",
+{"generated": "2026-08-27T08:26:30Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1919,7 +1919,7 @@
    "decl": "IsArtinianRing.setOfPred_isMaximal_finite"},
   {"refs": [{"id": "Q2342396", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.Normed.Operator.BoundedLinearMaps",
-   "line": 82,
+   "line": 83,
    "decl": "IsBoundedLinearMap"},
   {"refs": [{"id": "Q320357", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Basic",
@@ -3240,4 +3240,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "5a71cf863ff2968504547af6b54867f73553cb62"}
+ "commit": "008a61c197c3e2f4bdcc0243eb1821da18f6cfef"}
