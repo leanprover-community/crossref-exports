@@ -2,8 +2,7 @@
 
 Auto-generated cross-reference index for [Mathlib](https://github.com/leanprover-community/mathlib4).
 
-The file [`crossrefs.json`](crossrefs.json) maps every Mathlib declaration tagged with
-`@[wikidata]`, `@[stacks]`, or `@[kerodon]` to its source location and the corresponding
+The file [`crossrefs.json`](crossrefs.json) maps every Mathlib declaration with a `CrossRef.Tag` attribute (e.g. `@[stacks]`) to its source location and the corresponding
 identifiers in those external databases.
 
 ## Redirects
@@ -14,7 +13,7 @@ redirects from an external identifier to the corresponding Mathlib documentation
 - `…/crossref-exports/?db=<db>&id=<id>#doc` → the declaration's documentation page
 - `…/crossref-exports/?db=<db>&id=<id>#src` → the declaration's source location
 
-where `<db>` is `wikidata`, `stacks`, or `kerodon` and `<id>` is the identifier in that
+where `<db>` is the databse (e.g. `stacks`) and `<id>` is the identifier in that
 database — e.g.
 [`?db=wikidata&id=Q83478#doc`](https://leanprover-community.github.io/crossref-exports/?db=wikidata&id=Q83478#doc).
 The `#doc`/`#src` fragment (defaulting to `#doc`) mirrors mathlib4_docs' own
