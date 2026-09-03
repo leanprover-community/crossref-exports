@@ -1,4 +1,4 @@
-{"generated": "2026-09-03T09:14:22Z",
+{"generated": "2026-09-03T17:36:22Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -257,11 +257,11 @@
    "decl": "Algebra.QuasiFinite"},
   {"refs": [{"id": "00PP", "db": "stacks", "comment": "(3)"}],
    "module": "Mathlib.RingTheory.QuasiFinite.Basic",
-   "line": 110,
+   "line": 121,
    "decl": "Algebra.QuasiFinite.baseChange"},
   {"refs": [{"id": "00PO", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.QuasiFinite.Basic",
-   "line": 168,
+   "line": 179,
    "decl": "Algebra.QuasiFinite.trans"},
   {"refs":
    [{"id": "00T2",
@@ -3300,4 +3300,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "7ab51764b84edbbb3ccf4f31260fdb03772e56d7"}
+ "commit": "b7cfa6c53afcef79c5a76ff1941e4b69697e2516"}
