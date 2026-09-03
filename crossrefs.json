@@ -1,4 +1,4 @@
-{"generated": "2026-09-03T17:36:22Z",
+{"generated": "2026-09-03T19:40:32Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3202,7 +3202,7 @@
    "decl": "lift_trdeg_add_eq"},
   {"refs": [{"id": "0CKM", "db": "stacks", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Lemmas",
-   "line": 481,
+   "line": 482,
    "decl": "linearIndependent_algHom_toLinearMap"},
   {"refs": [{"id": "0CKL", "db": "stacks", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Basic",
@@ -3300,4 +3300,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "b7cfa6c53afcef79c5a76ff1941e4b69697e2516"}
+ "commit": "369aeb92f434826041d430d3b015d6ab0006bf72"}
