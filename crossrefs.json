@@ -1,4 +1,4 @@
-{"generated": "2026-09-04T17:21:21Z",
+{"generated": "2026-09-05T14:57:53Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2807,7 +2807,7 @@
    "decl": "SimpleGraph.IsIndepSet"},
   {"refs": [{"id": "Q826467", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Finite",
-   "line": 385,
+   "line": 390,
    "decl": "SimpleGraph.IsRegularOfDegree"},
   {"refs": [{"id": "Q45715", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Basic",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "95707487fc0eeb15830b2bedc06f7a434e076419"}
+ "commit": "4cbb42e75a050e830b7cf0f2ae748d7644f59cf7"}
