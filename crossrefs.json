@@ -1,4 +1,4 @@
-{"generated": "2026-09-07T00:31:14Z",
+{"generated": "2026-09-07T13:35:34Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1775,11 +1775,11 @@
    "decl": "Ideal.exists_eq_mul_of_pure"},
   {"refs": [{"id": "00ON", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.KrullsHeightTheorem",
-   "line": 462,
+   "line": 487,
    "decl": "Ideal.height_eq_height_add_of_liesOver_of_hasGoingDown"},
   {"refs": [{"id": "00OM", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.KrullsHeightTheorem",
-   "line": 425,
+   "line": 450,
    "decl": "Ideal.height_le_height_add_of_liesOver"},
   {"refs": [{"id": "04PS", "db": "stacks", "comment": "(1) => (2)"}],
    "module": "Mathlib.RingTheory.Ideal.Pure",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "71a80585ee495fc24472fd0eaffc89d94e4fd8d6"}
+ "commit": "a120a09d6fbab8b455ec7ef85ec007562f1268da"}
