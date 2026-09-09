@@ -1,4 +1,4 @@
-{"generated": "2026-09-09T10:03:55Z",
+{"generated": "2026-09-09T12:46:10Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3189,7 +3189,7 @@
      "comment":
      "This theorem is stronger than 09HX. It removes the abelian condition, and requires only `≤` instead of `=`."}],
    "module": "Mathlib.GroupTheory.SpecificGroups.Cyclic",
-   "line": 143,
+   "line": 144,
    "decl": "isCyclic_of_card_pow_eq_one_le"},
   {"refs": [{"id": "004W", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.Topology.Irreducible",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "97ac4d32b0b3ac02c149193403aec982153faef5"}
+ "commit": "a4c8ef0a69f52ec80525d5086bb3542f4660faaf"}
