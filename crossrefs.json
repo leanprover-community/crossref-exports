@@ -1,4 +1,4 @@
-{"generated": "2026-09-10T12:18:44Z",
+{"generated": "2026-09-11T05:31:39Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1767,7 +1767,7 @@
    "decl": "Ideal.Quotient.ring"},
   {"refs": [{"id": "00FK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.MinimalPrime.Localization",
-   "line": 109,
+   "line": 110,
    "decl": "Ideal.exists_comap_eq_of_mem_minimalPrimes_of_injective"},
   {"refs": [{"id": "04PS", "db": "stacks", "comment": "(1) => (5)"}],
    "module": "Mathlib.RingTheory.Ideal.Pure",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "a5c1af9396da72739b771223b8d82aa3b3361a63"}
+ "commit": "63ed4eba5d2be3bb2e99bc7158e07f08cd9189ec"}
