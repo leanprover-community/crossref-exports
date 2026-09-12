@@ -1,4 +1,4 @@
-{"generated": "2026-09-11T11:34:43Z",
+{"generated": "2026-09-12T18:49:42Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1490,7 +1490,7 @@
    "decl": "CompHaus.toProfiniteObj"},
   {"refs": [{"id": "Q381892", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Filter",
-   "line": 291,
+   "line": 297,
    "decl": "CompactSpace"},
   {"refs": [{"id": "Q848569", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.UniformSpace.Cauchy",
@@ -2896,7 +2896,7 @@
    "decl": "Subring.exists_le_valuationSubring_of_isIntegrallyClosedIn"},
   {"refs": [{"id": "0B31", "db": "stacks", "comment": "part 1"}],
    "module": "Mathlib.Topology.Separation.Basic",
-   "line": 231,
+   "line": 234,
    "decl": "Subtype.t0Space"},
   {"refs": [{"id": "004X", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.Topology.Separation.Basic",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "9fa639972e2e3f1da0de19925c763056d9bb06fd"}
+ "commit": "7d32461ad224e921eb05ead7ac02156702f4aa59"}
