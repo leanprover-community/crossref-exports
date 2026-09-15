@@ -1,4 +1,4 @@
-{"generated": "2026-09-15T19:23:19Z",
+{"generated": "2026-09-15T20:32:01Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -400,6 +400,10 @@
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 44,
    "decl": "AlgebraicGeometry.AlgebraicCycle"},
+  {"refs": [{"id": "0BE2", "db": "stacks", "comment": ""}],
+   "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
+   "line": 87,
+   "decl": "AlgebraicGeometry.AlgebraicCycle.IsWeilDivisor"},
   {"refs": [{"id": "02R3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 69,
@@ -408,6 +412,10 @@
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 55,
    "decl": "AlgebraicGeometry.AlgebraicCycle.mapCoeff"},
+  {"refs": [{"id": "0BE2", "db": "stacks", "comment": ""}],
+   "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
+   "line": 108,
+   "decl": "AlgebraicGeometry.AlgebraicCycle.weilDivisors"},
   {"refs": [{"id": "02VW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Flat",
    "line": 155,
@@ -3311,4 +3319,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "695d840c1dabb4c98dc38ff1874d51e0d465d6a4"}
+ "commit": "dbc2b2ba8bdecf880fc07bf897333d139ae33843"}
