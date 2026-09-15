@@ -1,4 +1,4 @@
-{"generated": "2026-09-15T17:57:20Z",
+{"generated": "2026-09-15T19:23:19Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2722,7 +2722,7 @@
    "decl": "Ring.ordMonoidWithZeroHom"},
   {"refs": [{"id": "Q1194212", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Ring.Hom.Defs",
-   "line": 297,
+   "line": 309,
    "decl": "RingHom"},
   {"refs": [{"id": "00HB", "db": "stacks", "comment": "Part (4)"}],
    "module": "Mathlib.RingTheory.RingHom.FaithfullyFlat",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "2711714aa268b4ff194d90b04200f1ad858d1df3"}
+ "commit": "695d840c1dabb4c98dc38ff1874d51e0d465d6a4"}
