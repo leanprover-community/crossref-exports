@@ -1,4 +1,4 @@
-{"generated": "2026-09-15T15:51:52Z",
+{"generated": "2026-09-15T17:04:25Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2730,7 +2730,7 @@
    "decl": "RingHom.FaithfullyFlat"},
   {"refs": [{"id": "0563", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Finiteness.Defs",
-   "line": 170,
+   "line": 175,
    "decl": "RingHom.Finite"},
   {"refs": [{"id": "00GK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.Algebra.Basic",
@@ -3311,4 +3311,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "272943809cca261bdcc9366a1af4967180482d51"}
+ "commit": "d96715aca2d66d22f6581569d4cdbe66240c883d"}
