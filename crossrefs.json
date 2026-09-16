@@ -1,4 +1,4 @@
-{"generated": "2026-09-16T15:05:29Z",
+{"generated": "2026-09-16T15:58:39Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -920,15 +920,15 @@
    "decl": "CategoryTheory.Equivalence"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 544,
+   "line": 549,
    "decl": "CategoryTheory.Equivalence.essSurj_functor"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 560,
+   "line": 567,
    "decl": "CategoryTheory.Equivalence.faithful_functor"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 568,
+   "line": 575,
    "decl": "CategoryTheory.Equivalence.full_functor"},
   {"refs":
    [{"id": "001B", "db": "stacks", "comment": ""},
@@ -982,7 +982,7 @@
    "decl": "CategoryTheory.Functor.IsStronglyCocartesian"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 642,
+   "line": 650,
    "decl": "CategoryTheory.Functor.asEquivalence"},
   {"refs":
    [{"id": "00WW",
@@ -3319,4 +3319,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "7fa22735254ddf7e11f119250a9f2d0352bc7c3a"}
+ "commit": "b66661967ea268e870af649362576332daf0b7b1"}
