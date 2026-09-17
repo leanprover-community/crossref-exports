@@ -1,4 +1,4 @@
-{"generated": "2026-09-16T15:58:39Z",
+{"generated": "2026-09-17T19:08:19Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2262,7 +2262,7 @@
    "decl": "MeasureTheory.condExp"},
   {"refs": [{"id": "Q838611", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.MetricSpace.Pseudo.Defs",
-   "line": 370,
+   "line": 371,
    "decl": "Metric.ball"},
   {"refs": [{"id": "Q253214", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.MetricSpace.Bounded",
@@ -3319,4 +3319,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "b66661967ea268e870af649362576332daf0b7b1"}
+ "commit": "44ba35c6daa9d69aff8fed9fff9bbde17ded774d"}
