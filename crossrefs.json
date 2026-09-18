@@ -1,4 +1,4 @@
-{"generated": "2026-09-17T19:08:19Z",
+{"generated": "2026-09-18T11:41:30Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2750,7 +2750,7 @@
    "decl": "RingHom.IsIntegral"},
   {"refs": [{"id": "Q534131", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.RootSystem.Defs",
-   "line": 118,
+   "line": 121,
    "decl": "RootPairing.IsRootSystem"},
   {"refs": [{"id": "Q768074", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.RootSystem.WeylGroup",
@@ -3319,4 +3319,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "44ba35c6daa9d69aff8fed9fff9bbde17ded774d"}
+ "commit": "d5e128a9e91f3ef3955623e33f59959346d89464"}
