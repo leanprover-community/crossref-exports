@@ -1,4 +1,4 @@
-{"generated": "2026-09-18T15:30:21Z",
+{"generated": "2026-09-18T17:02:26Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1739,7 +1739,7 @@
    "decl": "Group"},
   {"refs": [{"id": "Q1755242", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Nilpotent",
-   "line": 249,
+   "line": 238,
    "decl": "Group.IsNilpotent"},
   {"refs": [{"id": "Q759832", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Solvable",
@@ -1896,7 +1896,7 @@
    "decl": "IrreducibleSpace"},
   {"refs": [{"id": "Q245462", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.DivInvMonoid",
-   "line": 196,
+   "line": 188,
    "decl": "IsAddCyclic"},
   {"refs":
    [{"id": "0317",
@@ -1986,7 +1986,7 @@
    "decl": "IsCoprime"},
   {"refs": [{"id": "Q245462", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.DivInvMonoid",
-   "line": 201,
+   "line": 193,
    "decl": "IsCyclic"},
   {"refs": [{"id": "0AUW", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Flat.TorsionFree",
@@ -3319,4 +3319,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "1f22924fd517103a8ba25a3b499edc45bea44473"}
+ "commit": "94ef6b89544e58e90f119da869f3fb48d1da0f4c"}
