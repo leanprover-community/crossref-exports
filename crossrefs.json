@@ -1,4 +1,4 @@
-{"generated": "2026-09-18T17:02:26Z",
+{"generated": "2026-09-19T15:20:43Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -779,6 +779,18 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.Defs",
    "line": 54,
    "decl": "AlgebraicIndependent"},
+  {"refs": [{"id": "Q96373820", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Topology.Bornology.Basic",
+   "line": 52,
+   "decl": "Bornology"},
+  {"refs": [{"id": "Q726212", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Topology.Bornology.Basic",
+   "line": 101,
+   "decl": "Bornology.IsBounded"},
+  {"refs": [{"id": "Q17003677", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Analysis.LocallyConvex.Bounded",
+   "line": 65,
+   "decl": "Bornology.IsVonNBounded"},
   {"refs": [{"id": "Q163875", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.SetTheory.Cardinal.Defs",
    "line": 82,
@@ -3319,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "94ef6b89544e58e90f119da869f3fb48d1da0f4c"}
+ "commit": "c58b47adb340faa641e363aef2a460dc534bf172"}
