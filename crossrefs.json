@@ -1,4 +1,4 @@
-{"generated": "2026-09-21T11:17:23Z",
+{"generated": "2026-09-21T11:49:58Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2843,7 +2843,7 @@
    "decl": "StandardBorelSpace"},
   {"refs": [{"id": "0BID", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 708,
+   "line": 663,
    "decl": "Subalgebra.isField_of_algebraic"},
   {"refs": [{"id": "09FD", "db": "stacks", "comment": "second part"}],
    "module": "Mathlib.Algebra.Field.Subfield.Defs",
@@ -3331,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "adb0561476e86583cf3a0aea7bef0ea38746ebfe"}
+ "commit": "6747d2913d65849513c7299517ffea33fe85ebe6"}
