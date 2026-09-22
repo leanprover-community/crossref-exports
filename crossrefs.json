@@ -1,4 +1,4 @@
-{"generated": "2026-09-22T08:23:17Z",
+{"generated": "2026-09-22T12:04:39Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1751,7 +1751,7 @@
    "decl": "Group"},
   {"refs": [{"id": "Q1755242", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Nilpotent",
-   "line": 238,
+   "line": 240,
    "decl": "Group.IsNilpotent"},
   {"refs": [{"id": "Q759832", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Solvable",
@@ -3331,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "7d680cae12f9b5faa39620cadaa2e4cc106f1e44"}
+ "commit": "338b8c00bd151fa07a0350cc17442e6eeda734e8"}
