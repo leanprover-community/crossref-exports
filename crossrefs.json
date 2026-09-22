@@ -1,4 +1,4 @@
-{"generated": "2026-09-22T14:11:31Z",
+{"generated": "2026-09-22T14:56:26Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -63,7 +63,7 @@
    "decl": "AffineSubspace.Parallel"},
   {"refs": [{"id": "09HR", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Algebra.Algebra.Equiv",
-   "line": 649,
+   "line": 655,
    "decl": "AlgEquiv.aut"},
   {"refs": [{"id": "0BME", "db": "stacks", "comment": "Part 2"}],
    "module": "Mathlib.FieldTheory.Normal.Basic",
@@ -3331,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "5837ec1dd7451883d4bbcaa3abf595246df86247"}
+ "commit": "a379806ddbf57feba84e3ff71c447e372de85c9d"}
