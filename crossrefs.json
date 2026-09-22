@@ -1,4 +1,4 @@
-{"generated": "2026-09-22T00:10:12Z",
+{"generated": "2026-09-22T08:23:17Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -55,7 +55,7 @@
   {"refs":
    [{"id": "09FX", "db": "stacks", "comment": "first part, see also 09FI"}],
    "module": "Mathlib.RingTheory.AdjoinRoot",
-   "line": 620,
+   "line": 622,
    "decl": "AdjoinRoot.instField"},
   {"refs": [{"id": "Q53875", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.AffineSpace.AffineSubspace.Basic",
@@ -2186,7 +2186,7 @@
    "decl": "JacobsonSpace"},
   {"refs": [{"id": "Q837924", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.BilinearMap",
-   "line": 528,
+   "line": 531,
    "decl": "LinearMap.BilinForm"},
   {"refs": [{"id": "Q190546", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.SesquilinearForm.Basic",
@@ -3331,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "4f617dc79814545319ab8a5aadd3641dc1c7dede"}
+ "commit": "7d680cae12f9b5faa39620cadaa2e4cc106f1e44"}
