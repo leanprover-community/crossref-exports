@@ -1,4 +1,4 @@
-{"generated": "2026-09-22T12:04:39Z",
+{"generated": "2026-09-22T14:11:31Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -38,7 +38,7 @@
    "decl": "AddSubgroup.card_addSubgroup_dvd_card"},
   {"refs": [{"id": "Q1464168", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Index",
-   "line": 55,
+   "line": 56,
    "decl": "AddSubgroup.index"},
   {"refs": [{"id": "05GG", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.RingTheory.AdicCompletion.Completeness",
@@ -2867,7 +2867,7 @@
    "decl": "Subgroup.closure_mul_image_eq"},
   {"refs": [{"id": "Q1464168", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Index",
-   "line": 57,
+   "line": 58,
    "decl": "Subgroup.index"},
   {"refs": [{"id": "Q44382", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Span.Defs",
@@ -3331,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "338b8c00bd151fa07a0350cc17442e6eeda734e8"}
+ "commit": "5837ec1dd7451883d4bbcaa3abf595246df86247"}
