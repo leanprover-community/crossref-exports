@@ -1,4 +1,4 @@
-{"generated": "2026-09-22T14:56:26Z",
+{"generated": "2026-09-24T16:52:29Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2700,7 +2700,7 @@
    "decl": "Rat.instCharZero"},
   {"refs": [{"id": "09FK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.RatFunc.Basic",
-   "line": 478,
+   "line": 474,
    "decl": "RatFunc.instField"},
   {"refs":
    [{"id": "Q12916", "db": "wikidata", "comment": ""},
@@ -3331,4 +3331,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "a379806ddbf57feba84e3ff71c447e372de85c9d"}
+ "commit": "bd6c1abe5f55b6c3856172d6a23703e0888f5286"}
