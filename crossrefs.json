@@ -1,4 +1,4 @@
-{"generated": "2026-09-26T09:43:14Z",
+{"generated": "2026-09-26T10:29:07Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1715,7 +1715,7 @@
      "db": "stacks",
      "comment": "First part. We don't require `p` to be a prime in mathlib."}],
    "module": "Mathlib.Algebra.CharP.Basic",
-   "line": 196,
+   "line": 195,
    "decl": "Fin.charP"},
   {"refs": [{"id": "09HY", "db": "stacks", "comment": "first part"}],
    "module": "Mathlib.FieldTheory.Finite.Basic",
@@ -3335,4 +3335,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "8de4fb727265e0653bf04ad2c363ffb1ba07f6aa"}
+ "commit": "a98628e16c11f5167f16124105ddce53efa9bfe5"}
