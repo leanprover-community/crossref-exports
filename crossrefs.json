@@ -1,4 +1,4 @@
-{"generated": "2026-09-25T18:31:25Z",
+{"generated": "2026-09-26T09:43:14Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1823,7 +1823,7 @@
    "decl": "Ideal.quotientInfRingEquivPiQuotient"},
   {"refs": [{"id": "00DS", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Operations",
-   "line": 1164,
+   "line": 1165,
    "decl": "Ideal.subset_union_prime"},
   {"refs": [{"id": "04PT", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Pure",
@@ -3335,4 +3335,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "d11a0f468e80dbefaf47a5d477f273085560665a"}
+ "commit": "8de4fb727265e0653bf04ad2c363ffb1ba07f6aa"}
