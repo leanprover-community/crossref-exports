@@ -1,4 +1,4 @@
-{"generated": "2026-09-26T11:38:32Z",
+{"generated": "2026-09-26T20:08:11Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -336,7 +336,7 @@
    "decl": "Algebra.ZariskisMainProperty.of_finiteType_of_weaklyQuasiFiniteAt"},
   {"refs": [{"id": "00UH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.UniversalFactorizationRing",
-   "line": 686,
+   "line": 690,
    "decl":
    "Algebra.exists_etale_bijective_residueFieldMap_and_map_eq_mul_and_isCoprime"},
   {"refs": [{"id": "00UL", "db": "stacks", "comment": ""}],
@@ -532,7 +532,7 @@
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Finite",
    "line": 209,
    "decl":
-   "AlgebraicGeometry.Scheme.Hom.closePoints_subset_preimage_closedPoints"},
+   "AlgebraicGeometry.Scheme.Hom.closedPoints_subset_preimage_closedPoints"},
   {"refs": [{"id": "03GW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
    "line": 206,
@@ -732,7 +732,7 @@
    "decl": "AlgebraicGeometry.isClosedMap_iff_specializingMap"},
   {"refs": [{"id": "01TB", "db": "stacks", "comment": "(1) => (2)"}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Finite",
-   "line": 221,
+   "line": 225,
    "decl": "AlgebraicGeometry.isClosed_singleton_iff_locallyOfFiniteType"},
   {"refs": [{"id": "0BFD", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Group.Abelian",
@@ -3335,4 +3335,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "8accc04827c389e678c3ef83e623b402e7480394"}
+ "commit": "516d31250e96c4e8e76888c3d8e2e43a9642b9ee"}
