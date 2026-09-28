@@ -1,4 +1,4 @@
-{"generated": "2026-09-28T02:51:52Z",
+{"generated": "2026-09-28T20:00:30Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -396,11 +396,14 @@
    "module": "Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure",
    "line": 127,
    "decl": "AlgebraicClosure"},
-  {"refs": [{"id": "02QR", "db": "stacks", "comment": ""}],
+  {"refs": [{"id": "02QR", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 44,
    "decl": "AlgebraicGeometry.AlgebraicCycle"},
-  {"refs": [{"id": "0BE2", "db": "stacks", "comment": ""}],
+  {"refs":
+   [{"id": "0BE2",
+     "db": "stacks",
+     "comment": "(2), as a predicate on algebraic cycles."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 143,
    "decl": "AlgebraicGeometry.AlgebraicCycle.IsWeilDivisor"},
@@ -408,15 +411,23 @@
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 95,
    "decl": "AlgebraicGeometry.AlgebraicCycle.degree"},
-  {"refs": [{"id": "02R3", "db": "stacks", "comment": ""}],
+  {"refs":
+   [{"id": "02R4",
+     "db": "stacks",
+     "comment":
+     "(2) with arbitrary weight function instead of `δ`-dimension."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 69,
    "decl": "AlgebraicGeometry.AlgebraicCycle.map"},
-  {"refs": [{"id": "02R3", "db": "stacks", "comment": ""}],
+  {"refs":
+   [{"id": "02R4",
+     "db": "stacks",
+     "comment": "The multiplicity appearing in (1)."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 55,
    "decl": "AlgebraicGeometry.AlgebraicCycle.mapCoeff"},
-  {"refs": [{"id": "0BE2", "db": "stacks", "comment": ""}],
+  {"refs":
+   [{"id": "0BE2", "db": "stacks", "comment": "The group Div(X) of (2)."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
    "line": 164,
    "decl": "AlgebraicGeometry.AlgebraicCycle.weilDivisors"},
@@ -3335,4 +3346,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c0da404748dcfaa230e6ad5f6599771d01e7ae56"}
+ "commit": "c9c3e445b2e0c347ab2d464b00c7743791b124db"}
