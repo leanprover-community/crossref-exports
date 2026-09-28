@@ -1,4 +1,4 @@
-{"generated": "2026-09-28T02:28:29Z",
+{"generated": "2026-09-28T02:51:52Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1208,7 +1208,7 @@
    "decl": "CategoryTheory.ObjectProperty.IsStrongTriangulatedGenerator"},
   {"refs": [{"id": "02MS", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Abelian.SerreClass.Localization",
-   "line": 417,
+   "line": 415,
    "decl": "CategoryTheory.ObjectProperty.SerreClassLocalization.abelian"},
   {"refs": [{"id": "0FX1", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
@@ -3335,4 +3335,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "ec6a61cec0d8f9fda04453e9bb5761a79aa43a70"}
+ "commit": "c0da404748dcfaa230e6ad5f6599771d01e7ae56"}
