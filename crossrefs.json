@@ -1,4 +1,4 @@
-{"generated": "2026-09-29T00:23:03Z",
+{"generated": "2026-09-29T15:48:42Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3065,7 +3065,7 @@
    "decl": "completeIntegralClosure"},
   {"refs": [{"id": "Q1052678", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Baire.Lemmas",
-   "line": 141,
+   "line": 169,
    "decl": "dense_iInter_of_isOpen"},
   {"refs": [{"id": "00J9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Idempotents",
@@ -3346,4 +3346,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "3f6737de4761ec7bf368491fe9faccc991ebd6ca"}
+ "commit": "ae6f1eeba63041889d82d9ed777b263435ca3424"}
