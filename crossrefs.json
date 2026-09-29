@@ -1,4 +1,4 @@
-{"generated": "2026-09-29T15:48:42Z",
+{"generated": "2026-09-29T21:33:04Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -621,6 +621,15 @@
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
    "line": 977,
    "decl": "AlgebraicGeometry.Scheme.exists_isQuasiAffine_of_isLimit"},
+  {"refs":
+   [{"id": "023Q",
+     "db": "stacks",
+     "comment":
+     "Effective epimorphism part, for the fpqc covering by a single morphism."}],
+   "module": "Mathlib.AlgebraicGeometry.Sites.Fpqc",
+   "line": 115,
+   "decl":
+   "AlgebraicGeometry.Scheme.instEffectiveEpiOfQuasiCompactOfSurjectiveOfFlat"},
   {"refs": [{"id": "01Z2", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
    "line": 45,
@@ -754,10 +763,6 @@
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyOpen",
    "line": 105,
    "decl": "AlgebraicGeometry.isOpenMap_of_generalizingMap"},
-  {"refs": [{"id": "023Q", "db": "stacks", "comment": ""}],
-   "module": "Mathlib.AlgebraicGeometry.EffectiveEpi",
-   "line": 120,
-   "decl": "AlgebraicGeometry.isRegularEpi_of_flat_of_surjective_of_isAffine"},
   {"refs": [{"id": "0DVA", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Separated",
    "line": 222,
@@ -1525,7 +1530,7 @@
    "decl": "CompHaus.toProfiniteObj"},
   {"refs": [{"id": "Q381892", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Filter",
-   "line": 296,
+   "line": 297,
    "decl": "CompactSpace"},
   {"refs": [{"id": "Q848569", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.UniformSpace.Cauchy",
@@ -3346,4 +3351,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "ae6f1eeba63041889d82d9ed777b263435ca3424"}
+ "commit": "5b00c8608587c45d718c6148fc5df558afcc7b41"}
