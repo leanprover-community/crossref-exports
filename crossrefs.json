@@ -1,4 +1,4 @@
-{"generated": "2026-09-29T21:33:04Z",
+{"generated": "2026-09-30T01:07:29Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -799,6 +799,14 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.Defs",
    "line": 54,
    "decl": "AlgebraicIndependent"},
+  {"refs": [{"id": "Q1052678", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Topology.Baire.CompleteMetrizable",
+   "line": 26,
+   "decl": "BaireSpace.of_completelyPseudoMetrizable"},
+  {"refs": [{"id": "Q1052678", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Topology.Baire.LocallyCompactRegular",
+   "line": 24,
+   "decl": "BaireSpace.of_t2Space_locallyCompactSpace"},
   {"refs": [{"id": "Q96373820", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Bornology.Basic",
    "line": 52,
@@ -3068,10 +3076,6 @@
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
    "line": 31,
    "decl": "completeIntegralClosure"},
-  {"refs": [{"id": "Q1052678", "db": "wikidata", "comment": ""}],
-   "module": "Mathlib.Topology.Baire.Lemmas",
-   "line": 169,
-   "decl": "dense_iInter_of_isOpen"},
   {"refs": [{"id": "00J9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Idempotents",
    "line": 374,
@@ -3351,4 +3355,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "5b00c8608587c45d718c6148fc5df558afcc7b41"}
+ "commit": "58554a33d40f0f4c33fd0256dfecbc5b706480a3"}
