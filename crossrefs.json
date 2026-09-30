@@ -1,4 +1,4 @@
-{"generated": "2026-09-30T02:33:00Z",
+{"generated": "2026-09-30T07:53:23Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1538,7 +1538,7 @@
    "decl": "CompHaus.toProfiniteObj"},
   {"refs": [{"id": "Q381892", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Filter",
-   "line": 297,
+   "line": 298,
    "decl": "CompactSpace"},
   {"refs": [{"id": "Q848569", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.UniformSpace.Cauchy",
@@ -3375,4 +3375,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "380f2aafb622cb2c1c93dac545b6389083c68c51"}
+ "commit": "728a93eeff833da3173895bb0575752fdc24edb0"}
