@@ -1,4 +1,4 @@
-{"generated": "2026-09-30T01:07:29Z",
+{"generated": "2026-09-30T01:50:51Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1879,11 +1879,11 @@
    "decl": "IntermediateField.adjoin"},
   {"refs": [{"id": "09GN", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
-   "line": 490,
+   "line": 495,
    "decl": "IntermediateField.adjoin.finrank"},
   {"refs": [{"id": "09G1", "db": "stacks", "comment": "Algebraic case"}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
-   "line": 418,
+   "line": 423,
    "decl": "IntermediateField.adjoinRootEquivAdjoin"},
   {"refs":
    [{"id": "09GQ",
@@ -3355,4 +3355,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "58554a33d40f0f4c33fd0256dfecbc5b706480a3"}
+ "commit": "a79b0d211ae2978372e1408be7162e0710f589da"}
