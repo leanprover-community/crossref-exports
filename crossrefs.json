@@ -1,4 +1,4 @@
-{"generated": "2026-09-30T18:01:20Z",
+{"generated": "2026-10-01T14:11:41Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1002,7 +1002,7 @@
    "decl": "CategoryTheory.Functor.Full"},
   {"refs": [{"id": "04E7", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 706,
+   "line": 702,
    "decl": "CategoryTheory.Functor.Initial.limitIso"},
   {"refs": [{"id": "001Q", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Yoneda",
@@ -3375,4 +3375,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "0db6cb99b412983de54b59ecc1b0b2747542cda3"}
+ "commit": "c870b3f0fb33f70df81ea610a193412bab6c6ed3"}
