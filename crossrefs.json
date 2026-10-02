@@ -1,4 +1,4 @@
-{"generated": "2026-10-01T14:11:41Z",
+{"generated": "2026-10-02T10:36:51Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1678,11 +1678,11 @@
    "decl": "EuclideanHalfSpace"},
   {"refs": [{"id": "Q17295", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.InnerProductSpace.PiL2",
-   "line": 111,
+   "line": 113,
    "decl": "EuclideanSpace"},
   {"refs": [{"id": "Q847073", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.InnerProductSpace.PiL2",
-   "line": 158,
+   "line": 177,
    "decl": "EuclideanSpace.dist_eq"},
   {"refs": [{"id": "09FD", "db": "stacks", "comment": "first part"}],
    "module": "Mathlib.Algebra.Field.Defs",
@@ -3375,4 +3375,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c870b3f0fb33f70df81ea610a193412bab6c6ed3"}
+ "commit": "97b8c4425c99103e6bfba90324c1f547d2113edd"}
