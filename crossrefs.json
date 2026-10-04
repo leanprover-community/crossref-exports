@@ -1,4 +1,4 @@
-{"generated": "2026-10-03T15:56:08Z",
+{"generated": "2026-10-04T07:43:22Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -899,7 +899,7 @@
    "decl": "CategoryTheory.Comma"},
   {"refs": [{"id": "003B", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Category.Basic",
-   "line": 321,
+   "line": 316,
    "decl": "CategoryTheory.Epi"},
   {"refs":
    [{"id": "00VM",
@@ -960,15 +960,15 @@
    "decl": "CategoryTheory.Equivalence"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 537,
+   "line": 526,
    "decl": "CategoryTheory.Equivalence.essSurj_functor"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 555,
+   "line": 544,
    "decl": "CategoryTheory.Equivalence.faithful_functor"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 563,
+   "line": 552,
    "decl": "CategoryTheory.Equivalence.full_functor"},
   {"refs":
    [{"id": "001B", "db": "stacks", "comment": ""},
@@ -1022,7 +1022,7 @@
    "decl": "CategoryTheory.Functor.IsStronglyCocartesian"},
   {"refs": [{"id": "02C3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Equivalence",
-   "line": 638,
+   "line": 627,
    "decl": "CategoryTheory.Functor.asEquivalence"},
   {"refs":
    [{"id": "00WW",
@@ -1170,7 +1170,7 @@
    "decl": "CategoryTheory.Limits.has_limits_of_hasEqualizers_and_products"},
   {"refs": [{"id": "003B", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Category.Basic",
-   "line": 328,
+   "line": 323,
    "decl": "CategoryTheory.Mono"},
   {"refs":
    [{"id": "0FFK", "db": "stacks", "comment": ""},
@@ -1466,7 +1466,7 @@
    "decl": "CategoryTheory.coyonedaLemma"},
   {"refs": [{"id": "001A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Discrete.Basic",
-   "line": 100,
+   "line": 95,
    "decl": "CategoryTheory.discreteCategory"},
   {"refs": [{"id": "003C", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
@@ -3403,4 +3403,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "27d9c951fe5d4ae2ae329fa6f6253cd8f8162e53"}
+ "commit": "aaf410c71d42d5dc083c7735e47f56443afca3c0"}
