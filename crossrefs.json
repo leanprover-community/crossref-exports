@@ -1,4 +1,4 @@
-{"generated": "2026-10-04T07:43:22Z",
+{"generated": "2026-10-04T10:55:42Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1271,7 +1271,7 @@
   {"refs":
    [{"id": "0BN4", "db": "stacks", "comment": "Essential surjectivity part"}],
    "module": "Mathlib.CategoryTheory.Galois.EssSurj",
-   "line": 266,
+   "line": 268,
    "decl": "CategoryTheory.PreGaloisCategory.exists_lift_of_continuous"},
   {"refs": [{"id": "0BN4", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Galois.Equivalence",
@@ -1426,7 +1426,7 @@
      "comment":
      "We do not characterize when the functor is full or faithful."}],
    "module": "Mathlib.CategoryTheory.SingleObj",
-   "line": 112,
+   "line": 115,
    "decl": "CategoryTheory.SingleObj.mapHom"},
   {"refs": [{"id": "008H", "db": "kerodon", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Bicategory.Functor.StrictPseudofunctor",
@@ -3403,4 +3403,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "aaf410c71d42d5dc083c7735e47f56443afca3c0"}
+ "commit": "8f6473b13e622d034df33c93c23df8ff9097603b"}
