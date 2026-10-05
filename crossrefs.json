@@ -1,4 +1,4 @@
-{"generated": "2026-10-04T16:23:47Z",
+{"generated": "2026-10-05T04:03:16Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3166,7 +3166,7 @@
    "decl": "exists_extension_norm_eq"},
   {"refs": [{"id": "00OW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.NoetherNormalization",
-   "line": 274,
+   "line": 276,
    "decl": "exists_integral_inj_algHom_of_fg"},
   {"refs": [{"id": "00PV", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "a2193047710236a8a8f80a9f70d45070675817c0"}
+ "commit": "7d6757bc18680044fc0ff6efc8ee20494b408556"}
