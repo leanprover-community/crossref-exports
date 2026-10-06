@@ -1,4 +1,4 @@
-{"generated": "2026-10-05T09:23:43Z",
+{"generated": "2026-10-06T13:01:22Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -238,7 +238,7 @@
    "decl": "Algebra.IsSeparable"},
   {"refs": [{"id": "09HB", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 835,
+   "line": 837,
    "decl": "Algebra.IsSeparable.trans"},
   {"refs": [{"id": "030O", "db": "stacks", "comment": "Part 1"}],
    "module": "Mathlib.FieldTheory.TranscendentalSeparable",
@@ -1722,7 +1722,7 @@
   {"refs":
    [{"id": "09HA", "db": "stacks", "comment": "The equality condition"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 774,
+   "line": 776,
    "decl": "Field.finSepDegree_eq_finrank_iff"},
   {"refs":
    [{"id": "09HJ",
@@ -1733,7 +1733,7 @@
    "decl": "Field.finSepDegree_eq_of_isAlgClosed"},
   {"refs": [{"id": "09HA", "db": "stacks", "comment": "The inequality"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 743,
+   "line": 744,
    "decl": "Field.finSepDegree_le_finrank"},
   {"refs":
    [{"id": "09HK",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "9194f400a4ef67d0c14c98e0cf300cc9f289048e"}
+ "commit": "eb681fbdc4a4f09fe5385666cc194b335df59611"}
