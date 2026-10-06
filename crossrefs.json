@@ -1,4 +1,4 @@
-{"generated": "2026-10-06T17:48:34Z",
+{"generated": "2026-10-06T22:12:47Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1033,7 +1033,7 @@
      "db": "stacks",
      "comment": "This is basically this Stacks entry."}],
    "module": "Mathlib.CategoryTheory.Sites.CoverPreserving",
-   "line": 159,
+   "line": 157,
    "decl": "CategoryTheory.Functor.isContinuous_of_coverPreserving"},
   {"refs":
    [{"id": "00Z4", "db": "stacks", "comment": ""},
@@ -1710,7 +1710,7 @@
      "db": "stacks",
      "comment": "Part 2, `finInsepDegree` variant"}],
    "module": "Mathlib.FieldTheory.PurelyInseparable.Tower",
-   "line": 208,
+   "line": 206,
    "decl": "Field.finInsepDegree_mul_finInsepDegree_of_isAlgebraic"},
   {"refs":
    [{"id": "09HJ",
@@ -1748,7 +1748,7 @@
    "decl": "Field.insepDegree"},
   {"refs": [{"id": "09HK", "db": "stacks", "comment": "Part 2"}],
    "module": "Mathlib.FieldTheory.PurelyInseparable.Tower",
-   "line": 200,
+   "line": 198,
    "decl": "Field.insepDegree_mul_insepDegree_of_isAlgebraic"},
   {"refs": [{"id": "030L", "db": "stacks", "comment": "Part 1"}],
    "module": "Mathlib.FieldTheory.SeparableClosure",
@@ -1756,7 +1756,7 @@
    "decl": "Field.sepDegree"},
   {"refs": [{"id": "09HK", "db": "stacks", "comment": "Part 1"}],
    "module": "Mathlib.FieldTheory.PurelyInseparable.Tower",
-   "line": 185,
+   "line": 183,
    "decl": "Field.sepDegree_mul_sepDegree_of_isAlgebraic"},
   {"refs":
    [{"id": "09FS",
@@ -2763,7 +2763,7 @@
    "decl": "ProbabilityTheory.poissonMeasure"},
   {"refs": [{"id": "Q190391", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Probability.CentralLimitTheorem",
-   "line": 124,
+   "line": 122,
    "decl": "ProbabilityTheory.tendstoInDistribution_inv_sqrt_mul_sum_sub"},
   {"refs": [{"id": "Q175199", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Probability.Moments.Variance",
@@ -3032,7 +3032,7 @@
      "comment":
      "In fact we prove a stronger version with arbitrary target category."}],
    "module": "Mathlib.Topology.Sheaves.Forget",
-   "line": 50,
+   "line": 48,
    "decl": "TopCat.Presheaf.isSheaf_iff_isSheaf_comp'"},
   {"refs": [{"id": "0052", "db": "stacks", "comment": "(3)"}],
    "module": "Mathlib.Topology.NoetherianSpace",
@@ -3329,7 +3329,7 @@
    "decl": "linearIndependent_algHom_toLinearMap"},
   {"refs": [{"id": "0CKL", "db": "stacks", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Basic",
-   "line": 512,
+   "line": 510,
    "decl": "linearIndependent_monoidHom"},
   {"refs": [{"id": "Q1138992", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.LucasLehmer",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "9d71a82b0d6bc65325856881a91b478ae2b461b3"}
+ "commit": "75b4d103affe3eaf51d9ec2f7cee67c25dee6f51"}
