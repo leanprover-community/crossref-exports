@@ -1,4 +1,4 @@
-{"generated": "2026-10-06T13:01:22Z",
+{"generated": "2026-10-06T17:48:34Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2125,7 +2125,7 @@
    "decl": "IsIrreducible"},
   {"refs": [{"id": "0379", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Topology.Irreducible",
-   "line": 225,
+   "line": 224,
    "decl": "IsIrreducible.image"},
   {"refs": [{"id": "Q1142704", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.RingTheory.LocalRing.Defs",
@@ -2174,7 +2174,7 @@
    "IsOpenMap.enatCard_connectedComponents_le_encard_preimage_singleton"},
   {"refs": [{"id": "004Z", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Topology.Irreducible",
-   "line": 410,
+   "line": 409,
    "decl": "IsPreirreducible.preimage_of_dense_isPreirreducible_fiber"},
   {"refs": [{"id": "Q1667469", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.IsPrimePow",
@@ -2302,7 +2302,7 @@
    "decl": "Matrix.IsSymm"},
   {"refs": [{"id": "Q849705", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Charpoly.Basic",
-   "line": 133,
+   "line": 140,
    "decl": "Matrix.charpoly"},
   {"refs": [{"id": "Q178546", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Determinant.Basic",
@@ -3277,7 +3277,7 @@
    "decl": "irreducibleComponents"},
   {"refs": [{"id": "037A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Topology.Irreducible",
-   "line": 502,
+   "line": 501,
    "decl": "irreducibleComponentsEquivOfIsPreirreducibleFiber"},
   {"refs":
    [{"id": "00JB",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "eb681fbdc4a4f09fe5385666cc194b335df59611"}
+ "commit": "9d71a82b0d6bc65325856881a91b478ae2b461b3"}
