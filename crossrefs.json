@@ -1,4 +1,4 @@
-{"generated": "2026-10-08T13:38:08Z",
+{"generated": "2026-10-08T14:30:14Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1621,7 +1621,7 @@
      "db": "stacks",
      "comment": "The Stacks entry proves profiniteness."}],
    "module": "Mathlib.Topology.Separation.Regular",
-   "line": 811,
+   "line": 847,
    "decl": "ConnectedComponents.t2"},
   {"refs": [{"id": "Q1491995", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Connected.Basic",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "257ed010f3d30d9f9b6ad7c97bf59a28bf64fbe1"}
+ "commit": "d1a28f4132a183f8dc05f46156e603fd326858e7"}
