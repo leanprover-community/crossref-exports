@@ -1,4 +1,4 @@
-{"generated": "2026-10-08T15:03:17Z",
+{"generated": "2026-10-08T18:35:30Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1122,12 +1122,12 @@
   {"refs": [{"id": "04AP", "db": "stacks", "comment": ""}],
    "module":
    "Mathlib.CategoryTheory.Limits.Shapes.BinaryProducts.BinaryProducts",
-   "line": 406,
+   "line": 260,
    "decl": "CategoryTheory.Limits.HasBinaryCoproducts"},
   {"refs": [{"id": "001T", "db": "stacks", "comment": ""}],
    "module":
    "Mathlib.CategoryTheory.Limits.Shapes.BinaryProducts.BinaryProducts",
-   "line": 400,
+   "line": 254,
    "decl": "CategoryTheory.Limits.HasBinaryProducts"},
   {"refs": [{"id": "001W", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Shapes.Pullback.HasPullback",
@@ -1470,7 +1470,7 @@
    "decl": "CategoryTheory.coyonedaLemma"},
   {"refs": [{"id": "001A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Discrete.Basic",
-   "line": 95,
+   "line": 96,
    "decl": "CategoryTheory.discreteCategory"},
   {"refs": [{"id": "003C", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "1d9647a730128730a27c3801fe37b095e3d3ed10"}
+ "commit": "1b3c41969602424bd2f04b3d4f731734e5b00cde"}
