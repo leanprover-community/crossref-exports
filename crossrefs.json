@@ -1,4 +1,4 @@
-{"generated": "2026-10-08T18:35:30Z",
+{"generated": "2026-10-09T07:33:02Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1629,7 +1629,7 @@
    "decl": "ConnectedSpace"},
   {"refs": [{"id": "Q170058", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Basic",
-   "line": 154,
+   "line": 153,
    "decl": "Continuous"},
   {"refs": [{"id": "Q1509647", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.InnerProductSpace.Adjoint",
@@ -2046,7 +2046,7 @@
    "decl": "IsBoundedLinearMap"},
   {"refs": [{"id": "Q320357", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Basic",
-   "line": 106,
+   "line": 105,
    "decl": "IsClosed"},
   {"refs": [{"id": "Q1780743", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.Normed.Operator.Compact.Basic",
@@ -2165,7 +2165,7 @@
    "decl": "IsNormalClosure"},
   {"refs": [{"id": "Q213363", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Basic",
-   "line": 94,
+   "line": 93,
    "decl": "IsOpen"},
   {"refs": [{"id": "07VB", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Topology.Connected.CardComponents",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "1b3c41969602424bd2f04b3d4f731734e5b00cde"}
+ "commit": "29c53517cf8e316f02ecadf525b142c15f8eb386"}
