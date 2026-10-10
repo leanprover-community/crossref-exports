@@ -1,4 +1,4 @@
-{"generated": "2026-10-10T12:35:03Z",
+{"generated": "2026-10-10T13:21:32Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -497,7 +497,7 @@
    "decl": "AlgebraicGeometry.Proj.instIsSeparated"},
   {"refs": [{"id": "01MF", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 318,
+   "line": 317,
    "decl": "AlgebraicGeometry.Proj.valuativeCriterion_existence"},
   {"refs": [{"id": "01MF", "db": "stacks", "comment": "algebraic part"}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
@@ -2592,7 +2592,7 @@
    "decl": "Ordinal"},
   {"refs": [{"id": "Q311627", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.Padics.PadicNumbers",
-   "line": 532,
+   "line": 534,
    "decl": "Padic"},
   {"refs": [{"id": "Q43260", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Polynomial.Basic",
@@ -2600,11 +2600,11 @@
    "decl": "Polynomial"},
   {"refs": [{"id": "18.9.E21", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.Chebyshev",
-   "line": 848,
+   "line": 847,
    "decl": "Polynomial.Chebyshev.T_derivative_eq_U"},
   {"refs": [{"id": "18.18.E21", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.Chebyshev",
-   "line": 1081,
+   "line": 1080,
    "decl": "Polynomial.Chebyshev.T_mul_T"},
   {"refs": [{"id": "18.5.E1", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.Analysis.SpecialFunctions.Trigonometric.Chebyshev.Basic",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "8b63df8c674fbf871c5ae06e00ea31104142c095"}
+ "commit": "ef8bbff1efc767c2d2cd6886e11f58f11e203dca"}
