@@ -1,4 +1,4 @@
-{"generated": "2026-10-10T10:09:01Z",
+{"generated": "2026-10-10T12:35:03Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3212,7 +3212,7 @@
    "decl": "exists_ratio_deriv_eq_ratio_slope"},
   {"refs": [{"id": "09GH", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.Basic",
-   "line": 212,
+   "line": 220,
    "decl": "fg_adjoin_of_finite"},
   {"refs": [{"id": "00IS", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Adjoin.Tower",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "f67688455d8e8489315a50db5c7609dd5bef6e61"}
+ "commit": "8b63df8c674fbf871c5ae06e00ea31104142c095"}
