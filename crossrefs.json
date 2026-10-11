@@ -1,4 +1,4 @@
-{"generated": "2026-10-10T13:21:32Z",
+{"generated": "2026-10-11T10:26:58Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1744,7 +1744,7 @@
    "decl": "Field.finSepDegree_mul_finSepDegree_of_isAlgebraic"},
   {"refs": [{"id": "030L", "db": "stacks", "comment": "Part 2"}],
    "module": "Mathlib.FieldTheory.SeparableClosure",
-   "line": 276,
+   "line": 283,
    "decl": "Field.insepDegree"},
   {"refs": [{"id": "09HK", "db": "stacks", "comment": "Part 2"}],
    "module": "Mathlib.FieldTheory.PurelyInseparable.Tower",
@@ -1752,7 +1752,7 @@
    "decl": "Field.insepDegree_mul_insepDegree_of_isAlgebraic"},
   {"refs": [{"id": "030L", "db": "stacks", "comment": "Part 1"}],
    "module": "Mathlib.FieldTheory.SeparableClosure",
-   "line": 271,
+   "line": 278,
    "decl": "Field.sepDegree"},
   {"refs": [{"id": "09HK", "db": "stacks", "comment": "Part 1"}],
    "module": "Mathlib.FieldTheory.PurelyInseparable.Tower",
@@ -2090,7 +2090,7 @@
    "decl": "IsGalois.intermediateFieldEquivSubgroup"},
   {"refs": [{"id": "0EXM", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
-   "line": 601,
+   "line": 608,
    "decl": "IsGalois.normalClosure"},
   {"refs": [{"id": "09I1", "db": "stacks", "comment": "'if' part"}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "ef8bbff1efc767c2d2cd6886e11f58f11e203dca"}
+ "commit": "1619863c2b37930e217c20c40ea1e3ce0cc78500"}
