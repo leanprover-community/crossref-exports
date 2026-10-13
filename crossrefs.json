@@ -1,4 +1,4 @@
-{"generated": "2026-10-12T16:00:01Z",
+{"generated": "2026-10-13T10:03:40Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2600,11 +2600,11 @@
    "decl": "Polynomial"},
   {"refs": [{"id": "18.9.E21", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.Chebyshev",
-   "line": 847,
+   "line": 849,
    "decl": "Polynomial.Chebyshev.T_derivative_eq_U"},
   {"refs": [{"id": "18.18.E21", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.Chebyshev",
-   "line": 1080,
+   "line": 1082,
    "decl": "Polynomial.Chebyshev.T_mul_T"},
   {"refs": [{"id": "18.5.E1", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.Analysis.SpecialFunctions.Trigonometric.Chebyshev.Basic",
@@ -2624,7 +2624,7 @@
    "decl": "Polynomial.Chebyshev.U_real_cosh"},
   {"refs": [{"id": "18.9.E9", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.RingTheory.Polynomial.Chebyshev",
-   "line": 497,
+   "line": 499,
    "decl": "Polynomial.Chebyshev.two_mul_T_eq_U_sub_U"},
   {"refs": [{"id": "09HV", "db": "stacks", "comment": "Predicate version"}],
    "module": "Mathlib.FieldTheory.SplittingField.IsSplittingField",
@@ -3423,4 +3423,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "4e6064a4a3a617a3ba6739b50152b02e4d6ad3ea"}
+ "commit": "387f8cc1518ed785f8ff186ffb79a21658af03fe"}
