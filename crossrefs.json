@@ -1,8 +1,8 @@
-{"generated": "2026-10-16T13:25:36Z",
+{"generated": "2026-10-16T19:35:20Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
-   "line": 120,
+   "line": 117,
    "decl": "AddAction"},
   {"refs": [{"id": "Q1330377", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.GroupAction.Quotient",
@@ -2584,7 +2584,7 @@
    "decl": "MonoidHom"},
   {"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
-   "line": 136,
+   "line": 133,
    "decl": "MulAction"},
   {"refs": [{"id": "Q1330377", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.GroupAction.Quotient",
@@ -3501,4 +3501,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "551c9d6e6857569bc59fe345c4b7b7e1d711c97b"}
+ "commit": "625d8914199bc567cca9b91f90e8e5afafa5ae51"}
