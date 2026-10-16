@@ -1,4 +1,4 @@
-{"generated": "2026-10-16T08:35:44Z",
+{"generated": "2026-10-16T13:25:36Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2977,7 +2977,7 @@
    "decl": "SpectralSpace"},
   {"refs": [{"id": "Q25378068", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.MeasureTheory.Constructions.Polish.Basic",
-   "line": 82,
+   "line": 83,
    "decl": "StandardBorelSpace"},
   {"refs": [{"id": "0BID", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
@@ -3501,4 +3501,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "ce44de8b87dfc7b0fcea68819cf383ddb9a61fde"}
+ "commit": "551c9d6e6857569bc59fe345c4b7b7e1d711c97b"}
