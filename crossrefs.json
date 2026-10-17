@@ -1,4 +1,4 @@
-{"generated": "2026-10-17T12:25:49Z",
+{"generated": "2026-10-17T14:06:45Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -16,6 +16,10 @@
    "module": "Mathlib.Algebra.Group.Defs",
    "line": 44,
    "decl": "AddGroup"},
+  {"refs": [{"id": "Q759832", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.GroupTheory.Solvable",
+   "line": 135,
+   "decl": "AddGroup.IsSolvable"},
   {"refs": [{"id": "Q2989575", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Irreducible.Defs",
    "line": 31,
@@ -1817,7 +1821,7 @@
    "decl": "Group.IsNilpotent"},
   {"refs": [{"id": "Q759832", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Solvable",
-   "line": 109,
+   "line": 145,
    "decl": "Group.IsSolvable"},
   {"refs": [{"id": "Q202906", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Homeomorph.Defs",
@@ -3501,4 +3505,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "11b52006d07fc355488b2d7c2439dc950894edd9"}
+ "commit": "a368e22591f961e1a77728ee3527c14058ba294a"}
