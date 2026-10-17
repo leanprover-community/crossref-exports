@@ -1,4 +1,4 @@
-{"generated": "2026-10-17T10:37:49Z",
+{"generated": "2026-10-17T12:25:49Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1789,11 +1789,11 @@
    "decl": "FractionalIdeal"},
   {"refs": [{"id": "Q431078", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.FreeGroup.Basic",
-   "line": 443,
+   "line": 445,
    "decl": "FreeAddGroup"},
   {"refs": [{"id": "Q431078", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.FreeGroup.Basic",
-   "line": 457,
+   "line": 459,
    "decl": "FreeGroup"},
   {"refs": [{"id": "Q184743", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Ring.Periodic",
@@ -2136,7 +2136,7 @@
    "decl": "IsGδ"},
   {"refs": [{"id": "Q202906", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Homeomorph.Defs",
-   "line": 544,
+   "line": 552,
    "decl": "IsHomeomorph"},
   {"refs": [{"id": "00H0", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Polynomial.IsIntegral",
@@ -3237,7 +3237,7 @@
    "decl": "exists_isIntegral_sub_of_isIntegralElem_of_mul_mem_range"},
   {"refs": [{"id": "Q1119050", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.SetTheory.Cardinal.Cofinality.Club",
-   "line": 342,
+   "line": 371,
    "decl": "exists_isStationary_preimage_singleton"},
   {"refs": [{"id": "0H71", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparablyGenerated",
@@ -3501,4 +3501,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "5e997a02c85a807fab4145ec946de95fe113ec49"}
+ "commit": "11b52006d07fc355488b2d7c2439dc950894edd9"}
