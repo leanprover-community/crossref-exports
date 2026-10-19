@@ -1,4 +1,4 @@
-{"generated": "2026-10-19T18:23:28Z",
+{"generated": "2026-10-19T21:11:26Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -921,11 +921,11 @@
    "decl": "CategoryTheory.Adjunction.comp"},
   {"refs": [{"id": "0038", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Adjunction.Limits",
-   "line": 90,
+   "line": 88,
    "decl": "CategoryTheory.Adjunction.leftAdjoint_preservesColimits"},
   {"refs": [{"id": "0038", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Adjunction.Limits",
-   "line": 203,
+   "line": 198,
    "decl": "CategoryTheory.Adjunction.rightAdjoint_preservesLimits"},
   {"refs": [{"id": "009Q", "db": "kerodon", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Bicategory.LocallyGroupoid",
@@ -1081,7 +1081,7 @@
      "db": "stacks",
      "comment": "This is basically this Stacks entry."}],
    "module": "Mathlib.CategoryTheory.Sites.CoverPreserving",
-   "line": 158,
+   "line": 156,
    "decl": "CategoryTheory.Functor.isContinuous_of_coverPreserving"},
   {"refs":
    [{"id": "00Z4", "db": "stacks", "comment": ""},
@@ -1288,11 +1288,11 @@
    "decl": "CategoryTheory.ObjectProperty.SerreClassLocalization.abelian"},
   {"refs": [{"id": "0FX1", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 286,
+   "line": 279,
    "decl": "CategoryTheory.ObjectProperty.extensionProduct_assoc"},
   {"refs": [{"id": "0FX2", "db": "stacks", "comment": "first part"}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 313,
+   "line": 305,
    "decl":
    "CategoryTheory.ObjectProperty.extensionProduct_retractClosure_retractClosure_le"},
   {"refs": [{"id": "0FXB", "db": "stacks", "comment": ""}],
@@ -1301,7 +1301,7 @@
    "decl": "CategoryTheory.ObjectProperty.leftOrthogonal"},
   {"refs": [{"id": "0FX2", "db": "stacks", "comment": "second part"}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 330,
+   "line": 322,
    "decl":
    "CategoryTheory.ObjectProperty.retractClosure_extensionProduct_retractClosure_retractClosure"},
   {"refs": [{"id": "0FXB", "db": "stacks", "comment": ""}],
@@ -1494,7 +1494,7 @@
    "decl": "CategoryTheory.StrictlyUnitaryPseudofunctor"},
   {"refs": [{"id": "0FFW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Monoidal.Braided.Basic",
-   "line": 366,
+   "line": 364,
    "decl": "CategoryTheory.SymmetricCategory"},
   {"refs": [{"id": "05QK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Triangulated",
@@ -3759,4 +3759,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "4f86e020ebb60c7d3c09183b4e2a029d026f8805"}
+ "commit": "ca997990d61c58157ec780f81e1c071a5f6e296b"}
