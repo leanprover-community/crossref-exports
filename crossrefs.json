@@ -1,4 +1,4 @@
-{"generated": "2026-10-20T09:28:25Z",
+{"generated": "2026-10-20T14:10:14Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1600,6 +1600,14 @@
    "module": "Mathlib.Basic.Complex.Basic",
    "line": 35,
    "decl": "Complex"},
+  {"refs": [{"id": "10.2.E2", "db": "dlmf", "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 55,
+   "decl": "Complex.besselJ"},
+  {"refs": [{"id": "10.4.E1", "db": "dlmf", "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 84,
+   "decl": "Complex.besselJ_neg_int"},
   {"refs": [{"id": "4.14.E2", "db": "dlmf", "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
    "line": 34,
@@ -1660,6 +1668,10 @@
    "module": "Mathlib.Analysis.Complex.Trigonometric",
    "line": 59,
    "decl": "Complex.tanh"},
+  {"refs": [{"id": "10.6.E1", "db": "dlmf", "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 123,
+   "decl": "Complex.two_mul_self_mul_besselJ"},
   {"refs": [{"id": "Q1148456", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Computability.Partrec",
    "line": 242,
@@ -3759,4 +3771,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "bbe3db288201b39ef92689278906d3bf6d45c291"}
+ "commit": "c21f07790b604036b49a84bee50a41a878463569"}
