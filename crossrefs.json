@@ -1,4 +1,4 @@
-{"generated": "2026-10-20T14:10:14Z",
+{"generated": "2026-10-20T15:59:30Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2406,7 +2406,7 @@
    "decl": "LucasLehmer.s"},
   {"refs": [{"id": "Q44337", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Defs",
-   "line": 56,
+   "line": 55,
    "decl": "Matrix"},
   {"refs": [{"id": "Q339011", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Symmetric",
@@ -3523,7 +3523,7 @@
      "db": "stacks",
      "comment": "See also https://en.wikipedia.org/wiki/Zariski%27s_lemma."}],
    "module": "Mathlib.RingTheory.Jacobson.Ring",
-   "line": 676,
+   "line": 675,
    "decl": "finite_of_finite_type_of_isJacobsonRing"},
   {"refs": [{"id": "Q875399", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Basic",
@@ -3771,4 +3771,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c21f07790b604036b49a84bee50a41a878463569"}
+ "commit": "707d52d659b80207adcefa7484db8a95cc6a6d09"}
