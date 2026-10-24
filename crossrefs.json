@@ -1,4 +1,4 @@
-{"generated": "2026-10-24T17:55:38Z",
+{"generated": "2026-10-24T21:23:27Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2718,7 +2718,7 @@
    "decl": "Nat.IsCarmichael"},
   {"refs": [{"id": "A001358", "db": "oeis", "comment": ""}],
    "module": "Mathlib.NumberTheory.AlmostPrime",
-   "line": 50,
+   "line": 52,
    "decl": "Nat.IsSemiprime"},
   {"refs": [{"id": "A000009", "db": "oeis", "comment": "cardinality"}],
    "module": "Mathlib.Combinatorics.Enumerative.Partition.Basic",
@@ -3815,4 +3815,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "1866f0f74b5dee879305bf924afe624ff0574ea0"}
+ "commit": "10dc7882b0311638b63e9aad5506f2cfcf4e61b8"}
