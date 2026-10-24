@@ -1,4 +1,4 @@
-{"generated": "2026-10-23T14:51:22Z",
+{"generated": "2026-10-24T17:55:38Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -804,6 +804,13 @@
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyOpen",
    "line": 105,
    "decl": "AlgebraicGeometry.isOpenMap_of_generalizingMap"},
+  {"refs":
+   [{"id": "023Q",
+     "db": "stacks",
+     "comment": "affine case, following the second proof"}],
+   "module": "Mathlib.AlgebraicGeometry.EffectiveEpi",
+   "line": 121,
+   "decl": "AlgebraicGeometry.isRegularEpi_of_flat_of_surjective_of_isAffine"},
   {"refs": [{"id": "0DVA", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Separated",
    "line": 223,
@@ -3808,4 +3815,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "94cf27e73a7f8108ff4cc9bc39e49285937df268"}
+ "commit": "1866f0f74b5dee879305bf924afe624ff0574ea0"}
