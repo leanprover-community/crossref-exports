@@ -1,4 +1,4 @@
-{"generated": "2026-10-25T12:20:16Z",
+{"generated": "2026-10-25T14:13:11Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3707,7 +3707,7 @@
    "decl": "linearIndependent_algHom_toLinearMap"},
   {"refs": [{"id": "0CKL", "db": "stacks", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Basic",
-   "line": 513,
+   "line": 517,
    "decl": "linearIndependent_monoidHom"},
   {"refs": [{"id": "Q1138992", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.NumberTheory.LucasLehmer",
@@ -3827,4 +3827,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "a88727a581b93a8fdc567a6f78e47da0b07af1f4"}
+ "commit": "f32f0e99f9609b60350764a3463a242977a83ab6"}
