@@ -1,4 +1,4 @@
-{"generated": "2026-10-24T21:23:27Z",
+{"generated": "2026-10-25T12:20:16Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1925,6 +1925,18 @@
    "module": "Mathlib.Topology.Homeomorph.Defs",
    "line": 44,
    "decl": "Homeomorph"},
+  {"refs": [{"id": "0118", "db": "stacks", "comment": "(1) and (2)"}],
+   "module": "Mathlib.Algebra.Homology.Embedding.StupidTrunc",
+   "line": 36,
+   "decl": "HomologicalComplex.stupidTrunc"},
+  {"refs": [{"id": "0118", "db": "stacks", "comment": "(1)"}],
+   "module": "Mathlib.Algebra.Homology.Embedding.StupidTrunc",
+   "line": 142,
+   "decl": "HomologicalComplex.ιStupidTrunc"},
+  {"refs": [{"id": "0118", "db": "stacks", "comment": "(2)"}],
+   "module": "Mathlib.Algebra.Homology.Embedding.StupidTrunc",
+   "line": 230,
+   "decl": "HomologicalComplex.πStupidTrunc"},
   {"refs": [{"id": "Q1203540", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Maximal",
    "line": 47,
@@ -3815,4 +3827,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "10dc7882b0311638b63e9aad5506f2cfcf4e61b8"}
+ "commit": "a88727a581b93a8fdc567a6f78e47da0b07af1f4"}
