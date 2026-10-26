@@ -1,4 +1,4 @@
-{"generated": "2026-10-26T17:49:51Z",
+{"generated": "2026-10-26T19:45:23Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -644,18 +644,25 @@
    "line": 608,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.toPartialMap"},
   {"refs":
-   [{"id": "01ZC", "db": "stacks", "comment": "Injective part of (1) => (3)"}],
+   [{"id": "01ZC",
+     "db": "stacks",
+     "comment":
+     "Injective part of (1) => (3), only assuming the morphism is locally of finite type."}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 676,
+   "line": 677,
    "decl":
    "AlgebraicGeometry.Scheme.exists_hom_hom_comp_eq_comp_of_locallyOfFiniteType"},
   {"refs": [{"id": "01Z6", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 1019,
+   "line": 1020,
    "decl": "AlgebraicGeometry.Scheme.exists_isAffine_of_isLimit"},
-  {"refs": [{"id": "01Z5", "db": "stacks", "comment": ""}],
+  {"refs":
+   [{"id": "01Z5",
+     "db": "stacks",
+     "comment":
+     "Use IsQuasiAffine.of_isAffineHom to get `D.obj j` quasi-affine for `j ≥ i` "}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 966,
+   "line": 967,
    "decl": "AlgebraicGeometry.Scheme.exists_isQuasiAffine_of_isLimit"},
   {"refs":
    [{"id": "023Q",
@@ -745,9 +752,10 @@
    "line": 423,
    "decl":
    "AlgebraicGeometry.exists_finite_imageι_comp_morphismRestrict_of_finite_image_preimage"},
-  {"refs": [{"id": "01Z4", "db": "stacks", "comment": "(1)"}],
+  {"refs":
+   [{"id": "01Z4", "db": "stacks", "comment": "Affine open version of (1)."}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 1040,
+   "line": 1041,
    "decl": "AlgebraicGeometry.exists_isAffineOpen_preimage_eq"},
   {"refs": [{"id": "02UP", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
@@ -756,15 +764,23 @@
    "AlgebraicGeometry.exists_isFinite_morphismRestrict_of_finite_preimage_singleton"},
   {"refs": [{"id": "01Z4", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 288,
+   "line": 289,
    "decl": "AlgebraicGeometry.exists_map_preimage_eq_map_preimage"},
   {"refs": [{"id": "01Z3", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 154,
+   "line": 106,
+   "decl": "AlgebraicGeometry.exists_mem_of_isClosed_of_nonempty"},
+  {"refs":
+   [{"id": "01Z3",
+     "db": "stacks",
+     "comment":
+     "Variant where the closed sets are indexed by the objects over a fixed index."}],
+   "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
+   "line": 155,
    "decl": "AlgebraicGeometry.exists_mem_of_isClosed_of_nonempty'"},
   {"refs": [{"id": "01Z4", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 333,
+   "line": 334,
    "decl": "AlgebraicGeometry.exists_preimage_eq"},
   {"refs": [{"id": "0BA8", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Noetherian",
@@ -3827,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "79c6d249887d050307cbfa3a827b72b4d21099c5"}
+ "commit": "9bdd0bc71aaae0fd83889f9aacd70c32fccd1bcd"}
