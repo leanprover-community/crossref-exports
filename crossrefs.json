@@ -1,4 +1,4 @@
-{"generated": "2026-10-26T19:45:23Z",
+{"generated": "2026-10-27T06:44:17Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2434,7 +2434,7 @@
    "decl": "JacobsonSpace"},
   {"refs": [{"id": "Q837924", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.BilinearMap",
-   "line": 529,
+   "line": 538,
    "decl": "LinearMap.BilinForm"},
   {"refs": [{"id": "Q190546", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.SesquilinearForm.Basic",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "9bdd0bc71aaae0fd83889f9aacd70c32fccd1bcd"}
+ "commit": "116662aa4c1e9106ab5c609b3214b02f6e11a65a"}
