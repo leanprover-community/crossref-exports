@@ -1,4 +1,4 @@
-{"generated": "2026-10-27T06:44:17Z",
+{"generated": "2026-10-27T18:04:34Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -493,7 +493,7 @@
    "decl": "AlgebraicGeometry.IsSeparated.valuativeCriterion"},
   {"refs": [{"id": "00FB", "db": "stacks", "comment": "First part"}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.IsOpenComapC",
-   "line": 67,
+   "line": 69,
    "decl": "AlgebraicGeometry.Polynomial.isOpenMap_comap_C"},
   {"refs": [{"id": "01MC", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
@@ -2410,7 +2410,7 @@
    "decl": "IsSquare"},
   {"refs": [{"id": "00PZ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.StronglyTranscendental",
-   "line": 38,
+   "line": 39,
    "decl": "IsStronglyTranscendental"},
   {"refs": [{"id": "030E", "db": "stacks", "comment": "(4)"}],
    "module": "Mathlib.RingTheory.AlgebraicIndependent.Defs",
@@ -3538,7 +3538,7 @@
    "decl": "exists_extension_norm_eq"},
   {"refs": [{"id": "00OW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.NoetherNormalization",
-   "line": 278,
+   "line": 279,
    "decl": "exists_integral_inj_algHom_of_fg"},
   {"refs": [{"id": "00PV", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
@@ -3707,7 +3707,7 @@
    "decl": "isPurelyInseparable_iff_pow_mem"},
   {"refs": [{"id": "00Q0", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.StronglyTranscendental",
-   "line": 124,
+   "line": 125,
    "decl": "isStronglyTranscendental_mk_of_mem_minimalPrimes"},
   {"refs": [{"id": "00PY", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "116662aa4c1e9106ab5c609b3214b02f6e11a65a"}
+ "commit": "02b1c3bc13f41e204689e4e481731854136ba6c4"}
