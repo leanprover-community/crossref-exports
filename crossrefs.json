@@ -1,4 +1,4 @@
-{"generated": "2026-10-27T18:04:34Z",
+{"generated": "2026-10-27T19:36:23Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -207,11 +207,11 @@
    "decl": "Algebra.IsAlgebraic.of_finite"},
   {"refs": [{"id": "0G1M", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 679,
+   "line": 684,
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_mvPolynomial"},
   {"refs": [{"id": "0G1M", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 673,
+   "line": 678,
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_polynomial"},
   {"refs": [{"id": "09GF", "db": "stacks", "comment": "part two"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
@@ -2230,7 +2230,7 @@
    "decl": "IsExtrOn"},
   {"refs": [{"id": "09FJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Localization.FractionRing",
-   "line": 224,
+   "line": 232,
    "decl": "IsFractionRing.toField"},
   {"refs": [{"id": "09I0", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
@@ -3788,7 +3788,7 @@
    "decl": "primorial"},
   {"refs": [{"id": "09G9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Dimension.Free",
-   "line": 58,
+   "line": 64,
    "decl": "rank_mul_rank"},
   {"refs": [{"id": "Q97623888", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.GDelta.Basic",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "02b1c3bc13f41e204689e4e481731854136ba6c4"}
+ "commit": "59109b9780e5a862d68c8edcd3034e49e347ad01"}
