@@ -1,4 +1,4 @@
-{"generated": "2026-10-28T08:03:15Z",
+{"generated": "2026-10-28T08:47:49Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1741,7 +1741,7 @@
      "db": "stacks",
      "comment": "The Stacks entry proves profiniteness."}],
    "module": "Mathlib.Topology.Separation.Regular",
-   "line": 861,
+   "line": 863,
    "decl": "ConnectedComponents.t2"},
   {"refs": [{"id": "Q1491995", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Connected.Basic",
@@ -2314,7 +2314,7 @@
   {"refs": [{"id": "07BJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.LocalRing.RingHom.Basic",
    "line": 78,
-   "decl": "IsLocalRing.local_hom_TFAE"},
+   "decl": "IsLocalRing.local_hom_tfae"},
   {"refs": [{"id": "Q1747745", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.GDelta.Basic",
    "line": 293,
@@ -3384,12 +3384,12 @@
    "decl": "TopologicalSpace"},
   {"refs": [{"id": "0052", "db": "stacks", "comment": "(3)"}],
    "module": "Mathlib.Topology.NoetherianSpace",
-   "line": 202,
+   "line": 204,
    "decl":
    "TopologicalSpace.NoetherianSpace.exists_isOpen_nonempty_subset_irreducibleComponent"},
   {"refs": [{"id": "0052", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.Topology.NoetherianSpace",
-   "line": 192,
+   "line": 194,
    "decl": "TopologicalSpace.NoetherianSpace.finite_irreducibleComponents"},
   {"refs": [{"id": "0052", "db": "stacks", "comment": "(1)"}],
    "module": "Mathlib.Topology.NoetherianSpace",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "cc5a8f804aa0eabe95091bf318bef6c1c353f78e"}
+ "commit": "435530e27e3926a4744084ee2582bf1227efe6c2"}
