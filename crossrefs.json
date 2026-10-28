@@ -1,4 +1,4 @@
-{"generated": "2026-10-28T01:10:56Z",
+{"generated": "2026-10-28T02:02:54Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1650,7 +1650,7 @@
    "decl": "CompHaus.toProfiniteObj"},
   {"refs": [{"id": "Q381892", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.Defs.Filter",
-   "line": 299,
+   "line": 301,
    "decl": "CompactSpace"},
   {"refs": [{"id": "Q848569", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.UniformSpace.Cauchy",
@@ -2230,7 +2230,7 @@
    "decl": "IsExtrOn"},
   {"refs": [{"id": "09FJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Localization.FractionRing",
-   "line": 232,
+   "line": 233,
    "decl": "IsFractionRing.toField"},
   {"refs": [{"id": "09I0", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
@@ -2669,7 +2669,7 @@
    "decl": "Module.nonempty_basis_of_flat_of_finrank_eq"},
   {"refs": [{"id": "09G3", "db": "stacks", "comment": "first part"}],
    "module": "Mathlib.LinearAlgebra.Dimension.Basic",
-   "line": 53,
+   "line": 68,
    "decl": "Module.rank"},
   {"refs": [{"id": "00L1", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Support",
@@ -3122,7 +3122,7 @@
    "decl": "Rat.instCharZero"},
   {"refs": [{"id": "09FK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.RatFunc.Basic",
-   "line": 475,
+   "line": 466,
    "decl": "RatFunc.instField"},
   {"refs":
    [{"id": "Q12916", "db": "wikidata", "comment": ""},
@@ -3136,7 +3136,7 @@
    "decl": "Real.eulerMascheroniConstant"},
   {"refs": [{"id": "Q168698", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Exponential",
-   "line": 81,
+   "line": 83,
    "decl": "Real.exp"},
   {"refs": [{"id": "A001622", "db": "oeis", "comment": "decimal expansion"}],
    "module": "Mathlib.NumberTheory.Real.GoldenRatio",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "88126f75a3ddb644aad4808bd1381ee4e3242c62"}
+ "commit": "3aae103a67408fe3a11c1ac7950740a41a3cc5b1"}
