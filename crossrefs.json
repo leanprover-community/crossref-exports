@@ -1,4 +1,4 @@
-{"generated": "2026-10-28T02:02:54Z",
+{"generated": "2026-10-28T08:03:15Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2023,7 +2023,7 @@
    "decl": "Ideal.quotientInfRingEquivPiQuotient"},
   {"refs": [{"id": "00DS", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Operations",
-   "line": 1159,
+   "line": 1160,
    "decl": "Ideal.subset_union_prime"},
   {"refs": [{"id": "04PT", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Pure",
@@ -2226,7 +2226,7 @@
    "decl": "IsDomain"},
   {"refs": [{"id": "Q845060", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Order.Filter.Extr",
-   "line": 118,
+   "line": 121,
    "decl": "IsExtrOn"},
   {"refs": [{"id": "09FJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Localization.FractionRing",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "3aae103a67408fe3a11c1ac7950740a41a3cc5b1"}
+ "commit": "cc5a8f804aa0eabe95091bf318bef6c1c353f78e"}
