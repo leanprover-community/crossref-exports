@@ -1,4 +1,4 @@
-{"generated": "2026-10-28T23:31:22Z",
+{"generated": "2026-10-29T17:33:31Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -394,7 +394,7 @@
    "decl": "Algebra.trdeg"},
   {"refs": [{"id": "09GK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Algebra.AlgebraicCard",
-   "line": 94,
+   "line": 97,
    "decl": "Algebraic.cardinalMk_le_max"},
   {"refs": [{"id": "09GT", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure",
@@ -441,7 +441,7 @@
    "decl": "AlgebraicGeometry.Flat.epi_of_flat_of_surjective"},
   {"refs": [{"id": "06NC", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.FlatMono",
-   "line": 25,
+   "line": 28,
    "decl": "AlgebraicGeometry.Flat.isIso_of_surjective_of_mono"},
   {"refs": [{"id": "02JY", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Flat",
@@ -885,7 +885,7 @@
   {"refs":
    [{"id": "A008836", "db": "oeis", "comment": "the sequence skips `n = 0`"}],
    "module": "Mathlib.NumberTheory.ArithmeticFunction.Liouville",
-   "line": 28,
+   "line": 31,
    "decl": "ArithmeticFunction.liouville"},
   {"refs":
    [{"id": "A008683", "db": "oeis", "comment": "the sequence skips `n = 0`"}],
@@ -2562,7 +2562,7 @@
    "decl": "Module.Finite.of_exact"},
   {"refs": [{"id": "0519", "db": "stacks", "comment": "(3)"}],
    "module": "Mathlib.RingTheory.Finiteness.Basic",
-   "line": 246,
+   "line": 249,
    "decl": "Module.Finite.of_surjective"},
   {"refs": [{"id": "09G5", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.Tower",
@@ -2906,7 +2906,7 @@
    "decl": "NumberField.RingOfIntegers"},
   {"refs": [{"id": "A005408", "db": "oeis", "comment": ""}],
    "module": "Mathlib.Algebra.Ring.Parity",
-   "line": 97,
+   "line": 100,
    "decl": "Odd"},
   {"refs": [{"id": "Q1283623", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.SetTheory.Cardinal.Cofinality.Basic",
@@ -3047,11 +3047,11 @@
    "decl": "PrimeSpectrum.isIdempotentElemEquivClopens"},
   {"refs": [{"id": "037G", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Chevalley",
-   "line": 73,
+   "line": 76,
    "decl": "PrimeSpectrum.isOpenMap_comap_algebraMap_tensorProduct_of_field"},
   {"refs": [{"id": "00I1", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Chevalley",
-   "line": 60,
+   "line": 63,
    "decl":
    "PrimeSpectrum.isOpenMap_comap_of_hasGoingDown_of_finitePresentation"},
   {"refs": [{"id": "00I0", "db": "stacks", "comment": "(1)"}],
@@ -3114,7 +3114,7 @@
   {"refs":
    [{"id": "09FR", "db": "stacks", "comment": "Characteristic zero case."}],
    "module": "Mathlib.Data.Rat.Cast.CharZero",
-   "line": 24,
+   "line": 27,
    "decl": "Rat.cast_injective"},
   {"refs": [{"id": "09FS", "db": "stacks", "comment": "Second part."}],
    "module": "Mathlib.Algebra.Ring.Rat",
@@ -3186,7 +3186,7 @@
    "decl": "RingHom.Finite"},
   {"refs": [{"id": "00GK", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.Algebra.Basic",
-   "line": 131,
+   "line": 134,
    "decl": "RingHom.Finite.to_isIntegral"},
   {"refs": [{"id": "00GI", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.Defs",
@@ -3443,14 +3443,6 @@
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
    "line": 81,
    "decl": "ValuationSubring.isMax_toLocalSubring"},
-  {"refs":
-   [{"id": "09HF",
-     "db": "stacks",
-     "comment":
-     "We proved the result without the condition that `K` is char p in 09HF."}],
-   "module": "Mathlib.FieldTheory.KummerPolynomial",
-   "line": 99,
-   "decl": "X_pow_sub_C_irreducible_of_prime"},
   {"refs": [{"id": "00Q1", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
    "line": 346,
@@ -3674,6 +3666,14 @@
    "line": 501,
    "decl": "irreducibleComponentsEquivOfIsPreirreducibleFiber"},
   {"refs":
+   [{"id": "09HF",
+     "db": "stacks",
+     "comment":
+     "We proved the result without the condition that `K` is char p in 09HF."}],
+   "module": "Mathlib.FieldTheory.KummerPolynomial",
+   "line": 99,
+   "decl": "irreducible_X_pow_sub_C_of_prime"},
+  {"refs":
    [{"id": "00JB",
      "db": "stacks",
      "comment":
@@ -3784,7 +3784,7 @@
    "decl": "perfectClosure"},
   {"refs": [{"id": "A034386", "db": "oeis", "comment": ""}],
    "module": "Mathlib.NumberTheory.Primorial",
-   "line": 37,
+   "line": 40,
    "decl": "primorial"},
   {"refs": [{"id": "09G9", "db": "stacks", "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Dimension.Free",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "8fe7ce475b056f0b266d7107893f2c4d772c712f"}
+ "commit": "32a422c83a18ddd0f352908187e5f68aad829904"}
