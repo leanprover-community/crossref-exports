@@ -1,4 +1,4 @@
-{"generated": "2026-10-29T17:33:31Z",
+{"generated": "2026-10-29T19:28:16Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2071,7 +2071,7 @@
      "comment":
      "The result is the definition of algebraically closedness in Stacks Project. This statement is 09GR (4) ⟹ (1)."}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 246,
+   "line": 261,
    "decl": "IntermediateField.eq_bot_of_isAlgClosed_of_isAlgebraic"},
   {"refs": [{"id": "0BMF", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
@@ -2134,7 +2134,7 @@
    "decl": "IsAlgClosed"},
   {"refs": [{"id": "09GR", "db": "stacks", "comment": "(4) ⟹ (2)"}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 217,
+   "line": 232,
    "decl": "IsAlgClosed.degree_eq_one_of_irreducible"},
   {"refs": [{"id": "09GR", "db": "stacks", "comment": "(4) ⟹ (3)"}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
@@ -2142,7 +2142,7 @@
    "decl": "IsAlgClosed.exists_root"},
   {"refs": [{"id": "09GU", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 351,
+   "line": 366,
    "decl": "IsAlgClosed.lift"},
   {"refs": [{"id": "09GR", "db": "stacks", "comment": "(3) ⟹ (4)"}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
@@ -2150,11 +2150,11 @@
    "decl": "IsAlgClosed.of_exists_root"},
   {"refs": [{"id": "09GS", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 265,
+   "line": 280,
    "decl": "IsAlgClosure"},
   {"refs": [{"id": "09GV", "db": "stacks", "comment": ""}],
    "module": "Mathlib.FieldTheory.IsAlgClosed.Basic",
-   "line": 406,
+   "line": 421,
    "decl": "IsAlgClosure.equiv"},
   {"refs": [{"id": "09GC", "db": "stacks", "comment": "Algebraic elements"}],
    "module": "Mathlib.RingTheory.Algebraic.Defs",
@@ -3843,4 +3843,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "32a422c83a18ddd0f352908187e5f68aad829904"}
+ "commit": "7db326f5280be7ca10231aef6711b09783b5445f"}
