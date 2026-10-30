@@ -1,4 +1,4 @@
-{"generated": "2026-10-30T15:30:08Z",
+{"generated": "2026-10-30T17:17:02Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -3423,6 +3423,14 @@
    "module": "Mathlib.Topology.Constructible",
    "line": 375,
    "decl": "Topology.IsLocallyConstructible"},
+  {"refs": [{"id": "Q30704565", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Algebra.TotalMonoidAlgebra.Defs",
+   "line": 36,
+   "decl": "TotalAddMonoidAlgebra"},
+  {"refs": [{"id": "Q30704565", "db": "wikidata", "comment": ""}],
+   "module": "Mathlib.Algebra.TotalMonoidAlgebra.Defs",
+   "line": 49,
+   "decl": "TotalMonoidAlgebra"},
   {"refs": [{"id": "Q652446", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Topology.UniformSpace.Defs",
    "line": 195,
@@ -3843,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "21f7d1b51bb511e30ae90dd1500b0c05662cfde6"}
+ "commit": "75b1f08d2d82a89ce11b4f02c19df0de263cc466"}
