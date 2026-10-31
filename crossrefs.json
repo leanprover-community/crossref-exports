@@ -1,4 +1,4 @@
-{"generated": "2026-10-31T05:26:37Z",
+{"generated": "2026-10-31T10:34:59Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1574,7 +1574,7 @@
    "decl": "CategoryTheory.abelianOfAdjunction"},
   {"refs": [{"id": "001P", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Yoneda",
-   "line": 1060,
+   "line": 1067,
    "decl": "CategoryTheory.coyonedaLemma"},
   {"refs": [{"id": "001A", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Discrete.Basic",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c1cc962aa0ead632c537be6c1f5b24ebc5540bc1"}
+ "commit": "c25839128f86b301f2dc1bddd529e3a91591a648"}
