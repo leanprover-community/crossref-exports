@@ -1,4 +1,4 @@
-{"generated": "2026-10-30T17:17:02Z",
+{"generated": "2026-10-31T05:26:37Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -453,11 +453,11 @@
    "decl": "AlgebraicGeometry.FormallyUnramified.hom_ext"},
   {"refs": [{"id": "04XV", "db": "stacks", "comment": "(1) <=> (2)"}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 392,
+   "line": 393,
    "decl": "AlgebraicGeometry.IsClosedImmersion.iff_isProper_and_mono"},
   {"refs": [{"id": "02LS", "db": "stacks", "comment": "(1) <=> (3)"}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 381,
+   "line": 382,
    "decl": "AlgebraicGeometry.IsFinite.iff_isProper_and_locallyQuasiFinite"},
   {"refs": [{"id": "01KJ", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Immersion",
@@ -562,7 +562,7 @@
    "AlgebraicGeometry.Scheme.Hom.closedPoints_subset_preimage_closedPoints"},
   {"refs": [{"id": "03GW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 205,
+   "line": 206,
    "decl":
    "AlgebraicGeometry.Scheme.Hom.exists_isIso_morphismRestrict_toNormalization"},
   {"refs": [{"id": "02KA", "db": "stacks", "comment": "second part"}],
@@ -749,7 +749,7 @@
    "AlgebraicGeometry.descendsAlong_universallyOpen_surjective_inf_flat_inf_quasicompact"},
   {"refs": [{"id": "0AH8", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 423,
+   "line": 424,
    "decl":
    "AlgebraicGeometry.exists_finite_imageι_comp_morphismRestrict_of_finite_image_preimage"},
   {"refs":
@@ -759,7 +759,7 @@
    "decl": "AlgebraicGeometry.exists_isAffineOpen_preimage_eq"},
   {"refs": [{"id": "02UP", "db": "stacks", "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 405,
+   "line": 406,
    "decl":
    "AlgebraicGeometry.exists_isFinite_morphismRestrict_of_finite_preimage_singleton"},
   {"refs": [{"id": "01Z4", "db": "stacks", "comment": "(2)"}],
@@ -3105,7 +3105,7 @@
      "comment":
      "Iff form of (2). Note that Stacks doesn't define quasi-separated spaces."}],
    "module": "Mathlib.Topology.Constructible",
-   "line": 333,
+   "line": 334,
    "decl": "QuasiSeparatedSpace.isRetrocompact_iff_isCompact"},
   {"refs": [{"id": "004X", "db": "stacks", "comment": "(3)"}],
    "module": "Mathlib.Topology.Sober",
@@ -3421,7 +3421,7 @@
    "decl": "Topology.IsConstructible.preimage_of_isOpenEmbedding"},
   {"refs": [{"id": "005G", "db": "stacks", "comment": ""}],
    "module": "Mathlib.Topology.Constructible",
-   "line": 375,
+   "line": 376,
    "decl": "Topology.IsLocallyConstructible"},
   {"refs": [{"id": "Q30704565", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.TotalMonoidAlgebra.Defs",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "75b1f08d2d82a89ce11b4f02c19df0de263cc466"}
+ "commit": "c1cc962aa0ead632c537be6c1f5b24ebc5540bc1"}
