@@ -1,4 +1,4 @@
-{"generated": "2026-10-31T23:31:53Z",
+{"generated": "2026-11-02T01:01:02Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2305,7 +2305,7 @@
    "decl": "IsLocalRing.depth"},
   {"refs": [{"id": "06RR", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Henselian",
-   "line": 269,
+   "line": 250,
    "decl": "IsLocalRing.eq_of_eval_eq_zero_of_not_isUnit_sub"},
   {"refs": [{"id": "00LW", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Depth.Basic",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "a2f96aabcf72be9e18bece4b5c7c54fcc0c029f4"}
+ "commit": "b6dfe53cdc8587ca6ff49e4617661ce8cc95288c"}
