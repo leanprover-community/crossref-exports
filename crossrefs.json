@@ -1,4 +1,4 @@
-{"generated": "2026-11-03T21:09:03Z",
+{"generated": "2026-11-03T22:05:34Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -38,7 +38,7 @@
    "decl": "AddSubgroup.Normal"},
   {"refs": [{"id": "Q505798", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Coset.Card",
-   "line": 67,
+   "line": 71,
    "decl": "AddSubgroup.card_addSubgroup_dvd_card"},
   {"refs": [{"id": "Q1464168", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Index",
@@ -3295,7 +3295,7 @@
    "decl": "Subgroup.Normal"},
   {"refs": [{"id": "Q505798", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Coset.Card",
-   "line": 69,
+   "line": 73,
    "decl": "Subgroup.card_subgroup_dvd_card"},
   {"refs": [{"id": "Q3229345", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Schreier",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "dd0b07efc4b3882225689e9dfaf85c1d83e01062"}
+ "commit": "80ac13cbf5f3a76ebd79fee2336b83d846d9663e"}
