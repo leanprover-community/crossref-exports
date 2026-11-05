@@ -1,4 +1,4 @@
-{"generated": "2026-11-05T21:34:36Z",
+{"generated": "2026-11-05T21:57:45Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1790,7 +1790,7 @@
    "decl": "Distribution.delta"},
   {"refs": [{"id": "Q2039387", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Data.EReal.Basic",
-   "line": 35,
+   "line": 36,
    "decl": "EReal"},
   {"refs": [{"id": "Q179208", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.GroupTheory.Perm.Subgroup",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c58c20015912b4432a55ac0446f28c4e393bb7d1"}
+ "commit": "cfaeae1e96622c5f2e11804a9b27d1a4686a1e92"}
