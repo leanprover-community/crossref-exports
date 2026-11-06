@@ -1,4 +1,4 @@
-{"generated": "2026-11-06T11:35:29Z",
+{"generated": "2026-11-06T22:30:58Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2829,7 +2829,7 @@
    "decl": "Nat.minFac"},
   {"refs": [{"id": "A059481", "db": "oeis", "comment": ""}],
    "module": "Mathlib.Data.Nat.Choose.Basic",
-   "line": 381,
+   "line": 382,
    "decl": "Nat.multichoose"},
   {"refs": [{"id": "A230980", "db": "oeis", "comment": ""}],
    "module": "Mathlib.NumberTheory.PrimeCounting",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "a564d5f4e417cf3233babb11c19b5e119d92c661"}
+ "commit": "3251222da783a442654b041c1b531452cd9a65ba"}
