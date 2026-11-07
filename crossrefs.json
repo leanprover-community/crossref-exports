@@ -1,4 +1,4 @@
-{"generated": "2026-11-07T17:15:32Z",
+{"generated": "2026-11-07T18:47:55Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1255,7 +1255,7 @@
    "decl": "CategoryTheory.Limits.Types.hasColimitsOfSize"},
   {"refs": [{"id": "002U", "db": "stacks", "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Types.Limits",
-   "line": 186,
+   "line": 187,
    "decl": "CategoryTheory.Limits.Types.hasLimitsOfSize"},
   {"refs": [{"id": "002Q", "db": "stacks", "comment": ""}],
    "module":
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "07977d2921637684e9ecdf70fc1927570233637d"}
+ "commit": "ff24b11541a9cf01665ab182018f793e977e594e"}
