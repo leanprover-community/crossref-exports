@@ -1,4 +1,4 @@
-{"generated": "2026-11-07T18:47:55Z",
+{"generated": "2026-11-08T15:58:56Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -2638,7 +2638,7 @@
    "decl": "Module.IsStablyFree"},
   {"refs": [{"id": "Q942423", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Module.Projective",
-   "line": 70,
+   "line": 71,
    "decl": "Module.Projective"},
   {"refs": [{"id": "0310", "db": "stacks", "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Localization",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "ff24b11541a9cf01665ab182018f793e977e594e"}
+ "commit": "089be9f507b5bc43a5507bc2820996dcfdabc621"}
