@@ -1,4 +1,4 @@
-{"generated": "2026-11-08T15:58:56Z",
+{"generated": "2026-11-10T14:18:26Z",
  "entries":
  [{"refs": [{"id": "Q288465", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.Algebra.Group.Action.Defs",
@@ -1899,7 +1899,7 @@
    "decl": "FiniteField.card"},
   {"refs": [{"id": "09I3", "db": "stacks", "comment": "second part"}],
    "module": "Mathlib.FieldTheory.Fixed",
-   "line": 346,
+   "line": 342,
    "decl": "FixedPoints.finrank_eq_card"},
   {"refs": [{"id": "Q1497184", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.RingTheory.FractionalIdeal.Basic",
@@ -3837,11 +3837,11 @@
    "decl": "spectralRadius"},
   {"refs": [{"id": "0BIL", "db": "stacks", "comment": "(1) => (3)"}],
    "module": "Mathlib.RingTheory.Trace.Basic",
-   "line": 502,
+   "line": 498,
    "decl": "traceForm_nondegenerate"},
   {"refs": [{"id": "0BIL", "db": "stacks", "comment": ""}],
    "module": "Mathlib.RingTheory.Trace.Basic",
-   "line": 508,
+   "line": 504,
    "decl": "traceForm_nondegenerate_tfae"},
   {"refs": [{"id": "Q833293", "db": "wikidata", "comment": ""}],
    "module": "Mathlib.MeasureTheory.Integral.IntervalIntegral.TrapezoidalRule",
@@ -3851,4 +3851,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "089be9f507b5bc43a5507bc2820996dcfdabc621"}
+ "commit": "35d04d09229a669256e973fb59532696b876c0d2"}
