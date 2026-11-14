@@ -1,4 +1,4 @@
-{"generated": "2026-11-14T11:13:58Z",
+{"generated": "2026-11-14T11:28:42Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2213,7 +2213,7 @@
      "comment": ""}],
    "module":
    "Mathlib.CategoryTheory.Abelian.GrothendieckCategory.EnoughInjectives",
-   "line": 380,
+   "line": 377,
    "decl": "CategoryTheory.IsGrothendieckAbelian.enoughInjectives"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FCG",
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "461f23751a60e308d17855e749d1db1d4824f606"}
+ "commit": "bbff2954fe5ee3b7a4b33cc26ef873a1c3277d91"}
