@@ -1,4 +1,4 @@
-{"generated": "2026-11-14T10:47:16Z",
+{"generated": "2026-11-14T11:13:58Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -1147,7 +1147,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 255,
+   "line": 267,
    "decl": "AlgebraicGeometry.Scheme.PartialMap.equiv"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/098K",
@@ -1163,7 +1163,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 376,
+   "line": 390,
    "decl": "AlgebraicGeometry.Scheme.RationalMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1Z",
@@ -1179,7 +1179,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 395,
+   "line": 408,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.IsOver"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1X",
@@ -1187,7 +1187,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 574,
+   "line": 586,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.domain"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1Y",
@@ -1195,7 +1195,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 607,
+   "line": 619,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.toPartialMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01ZC",
@@ -1240,7 +1240,7 @@
      "db": "stacks",
      "comment": "last part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 648,
+   "line": 662,
    "decl":
    "AlgebraicGeometry.Scheme.instIsOverToPartialMapOfIsSeparatedOfIsOver"},
   {"refs":
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "74c6142fe4dace2c8234c21b40b3aa752fe0f26a"}
+ "commit": "461f23751a60e308d17855e749d1db1d4824f606"}
