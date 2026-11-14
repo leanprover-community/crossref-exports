@@ -1,4 +1,4 @@
-{"generated": "2026-11-13T22:31:56Z",
+{"generated": "2026-11-14T10:47:16Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -392,7 +392,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 108,
+   "line": 111,
    "decl": "Algebra.IsAlgebraic.of_finite"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0G1M",
@@ -400,7 +400,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 684,
+   "line": 696,
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_mvPolynomial"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0G1M",
@@ -408,7 +408,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 678,
+   "line": 690,
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_polynomial"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GF",
@@ -424,7 +424,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 348,
+   "line": 362,
    "decl": "Algebra.IsAlgebraic.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00UE",
@@ -4876,7 +4876,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Module.Projective",
-   "line": 70,
+   "line": 66,
    "decl": "Module.Projective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0310",
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "189ce949552fd76f236c44ee52e9fc7154adb2a4"}
+ "commit": "74c6142fe4dace2c8234c21b40b3aa752fe0f26a"}
