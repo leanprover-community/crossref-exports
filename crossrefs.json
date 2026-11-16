@@ -1,4 +1,4 @@
-{"generated": "2026-11-16T16:52:41Z",
+{"generated": "2026-11-16T17:39:44Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -4696,7 +4696,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.MetricSpace.Bounded",
-   "line": 335,
+   "line": 340,
    "decl": "Metric.isCompact_iff_isClosed_bounded"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q180953",
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "90cfc2c59822ad9e158d892a6f8884e9fabf387a"}
+ "commit": "4b39df7a6e9d22530ad9b787919829826eb55824"}
