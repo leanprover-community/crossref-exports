@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T19:40:10Z",
+{"generated": "2026-11-17T21:52:14Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -3062,7 +3062,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 241,
+   "line": 278,
    "decl": "Complex.cosh_sq_sub_sinh_sq"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.35.E27",
@@ -3070,7 +3070,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 253,
+   "line": 290,
    "decl": "Complex.cosh_two_mul"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.14.E7",
@@ -3080,6 +3080,14 @@
    "module": "Mathlib.Analysis.Complex.Trigonometric",
    "line": 43,
    "decl": "Complex.cot"},
+  {"refs":
+   [{"url": "https://dlmf.nist.gov/4.28.E7",
+     "id": "4.28.E7",
+     "db": "dlmf",
+     "comment": "defined as the reciprocal of tanh"}],
+   "module": "Mathlib.Analysis.Complex.Trigonometric",
+   "line": 63,
+   "decl": "Complex.coth"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.34.E2",
      "id": "4.34.E2",
@@ -3142,7 +3150,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 256,
+   "line": 293,
    "decl": "Complex.sinh_two_mul"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.14.E4",
@@ -7126,4 +7134,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "883bd4ca0e5833c055051316e60e5ee67590ea61"}
+ "commit": "c3f47a8ee91fd93bf436222bd4c3c73dc914e3fa"}
