@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T12:36:39Z",
+{"generated": "2026-11-17T13:46:55Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -6042,7 +6042,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Clique",
-   "line": 898,
+   "line": 915,
    "decl": "SimpleGraph.IsIndepSet"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q826467",
@@ -7126,4 +7126,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "08d1cb922d6fece5a32205a925354589154dc36f"}
+ "commit": "6201aea845cabc150786187e18e0ff60c9094ab8"}
