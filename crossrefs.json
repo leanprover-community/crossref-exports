@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T21:52:14Z",
+{"generated": "2026-11-17T23:29:02Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -3198,7 +3198,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.Connected.Basic",
-   "line": 705,
+   "line": 702,
    "decl": "ConnectedSpace"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q170058",
@@ -7134,4 +7134,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "c3f47a8ee91fd93bf436222bd4c3c73dc914e3fa"}
+ "commit": "57870a3ef03fd19e8bb00cd07e878f8b358c18f4"}
