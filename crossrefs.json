@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T15:34:27Z",
+{"generated": "2026-11-17T19:40:10Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -3479,7 +3479,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.FreeGroup.Basic",
-   "line": 445,
+   "line": 443,
    "decl": "FreeAddGroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q431078",
@@ -3487,7 +3487,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.FreeGroup.Basic",
-   "line": 459,
+   "line": 457,
    "decl": "FreeGroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q184743",
@@ -7126,4 +7126,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "263a0913c4aa92b42bf125f24d4e3a598d9519cf"}
+ "commit": "883bd4ca0e5833c055051316e60e5ee67590ea61"}
