@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T11:30:22Z",
+{"generated": "2026-11-17T12:36:39Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -5399,6 +5399,14 @@
    "line": 104,
    "decl": "Ordinal"},
   {"refs":
+   [{"url": "https://stacks.math.columbia.edu/tag/05N3",
+     "id": "05N3",
+     "db": "stacks",
+     "comment": ""}],
+   "module": "Mathlib.SetTheory.Cardinal.Regular",
+   "line": 102,
+   "decl": "Ordinal.exists_lt_cof"},
+  {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q311627",
      "id": "Q311627",
      "db": "wikidata",
@@ -7118,4 +7126,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "2f9e33b5e8aaef53ec4d660e1c6ac07f0de46448"}
+ "commit": "08d1cb922d6fece5a32205a925354589154dc36f"}
