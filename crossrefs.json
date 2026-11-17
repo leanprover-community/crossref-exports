@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T13:46:55Z",
+{"generated": "2026-11-17T15:34:27Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2229,7 +2229,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Triangulated",
-   "line": 298,
+   "line": 300,
    "decl": "CategoryTheory.IsTriangulated"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0017",
@@ -2673,7 +2673,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 123,
+   "line": 122,
    "decl": "CategoryTheory.Pretriangulated.comp_distTriang_mor_zero₁₂"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0146",
@@ -2681,7 +2681,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 136,
+   "line": 135,
    "decl": "CategoryTheory.Pretriangulated.comp_distTriang_mor_zero₂₃"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0146",
@@ -2689,7 +2689,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 148,
+   "line": 146,
    "decl": "CategoryTheory.Pretriangulated.comp_distTriang_mor_zero₃₁"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0149",
@@ -2715,7 +2715,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 524,
+   "line": 493,
    "decl": "CategoryTheory.Pretriangulated.isIso₁_of_isIso₂₃"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/014A",
@@ -2723,7 +2723,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 477,
+   "line": 448,
    "decl": "CategoryTheory.Pretriangulated.isIso₂_of_isIso₁₃"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/014A",
@@ -2731,7 +2731,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Pretriangulated",
-   "line": 514,
+   "line": 484,
    "decl": "CategoryTheory.Pretriangulated.isIso₃_of_isIso₁₂"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/026F",
@@ -7126,4 +7126,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "6201aea845cabc150786187e18e0ff60c9094ab8"}
+ "commit": "263a0913c4aa92b42bf125f24d4e3a598d9519cf"}
