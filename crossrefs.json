@@ -1,4 +1,4 @@
-{"generated": "2026-11-16T17:39:44Z",
+{"generated": "2026-11-17T04:52:19Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -6468,7 +6468,7 @@
      "db": "oeis",
      "comment": "denominators"}],
    "module": "Mathlib.NumberTheory.Bernoulli",
-   "line": 197,
+   "line": 210,
    "decl": "bernoulli"},
   {"refs":
    [{"url": "https://oeis.org/A027642",
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "4b39df7a6e9d22530ad9b787919829826eb55824"}
+ "commit": "9fdc1827106ab80724902bd70bcb6a1e3abdc58f"}
