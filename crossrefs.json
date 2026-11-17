@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T08:25:46Z",
+{"generated": "2026-11-17T11:30:22Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -3760,7 +3760,7 @@
      "db": "stacks",
      "comment": "second part"}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Defs",
-   "line": 653,
+   "line": 657,
    "decl": "IntermediateField.FG"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09FZ",
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "7bf746699826b074a04d64a6144b9e50cc7f0279"}
+ "commit": "2f9e33b5e8aaef53ec4d660e1c6ac07f0de46448"}
