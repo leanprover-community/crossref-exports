@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T04:52:19Z",
+{"generated": "2026-11-17T08:25:46Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -464,7 +464,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 838,
+   "line": 839,
    "decl": "Algebra.IsSeparable.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030O",
@@ -3383,7 +3383,7 @@
      "db": "stacks",
      "comment": "The equality condition"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 777,
+   "line": 778,
    "decl": "Field.finSepDegree_eq_finrank_iff"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HJ",
@@ -3399,7 +3399,7 @@
      "db": "stacks",
      "comment": "The inequality"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 745,
+   "line": 746,
    "decl": "Field.finSepDegree_le_finrank"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HK",
@@ -3407,7 +3407,7 @@
      "db": "stacks",
      "comment": "Part 1, `finSepDegree` variant"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 284,
+   "line": 285,
    "decl": "Field.finSepDegree_mul_finSepDegree_of_isAlgebraic"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030L",
@@ -7118,4 +7118,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "9fdc1827106ab80724902bd70bcb6a1e3abdc58f"}
+ "commit": "7bf746699826b074a04d64a6144b9e50cc7f0279"}
