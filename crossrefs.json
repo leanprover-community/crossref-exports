@@ -1,4 +1,4 @@
-{"generated": "2026-11-18T12:03:05Z",
+{"generated": "2026-11-18T15:46:21Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -7164,7 +7164,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Trace.Basic",
-   "line": 504,
+   "line": 503,
    "decl": "traceForm_nondegenerate_tfae"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q833293",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "4694f18024a16d41993787c8f5e0e905a729f904"}
+ "commit": "fd289ff704b6db953b45133c5354647828dae265"}
