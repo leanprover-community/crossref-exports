@@ -1,4 +1,4 @@
-{"generated": "2026-11-18T08:18:39Z",
+{"generated": "2026-11-18T12:03:05Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -126,7 +126,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.AffineSpace.AffineSubspace.Basic",
-   "line": 920,
+   "line": 919,
    "decl": "AffineSubspace.Parallel"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HR",
@@ -5024,7 +5024,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Support",
-   "line": 215,
+   "line": 214,
    "decl": "Module.support_eq_zeroLocus"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00L3",
@@ -5032,7 +5032,7 @@
      "db": "stacks",
      "comment": "(4)"}],
    "module": "Mathlib.RingTheory.Support",
-   "line": 173,
+   "line": 172,
    "decl": "Module.support_of_exact"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00L3",
@@ -5040,7 +5040,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Support",
-   "line": 248,
+   "line": 247,
    "decl": "Module.support_quotient"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00L3",
@@ -5048,7 +5048,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Support",
-   "line": 156,
+   "line": 155,
    "decl": "Module.support_subset_of_injective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00L3",
@@ -5056,7 +5056,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.RingTheory.Support",
-   "line": 163,
+   "line": 162,
    "decl": "Module.support_subset_of_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00LX",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "b476d8fd31a353258f27f2e35e8e25b689d6a052"}
+ "commit": "4694f18024a16d41993787c8f5e0e905a729f904"}
