@@ -1,4 +1,4 @@
-{"generated": "2026-11-17T23:29:02Z",
+{"generated": "2026-11-18T03:13:59Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -3121,6 +3121,38 @@
    "line": 52,
    "decl": "Complex.isAlgClosed"},
   {"refs":
+   [{"url": "https://dlmf.nist.gov/10.6.E2",
+     "id": "10.6.E2",
+     "db": "dlmf",
+     "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 140,
+   "decl": "Complex.mul_deriv_besselJ_eq_besselJ_add_one"},
+  {"refs":
+   [{"url": "https://dlmf.nist.gov/10.6.E2",
+     "id": "10.6.E2",
+     "db": "dlmf",
+     "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 181,
+   "decl": "Complex.mul_deriv_besselJ_eq_besselJ_add_one_int"},
+  {"refs":
+   [{"url": "https://dlmf.nist.gov/10.6.E2",
+     "id": "10.6.E2",
+     "db": "dlmf",
+     "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 159,
+   "decl": "Complex.mul_deriv_besselJ_eq_besselJ_sub_one"},
+  {"refs":
+   [{"url": "https://dlmf.nist.gov/10.6.E2",
+     "id": "10.6.E2",
+     "db": "dlmf",
+     "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 186,
+   "decl": "Complex.mul_deriv_besselJ_eq_besselJ_sub_one_int"},
+  {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09G0",
      "id": "09G0",
      "db": "stacks",
@@ -3168,6 +3200,22 @@
    "module": "Mathlib.Analysis.Complex.Trigonometric",
    "line": 58,
    "decl": "Complex.tanh"},
+  {"refs":
+   [{"url": "https://dlmf.nist.gov/10.6.E1",
+     "id": "10.6.E1",
+     "db": "dlmf",
+     "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 164,
+   "decl": "Complex.two_mul_deriv_besselJ"},
+  {"refs":
+   [{"url": "https://dlmf.nist.gov/10.6.E1",
+     "id": "10.6.E1",
+     "db": "dlmf",
+     "comment": ""}],
+   "module": "Mathlib.Analysis.SpecialFunctions.Bessel",
+   "line": 172,
+   "decl": "Complex.two_mul_deriv_besselJ_int"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/10.6.E1",
      "id": "10.6.E1",
@@ -7134,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 544,
    "decl": "trdeg_add_eq"}],
- "commit": "57870a3ef03fd19e8bb00cd07e878f8b358c18f4"}
+ "commit": "93964b762e048a39229162e42ff12f7db126f62f"}
