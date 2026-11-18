@@ -1,4 +1,4 @@
-{"generated": "2026-11-18T03:13:59Z",
+{"generated": "2026-11-18T08:18:39Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -400,7 +400,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 696,
+   "line": 697,
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_mvPolynomial"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0G1M",
@@ -408,7 +408,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 690,
+   "line": 691,
    "decl": "Algebra.IsAlgebraic.rank_fractionRing_polynomial"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GF",
@@ -424,7 +424,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Integral",
-   "line": 362,
+   "line": 363,
    "decl": "Algebra.IsAlgebraic.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00UE",
@@ -512,7 +512,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.RingTheory.QuasiFinite.Basic",
-   "line": 120,
+   "line": 121,
    "decl": "Algebra.QuasiFinite.baseChange"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00PO",
@@ -520,7 +520,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.QuasiFinite.Basic",
-   "line": 178,
+   "line": 179,
    "decl": "Algebra.QuasiFinite.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00T2",
@@ -618,7 +618,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 663,
+   "line": 664,
    "decl": "Algebra.ZariskisMainProperty.of_finiteType"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00Q9",
@@ -626,7 +626,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 640,
+   "line": 641,
    "decl": "Algebra.ZariskisMainProperty.of_finiteType_of_weaklyQuasiFiniteAt"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00UH",
@@ -692,7 +692,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 453,
+   "line": 454,
    "decl": "Algebra.not_isStronglyTranscendental_of_quasiFiniteAt"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00PM",
@@ -837,7 +837,7 @@
      "db": "stacks",
      "comment": "(1) <=> (2)"}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 391,
+   "line": 393,
    "decl": "AlgebraicGeometry.IsClosedImmersion.iff_isProper_and_mono"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02LS",
@@ -845,7 +845,7 @@
      "db": "stacks",
      "comment": "(1) <=> (3)"}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 380,
+   "line": 382,
    "decl": "AlgebraicGeometry.IsFinite.iff_isProper_and_locallyQuasiFinite"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01KJ",
@@ -1040,7 +1040,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 204,
+   "line": 205,
    "decl":
    "AlgebraicGeometry.Scheme.Hom.exists_isIso_morphismRestrict_toNormalization"},
   {"refs":
@@ -1107,7 +1107,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyClosed",
-   "line": 156,
+   "line": 158,
    "decl": "AlgebraicGeometry.Scheme.Hom.isProperMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/035H",
@@ -1163,7 +1163,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 389,
+   "line": 391,
    "decl": "AlgebraicGeometry.Scheme.RationalMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1Z",
@@ -1179,7 +1179,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 407,
+   "line": 409,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.IsOver"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1X",
@@ -1187,7 +1187,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 585,
+   "line": 587,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.domain"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1Y",
@@ -1195,7 +1195,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 618,
+   "line": 620,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.toPartialMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01ZC",
@@ -1204,7 +1204,7 @@
      "comment":
      "Injective part of (1) => (3), only assuming the morphism is locally of finite type."}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 674,
+   "line": 675,
    "decl":
    "AlgebraicGeometry.Scheme.exists_hom_hom_comp_eq_comp_of_locallyOfFiniteType"},
   {"refs":
@@ -1213,7 +1213,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 1016,
+   "line": 1017,
    "decl": "AlgebraicGeometry.Scheme.exists_isAffine_of_isLimit"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01Z5",
@@ -1222,7 +1222,7 @@
      "comment":
      "Use IsQuasiAffine.of_isAffineHom to get `D.obj j` quasi-affine for `j ≥ i` "}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 963,
+   "line": 964,
    "decl": "AlgebraicGeometry.Scheme.exists_isQuasiAffine_of_isLimit"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/023Q",
@@ -1240,7 +1240,7 @@
      "db": "stacks",
      "comment": "last part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 661,
+   "line": 663,
    "decl":
    "AlgebraicGeometry.Scheme.instIsOverToPartialMapOfIsSeparatedOfIsOver"},
   {"refs":
@@ -1329,7 +1329,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Properties",
-   "line": 361,
+   "line": 363,
    "decl": "AlgebraicGeometry.coheight_eq_of_isOpenImmersion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02L3",
@@ -1382,7 +1382,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 422,
+   "line": 424,
    "decl":
    "AlgebraicGeometry.exists_finite_imageι_comp_morphismRestrict_of_finite_image_preimage"},
   {"refs":
@@ -1391,7 +1391,7 @@
      "db": "stacks",
      "comment": "Affine open version of (1)."}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 1037,
+   "line": 1038,
    "decl": "AlgebraicGeometry.exists_isAffineOpen_preimage_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02UP",
@@ -1399,7 +1399,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ZariskisMainTheorem",
-   "line": 404,
+   "line": 406,
    "decl":
    "AlgebraicGeometry.exists_isFinite_morphismRestrict_of_finite_preimage_singleton"},
   {"refs":
@@ -1408,7 +1408,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 287,
+   "line": 288,
    "decl": "AlgebraicGeometry.exists_map_preimage_eq_map_preimage"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01Z3",
@@ -1433,7 +1433,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 332,
+   "line": 333,
    "decl": "AlgebraicGeometry.exists_preimage_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BA8",
@@ -1458,7 +1458,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Affine",
-   "line": 244,
+   "line": 245,
    "decl": "AlgebraicGeometry.isAffineHom_of_isInducing"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01QF",
@@ -1466,7 +1466,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Affine",
-   "line": 107,
+   "line": 108,
    "decl": "AlgebraicGeometry.isAffine_of_isAffineOpen_basicOpen"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01KM",
@@ -1555,7 +1555,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Properties",
-   "line": 375,
+   "line": 377,
    "decl": "AlgebraicGeometry.ringKrullDim_stalk_eq_coheight"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BX6",
@@ -1579,7 +1579,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyInjective",
-   "line": 105,
+   "line": 106,
    "decl": "AlgebraicGeometry.tfae_universallyInjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030E",
@@ -2542,7 +2542,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Galois.Equivalence",
-   "line": 90,
+   "line": 92,
    "decl":
    "CategoryTheory.PreGaloisCategory.instIsEquivalenceContActionFintypeCatFunObjFiniteAutFunctorFunctorToContAction"},
   {"refs":
@@ -3712,7 +3712,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.KrullsHeightTheorem",
-   "line": 484,
+   "line": 485,
    "decl": "Ideal.height_eq_height_add_of_liesOver_of_hasGoingDown"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00OM",
@@ -3720,7 +3720,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.KrullsHeightTheorem",
-   "line": 447,
+   "line": 448,
    "decl": "Ideal.height_le_height_add_of_liesOver"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04PS",
@@ -3744,7 +3744,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1232,
+   "line": 1233,
    "decl": "Ideal.minimalPrimes.equivIrreducibleComponents"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q193878",
@@ -4226,7 +4226,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.Homeomorph.Defs",
-   "line": 551,
+   "line": 552,
    "decl": "IsHomeomorph"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00H0",
@@ -4511,7 +4511,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
-   "line": 433,
+   "line": 434,
    "decl": "IsTranscendenceBasis.cardinalMk_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030F",
@@ -4519,7 +4519,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
-   "line": 428,
+   "line": 429,
    "decl": "IsTranscendenceBasis.lift_cardinalMk_eq"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q659746",
@@ -4567,7 +4567,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 111,
+   "line": 112,
    "decl": "LocalSubring.exists_le_valuationSubring"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/090P",
@@ -4575,7 +4575,7 @@
      "db": "stacks",
      "comment": "part (2)"}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 168,
+   "line": 170,
    "decl": "LocalSubring.exists_le_valuationSubring_of_isIntegrallyClosedIn"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00IB",
@@ -4583,7 +4583,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 88,
+   "line": 89,
    "decl": "LocalSubring.exists_valuationRing_of_isMax"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00I9",
@@ -4672,7 +4672,7 @@
      "comment":
      "See also `PrimeSpectrum.discreteTopology_iff_finite_isMaximal_and_sInf_le_nilradical`."}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 766,
+   "line": 767,
    "decl": "MaximalSpectrum.toPiLocalizationEquiv"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q516776",
@@ -4958,7 +4958,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Localization",
-   "line": 116,
+   "line": 117,
    "decl":
    "Module.associatedPrimes.preimage_comap_associatedPrimes_eq_associatedPrimes_of_isLocalizedModule"},
   {"refs":
@@ -5621,7 +5621,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1372,
+   "line": 1375,
    "decl": "PrimeSpectrum.basicOpen_eq_zeroLocus_of_isIdempotentElem"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00FL",
@@ -5629,7 +5629,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 942,
+   "line": 943,
    "decl": "PrimeSpectrum.denseRange_comap_iff_minimalPrimes"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00EE",
@@ -5637,7 +5637,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1078,
+   "line": 1079,
    "decl": "PrimeSpectrum.existsUnique_idempotent_basicOpen_eq_of_isClopen"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00F8",
@@ -5662,7 +5662,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 871,
+   "line": 872,
    "decl": "PrimeSpectrum.isClosed_range_of_stableUnderSpecialization"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BR8",
@@ -5686,7 +5686,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1402,
+   "line": 1405,
    "decl": "PrimeSpectrum.isIdempotentElemEquivClopens"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/037G",
@@ -5720,7 +5720,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 879,
+   "line": 880,
    "decl": "PrimeSpectrum.stableUnderSpecialization_range_iff"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00EC",
@@ -5728,7 +5728,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1378,
+   "line": 1381,
    "decl": "PrimeSpectrum.zeroLocus_eq_basicOpen_of_isIdempotentElem"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q386228",
@@ -5801,7 +5801,7 @@
      "comment":
      "Iff form of (2). Note that Stacks doesn't define quasi-separated spaces."}],
    "module": "Mathlib.Topology.Constructible",
-   "line": 334,
+   "line": 335,
    "decl": "QuasiSeparatedSpace.isRetrocompact_iff_isCompact"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/004X",
@@ -6276,7 +6276,7 @@
      "db": "stacks",
      "comment": "part (1)"}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 151,
+   "line": 153,
    "decl": "Subring.exists_le_valuationSubring_of_isIntegrallyClosedIn"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0B31",
@@ -6414,7 +6414,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.Topology.Constructible",
-   "line": 376,
+   "line": 377,
    "decl": "Topology.IsLocallyConstructible"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q30704565",
@@ -6471,7 +6471,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 352,
+   "line": 353,
    "decl":
    "_private.Mathlib.RingTheory.ZariskisMainTheorem.0.Algebra.not_isStronglyTranscendental_of_weaklyQuasiFiniteAt_of_isDomain_aux"},
   {"refs":
@@ -6600,7 +6600,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Idempotents",
-   "line": 374,
+   "line": 375,
    "decl": "existsUnique_isIdempotentElem_eq_of_ker_isNilpotent"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1816967",
@@ -6691,7 +6691,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 235,
+   "line": 236,
    "decl": "exists_leadingCoeff_pow_smul_mem_conductor"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00PY",
@@ -6699,7 +6699,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 266,
+   "line": 267,
    "decl": "exists_leadingCoeff_pow_smul_mem_radical_conductor"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/004W",
@@ -6942,7 +6942,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ZariskisMainTheorem",
-   "line": 299,
+   "line": 300,
    "decl": "isStronglyTranscendental_mk_radical_conductor"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030H",
@@ -6950,7 +6950,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
-   "line": 535,
+   "line": 536,
    "decl": "lift_trdeg_add_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0CKM",
@@ -6958,7 +6958,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Lemmas",
-   "line": 479,
+   "line": 480,
    "decl": "linearIndependent_algHom_toLinearMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0CKL",
@@ -7006,7 +7006,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1247,
+   "line": 1249,
    "decl": "minimalPrimes.equivIrreducibleComponents"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GM",
@@ -7180,6 +7180,6 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
-   "line": 544,
+   "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "93964b762e048a39229162e42ff12f7db126f62f"}
+ "commit": "b476d8fd31a353258f27f2e35e8e25b689d6a052"}
