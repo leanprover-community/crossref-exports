@@ -1,4 +1,4 @@
-{"generated": "2026-11-18T15:46:21Z",
+{"generated": "2026-11-19T03:09:58Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -6504,7 +6504,7 @@
      "db": "stacks",
      "comment": "third part"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Basic",
-   "line": 202,
+   "line": 208,
    "decl": "associatedPrimes.prod"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02M3",
@@ -6512,7 +6512,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Basic",
-   "line": 161,
+   "line": 167,
    "decl": "associatedPrimes.subset_of_injective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02M3",
@@ -6520,7 +6520,7 @@
      "db": "stacks",
      "comment": "second part"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Basic",
-   "line": 167,
+   "line": 173,
    "decl": "associatedPrimes.subset_union_of_exact"},
   {"refs":
    [{"url": "https://oeis.org/A027641",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "fd289ff704b6db953b45133c5354647828dae265"}
+ "commit": "d33c49ca43873d3746194325da62640cc893c9d9"}
