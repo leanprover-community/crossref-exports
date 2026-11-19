@@ -1,4 +1,4 @@
-{"generated": "2026-11-19T12:12:23Z",
+{"generated": "2026-11-19T17:33:06Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2877,7 +2877,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 351,
+   "line": 354,
    "decl": "CategoryTheory.epi_iff_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FCF",
@@ -2901,7 +2901,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 325,
+   "line": 328,
    "decl": "CategoryTheory.mono_iff_injective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/003C",
@@ -2909,7 +2909,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 333,
+   "line": 336,
    "decl": "CategoryTheory.ofHom_epi_iff_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/003C",
@@ -2917,7 +2917,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 312,
+   "line": 315,
    "decl": "CategoryTheory.ofHom_mono_iff_injective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001K",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "35f494609c32653bae53eb33f0cf2d899808909a"}
+ "commit": "31ce06eaadf4a200c0e1407c5f10953cf606b8f8"}
