@@ -1,4 +1,4 @@
-{"generated": "2026-11-19T10:22:38Z",
+{"generated": "2026-11-19T12:12:23Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2925,7 +2925,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Products.Basic",
-   "line": 109,
+   "line": 110,
    "decl": "CategoryTheory.prod'"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00XK",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "4502bb0de81f5b5bd65b7b91162a0f1eb9a56b4b"}
+ "commit": "35f494609c32653bae53eb33f0cf2d899808909a"}
