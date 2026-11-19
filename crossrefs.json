@@ -1,4 +1,4 @@
-{"generated": "2026-11-19T03:09:58Z",
+{"generated": "2026-11-19T08:13:49Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -925,7 +925,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 130,
+   "line": 133,
    "decl": "AlgebraicGeometry.Proj.instIsSeparated"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01MF",
@@ -933,7 +933,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 316,
+   "line": 321,
    "decl": "AlgebraicGeometry.Proj.valuativeCriterion_existence"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01MF",
@@ -941,7 +941,7 @@
      "db": "stacks",
      "comment": "algebraic part"}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 200,
+   "line": 205,
    "decl": "AlgebraicGeometry.Proj.valuativeCriterion_existence_aux"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022B",
@@ -1057,7 +1057,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Normalization",
-   "line": 597,
+   "line": 606,
    "decl":
    "AlgebraicGeometry.Scheme.Hom.instIsIsoNormalizationPullbackOfSmooth"},
   {"refs":
@@ -1066,7 +1066,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Normalization",
-   "line": 281,
+   "line": 285,
    "decl":
    "AlgebraicGeometry.Scheme.Hom.instIsIsoToNormalizationOfIsIntegralHom"},
   {"refs":
@@ -1075,7 +1075,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Normalization",
-   "line": 343,
+   "line": 348,
    "decl": "AlgebraicGeometry.Scheme.Hom.instIsReducedNormalization"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/054J",
@@ -1115,7 +1115,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Normalization",
-   "line": 121,
+   "line": 123,
    "decl": "AlgebraicGeometry.Scheme.Hom.normalization"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01P6",
@@ -1195,7 +1195,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 620,
+   "line": 621,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.toPartialMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01ZC",
@@ -1204,7 +1204,7 @@
      "comment":
      "Injective part of (1) => (3), only assuming the morphism is locally of finite type."}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 675,
+   "line": 676,
    "decl":
    "AlgebraicGeometry.Scheme.exists_hom_hom_comp_eq_comp_of_locallyOfFiniteType"},
   {"refs":
@@ -1213,7 +1213,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 1017,
+   "line": 1020,
    "decl": "AlgebraicGeometry.Scheme.exists_isAffine_of_isLimit"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01Z5",
@@ -1222,7 +1222,7 @@
      "comment":
      "Use IsQuasiAffine.of_isAffineHom to get `D.obj j` quasi-affine for `j ≥ i` "}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 964,
+   "line": 967,
    "decl": "AlgebraicGeometry.Scheme.exists_isQuasiAffine_of_isLimit"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/023Q",
@@ -1240,7 +1240,7 @@
      "db": "stacks",
      "comment": "last part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 663,
+   "line": 665,
    "decl":
    "AlgebraicGeometry.Scheme.instIsOverToPartialMapOfIsSeparatedOfIsOver"},
   {"refs":
@@ -1391,7 +1391,7 @@
      "db": "stacks",
      "comment": "Affine open version of (1)."}],
    "module": "Mathlib.AlgebraicGeometry.AffineTransitionLimit",
-   "line": 1038,
+   "line": 1041,
    "decl": "AlgebraicGeometry.exists_isAffineOpen_preimage_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02UP",
@@ -2934,7 +2934,7 @@
      "comment":
      "Alternative reference. There, results are obtained under the additional assumption\nthat `C` and `D` have pullbacks."}],
    "module": "Mathlib.CategoryTheory.Sites.CoverLifting",
-   "line": 274,
+   "line": 275,
    "decl": "CategoryTheory.ran_isSheaf_of_isCocontinuous"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001O",
@@ -3744,7 +3744,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1233,
+   "line": 1234,
    "decl": "Ideal.minimalPrimes.equivIrreducibleComponents"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q193878",
@@ -3874,7 +3874,7 @@
      "comment":
      "stronger version replacing an algebraic closure by a normal extension"}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
-   "line": 283,
+   "line": 284,
    "decl": "IntermediateField.normal_iff_forall_fieldRange_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HP",
@@ -4058,7 +4058,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Artinian.Module",
-   "line": 506,
+   "line": 507,
    "decl": "IsArtinianRing.setOfPred_isMaximal_finite"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q2342396",
@@ -4170,7 +4170,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
-   "line": 370,
+   "line": 371,
    "decl": "IsGalois.intermediateFieldEquivSubgroup"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0EXM",
@@ -4178,7 +4178,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
-   "line": 615,
+   "line": 616,
    "decl": "IsGalois.normalClosure"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09I1",
@@ -4186,7 +4186,7 @@
      "db": "stacks",
      "comment": "'if' part"}],
    "module": "Mathlib.FieldTheory.Galois.Basic",
-   "line": 515,
+   "line": 516,
    "decl": "IsGalois.of_card_aut_eq_finrank"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09I3",
@@ -5007,7 +5007,7 @@
      "db": "stacks",
      "comment": "the second inequality"}],
    "module": "Mathlib.RingTheory.KrullDimension.Regular",
-   "line": 141,
+   "line": 142,
    "decl": "Module.supportDim_le_supportDim_quotSMulTop_succ"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0B52",
@@ -5015,7 +5015,7 @@
      "db": "stacks",
      "comment": "the equality case"}],
    "module": "Mathlib.RingTheory.KrullDimension.Regular",
-   "line": 151,
+   "line": 152,
    "decl":
    "Module.supportDim_quotSMulTop_succ_eq_of_notMem_minimalPrimes_of_mem_maximalIdeal"},
   {"refs":
@@ -5621,7 +5621,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1375,
+   "line": 1376,
    "decl": "PrimeSpectrum.basicOpen_eq_zeroLocus_of_isIdempotentElem"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00FL",
@@ -5686,7 +5686,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1405,
+   "line": 1406,
    "decl": "PrimeSpectrum.isIdempotentElemEquivClopens"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/037G",
@@ -5728,7 +5728,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1381,
+   "line": 1382,
    "decl": "PrimeSpectrum.zeroLocus_eq_basicOpen_of_isIdempotentElem"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q386228",
@@ -6114,7 +6114,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Basic",
-   "line": 324,
+   "line": 325,
    "decl": "SimpleGraph.completeGraph"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/08YG",
@@ -6624,7 +6624,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Smooth.IntegralClosure",
-   "line": 194,
+   "line": 195,
    "decl": "exists_derivative_mul_eq_and_isIntegral_coeff"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q866116",
@@ -6673,7 +6673,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparablyGenerated",
-   "line": 263,
+   "line": 264,
    "decl":
    "exists_isTranscendenceBasis_and_isSeparable_of_linearIndepOn_pow_of_adjoin_eq_top"},
   {"refs":
@@ -6682,7 +6682,7 @@
      "db": "stacks",
      "comment": "(2) ⇒ (1) finitely generated case"}],
    "module": "Mathlib.FieldTheory.SeparablyGenerated",
-   "line": 287,
+   "line": 288,
    "decl":
    "exists_isTranscendenceBasis_and_isSeparable_of_linearIndepOn_pow_of_essFiniteType"},
   {"refs":
@@ -6739,7 +6739,7 @@
      "db": "stacks",
      "comment": "See also https://en.wikipedia.org/wiki/Zariski%27s_lemma."}],
    "module": "Mathlib.RingTheory.Jacobson.Ring",
-   "line": 691,
+   "line": 692,
    "decl": "finite_of_finite_type_of_isJacobsonRing"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q875399",
@@ -6893,7 +6893,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.HopkinsLevitzki",
-   "line": 177,
+   "line": 178,
    "decl": "isArtinianRing_iff_isNoetherianRing_krullDimLE_zero"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/004W",
@@ -6958,7 +6958,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Lemmas",
-   "line": 480,
+   "line": 481,
    "decl": "linearIndependent_algHom_toLinearMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0CKL",
@@ -6982,7 +6982,7 @@
      "db": "stacks",
      "comment": "without the generalization to arbitrary etale algebra"}],
    "module": "Mathlib.RingTheory.Smooth.IntegralClosure",
-   "line": 279,
+   "line": 280,
    "decl": "mem_adjoin_map_integralClosure_of_isStandardEtale"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/004W",
@@ -7006,7 +7006,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.Topology",
-   "line": 1249,
+   "line": 1250,
    "decl": "minimalPrimes.equivIrreducibleComponents"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GM",
@@ -7107,7 +7107,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.KrullDimension.Regular",
-   "line": 174,
+   "line": 175,
    "decl":
    "ringKrullDim_quotient_span_singleton_succ_eq_ringKrullDim_of_mem_nonZeroDivisors"},
   {"refs":
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "d33c49ca43873d3746194325da62640cc893c9d9"}
+ "commit": "4dbecbe2ebe515d6bfb36d0685092eed09f9d1fd"}
