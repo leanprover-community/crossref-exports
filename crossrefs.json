@@ -1,4 +1,4 @@
-{"generated": "2026-11-19T22:56:25Z",
+{"generated": "2026-11-20T16:35:31Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -134,7 +134,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.Algebra.Algebra.Equiv",
-   "line": 648,
+   "line": 738,
    "decl": "AlgEquiv.aut"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BME",
@@ -594,7 +594,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Etale.Weakly",
-   "line": 53,
+   "line": 56,
    "decl": "Algebra.WeaklyEtale.instOfEtale"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/092H",
@@ -602,7 +602,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Etale.Weakly",
-   "line": 61,
+   "line": 64,
    "decl": "Algebra.WeaklyEtale.instTensorProduct"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/092J",
@@ -610,7 +610,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Etale.Weakly",
-   "line": 78,
+   "line": 81,
    "decl": "Algebra.WeaklyEtale.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00Q9",
@@ -643,7 +643,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Etale.QuasiFinite",
-   "line": 609,
+   "line": 610,
    "decl":
    "Algebra.exists_etale_completeOrthogonalIdempotents_forall_liesOver_eq"},
   {"refs":
@@ -652,7 +652,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Etale.QuasiFinite",
-   "line": 377,
+   "line": 378,
    "decl": "Algebra.exists_etale_isIdempotentElem_forall_liesOver_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00UW",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "2cca941ae0c49731afdfd7955a5d443c198c3808"}
+ "commit": "66f20c74af93380e30c6f16bad25e5ea77dd19c5"}
