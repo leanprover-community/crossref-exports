@@ -1,4 +1,4 @@
-{"generated": "2026-11-20T16:35:31Z",
+{"generated": "2026-11-21T10:39:46Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -54,7 +54,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Hom.Defs",
-   "line": 144,
+   "line": 145,
    "decl": "AddMonoidHom"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q466109",
@@ -62,7 +62,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 302,
+   "line": 303,
    "decl": "AddSubgroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q743179",
@@ -70,7 +70,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 610,
+   "line": 611,
    "decl": "AddSubgroup.Normal"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q505798",
@@ -86,7 +86,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.Index",
-   "line": 53,
+   "line": 54,
    "decl": "AddSubgroup.index"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/05GG",
@@ -416,7 +416,7 @@
      "db": "stacks",
      "comment": "part two"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 474,
+   "line": 475,
    "decl": "Algebra.IsAlgebraic.tower_top"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GJ",
@@ -464,7 +464,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 839,
+   "line": 840,
    "decl": "Algebra.IsSeparable.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030O",
@@ -805,7 +805,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Flat",
-   "line": 154,
+   "line": 155,
    "decl": "AlgebraicGeometry.Flat.epi_of_flat_of_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/06NC",
@@ -821,7 +821,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Flat",
-   "line": 121,
+   "line": 122,
    "decl": "AlgebraicGeometry.Flat.isQuotientMap_of_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04F1",
@@ -829,7 +829,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.FormallyUnramified",
-   "line": 189,
+   "line": 190,
    "decl": "AlgebraicGeometry.FormallyUnramified.hom_ext"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04XV",
@@ -1719,7 +1719,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.SetTheory.Cardinal.Defs",
-   "line": 82,
+   "line": 83,
    "decl": "Cardinal"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/079B",
@@ -1759,7 +1759,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Abelian.Basic",
-   "line": 110,
+   "line": 111,
    "decl": "CategoryTheory.Abelian"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0107",
@@ -1784,7 +1784,7 @@
      "comment":
      "The Stacks project uses this characterisation at the definition of an abelian category."}],
    "module": "Mathlib.CategoryTheory.Abelian.Basic",
-   "line": 258,
+   "line": 259,
    "decl": "CategoryTheory.Abelian.ofCoimageImageComparisonIsIso"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0037",
@@ -2172,7 +2172,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Filtered.Basic",
-   "line": 588,
+   "line": 589,
    "decl": "CategoryTheory.IsCofiltered"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/002S",
@@ -2188,7 +2188,7 @@
      "db": "stacks",
      "comment": "They also define a diagram being filtered."}],
    "module": "Mathlib.CategoryTheory.Filtered.Basic",
-   "line": 94,
+   "line": 95,
    "decl": "CategoryTheory.IsFiltered"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0032",
@@ -2468,7 +2468,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 278,
+   "line": 279,
    "decl": "CategoryTheory.ObjectProperty.extensionProduct_assoc"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FX2",
@@ -2476,7 +2476,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 304,
+   "line": 305,
    "decl":
    "CategoryTheory.ObjectProperty.extensionProduct_retractClosure_retractClosure_le"},
   {"refs":
@@ -2493,7 +2493,7 @@
      "db": "stacks",
      "comment": "second part"}],
    "module": "Mathlib.CategoryTheory.Triangulated.Subcategory",
-   "line": 321,
+   "line": 322,
    "decl":
    "CategoryTheory.ObjectProperty.retractClosure_extensionProduct_retractClosure_retractClosure"},
   {"refs":
@@ -3118,7 +3118,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Polynomial.Basic",
-   "line": 52,
+   "line": 53,
    "decl": "Complex.isAlgClosed"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/10.6.E2",
@@ -3238,7 +3238,7 @@
      "db": "stacks",
      "comment": "The Stacks entry proves profiniteness."}],
    "module": "Mathlib.Topology.Separation.Regular",
-   "line": 862,
+   "line": 863,
    "decl": "ConnectedComponents.t2"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1491995",
@@ -3439,7 +3439,7 @@
      "db": "stacks",
      "comment": "The equality condition"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 778,
+   "line": 779,
    "decl": "Field.finSepDegree_eq_finrank_iff"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HJ",
@@ -3447,7 +3447,7 @@
      "db": "stacks",
      "comment": "We use `finSepDegree` to state a more general result."}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 235,
+   "line": 236,
    "decl": "Field.finSepDegree_eq_of_isAlgClosed"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HA",
@@ -3455,7 +3455,7 @@
      "db": "stacks",
      "comment": "The inequality"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 746,
+   "line": 747,
    "decl": "Field.finSepDegree_le_finrank"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HK",
@@ -3463,7 +3463,7 @@
      "db": "stacks",
      "comment": "Part 1, `finSepDegree` variant"}],
    "module": "Mathlib.FieldTheory.SeparableDegree",
-   "line": 285,
+   "line": 286,
    "decl": "Field.finSepDegree_mul_finSepDegree_of_isAlgebraic"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030L",
@@ -3527,7 +3527,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.FractionalIdeal.Basic",
-   "line": 83,
+   "line": 84,
    "decl": "FractionalIdeal"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q431078",
@@ -3583,7 +3583,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.Nilpotent",
-   "line": 230,
+   "line": 231,
    "decl": "Group.IsNilpotent"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q759832",
@@ -3688,7 +3688,7 @@
      "comment":
      "Here we define depth using vanishing of Ext groups, it coincides with the\nregular sequence characterization in the case R is Noetherian and IM ≠ M."}],
    "module": "Mathlib.RingTheory.Depth.Basic",
-   "line": 71,
+   "line": 72,
    "decl": "Ideal.depth"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00FK",
@@ -3832,7 +3832,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
-   "line": 495,
+   "line": 496,
    "decl": "IntermediateField.adjoin.finrank"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09G1",
@@ -3840,7 +3840,7 @@
      "db": "stacks",
      "comment": "Algebraic case"}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
-   "line": 423,
+   "line": 424,
    "decl": "IntermediateField.adjoinRootEquivAdjoin"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GQ",
@@ -3898,7 +3898,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.NumberTheory.Real.Irrational",
-   "line": 34,
+   "line": 35,
    "decl": "Irrational"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q2989575",
@@ -4010,7 +4010,7 @@
      "db": "stacks",
      "comment": "part one"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 462,
+   "line": 463,
    "decl": "IsAlgebraic.tower_top"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00GW",
@@ -4058,7 +4058,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Artinian.Module",
-   "line": 507,
+   "line": 508,
    "decl": "IsArtinianRing.setOfPred_isMaximal_finite"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q2342396",
@@ -4282,7 +4282,7 @@
      "db": "stacks",
      "comment": "The local ring case."}],
    "module": "Mathlib.RingTheory.Depth.Basic",
-   "line": 76,
+   "line": 77,
    "decl": "IsLocalRing.depth"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/06RR",
@@ -4298,7 +4298,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Depth.Basic",
-   "line": 348,
+   "line": 349,
    "decl": "IsLocalRing.ideal_depth_eq_sSup_length_isRegular"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/07BJ",
@@ -4631,7 +4631,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Defs",
-   "line": 55,
+   "line": 56,
    "decl": "Matrix"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q339011",
@@ -4908,7 +4908,7 @@
      "db": "stacks",
      "comment": "Generalized from fields to division rings."}],
    "module": "Mathlib.LinearAlgebra.Basis.VectorSpace",
-   "line": 155,
+   "line": 156,
    "decl": "Module.Free.of_divisionRing"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/089R",
@@ -5064,7 +5064,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Depth.Basic",
-   "line": 263,
+   "line": 264,
    "decl": "ModuleCat.depth_min_fst_trd_le_snd_right"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00LX",
@@ -5072,7 +5072,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Depth.Basic",
-   "line": 299,
+   "line": 300,
    "decl": "ModuleCat.depth_min_snd_fst_sub_one_le_trd_right"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00LX",
@@ -5080,7 +5080,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.RingTheory.Depth.Basic",
-   "line": 278,
+   "line": 279,
    "decl": "ModuleCat.depth_min_snd_trd_add_one_le_fst_right"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/074D",
@@ -5096,7 +5096,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Hom.Defs",
-   "line": 366,
+   "line": 367,
    "decl": "MonoidHom"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -5168,7 +5168,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.NumberTheory.Divisors",
-   "line": 397,
+   "line": 398,
    "decl": "Nat.Perfect"},
   {"refs":
    [{"url": "https://oeis.org/A000040",
@@ -5180,7 +5180,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Data.Nat.Prime.Defs",
-   "line": 41,
+   "line": 42,
    "decl": "Nat.Prime"},
   {"refs":
    [{"url": "https://oeis.org/A005835",
@@ -5228,7 +5228,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.NumberTheory.Divisors",
-   "line": 52,
+   "line": 53,
    "decl": "Nat.divisors"},
   {"refs":
    [{"url": "https://oeis.org/A006882",
@@ -5296,7 +5296,7 @@
      "db": "oeis",
      "comment": "the sequence skips `n = 0` which is a junk value"}],
    "module": "Mathlib.Data.Nat.Prime.Defs",
-   "line": 218,
+   "line": 219,
    "decl": "Nat.minFac"},
   {"refs":
    [{"url": "https://oeis.org/A059481",
@@ -5328,7 +5328,7 @@
      "db": "oeis",
      "comment": "starting from the 2nd element"}],
    "module": "Mathlib.Data.Nat.Factors",
-   "line": 38,
+   "line": 39,
    "decl": "Nat.primeFactorsList"},
   {"refs":
    [{"url": "https://oeis.org/A027751",
@@ -5336,7 +5336,7 @@
      "db": "oeis",
      "comment": "starting from the 2nd element"}],
    "module": "Mathlib.NumberTheory.Divisors",
-   "line": 57,
+   "line": 58,
    "decl": "Nat.properDivisors"},
   {"refs":
    [{"url": "https://oeis.org/A001003",
@@ -5376,7 +5376,7 @@
      "db": "oeis",
      "comment": "the sequence skips `n = 0`"}],
    "module": "Mathlib.Data.Nat.Totient",
-   "line": 38,
+   "line": 39,
    "decl": "Nat.totient"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HM",
@@ -5476,7 +5476,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Polynomial.Basic",
-   "line": 69,
+   "line": 70,
    "decl": "Polynomial"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/18.9.E21",
@@ -5953,7 +5953,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Finiteness.Defs",
-   "line": 173,
+   "line": 174,
    "decl": "RingHom.Finite"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00GK",
@@ -6074,7 +6074,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Data.Set.Operations",
-   "line": 218,
+   "line": 219,
    "decl": "Set.prod"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01C6",
@@ -6106,7 +6106,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Combinatorics.SimpleGraph.Finite",
-   "line": 389,
+   "line": 390,
    "decl": "SimpleGraph.IsRegularOfDegree"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q45715",
@@ -6130,7 +6130,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.Algebra.Squarefree.Basic",
-   "line": 42,
+   "line": 43,
    "decl": "Squarefree"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q25378068",
@@ -6138,7 +6138,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.MeasureTheory.Constructions.Polish.Basic",
-   "line": 83,
+   "line": 84,
    "decl": "StandardBorelSpace"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BID",
@@ -6146,7 +6146,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 673,
+   "line": 674,
    "decl": "Subalgebra.isField_of_algebraic"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09FD",
@@ -6162,7 +6162,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 296,
+   "line": 297,
    "decl": "Subgroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q743179",
@@ -6170,7 +6170,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 601,
+   "line": 602,
    "decl": "Subgroup.Normal"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q505798",
@@ -6194,7 +6194,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.Index",
-   "line": 55,
+   "line": 56,
    "decl": "Subgroup.index"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q44382",
@@ -6210,7 +6210,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Nakayama",
-   "line": 117,
+   "line": 118,
    "decl": "Submodule.eq_bot_of_le_smul_of_le_jacobson"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00DV",
@@ -6218,7 +6218,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Nakayama",
-   "line": 60,
+   "line": 61,
    "decl": "Submodule.eq_smul_of_le_smul_of_le_jacobson"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00DV",
@@ -6226,7 +6226,7 @@
      "db": "stacks",
      "comment": "(8)"}],
    "module": "Mathlib.RingTheory.Nakayama",
-   "line": 250,
+   "line": 251,
    "decl":
    "Submodule.exists_injOn_mkQ_image_span_eq_of_span_eq_map_mkQ_of_le_jacobson"},
   {"refs":
@@ -6244,7 +6244,7 @@
      "comment":
      "(3) see `Submodule.localized₀_le_localized₀_of_smul_le` for the second conclusion."}],
    "module": "Mathlib.RingTheory.Nakayama",
-   "line": 182,
+   "line": 183,
    "decl": "Submodule.exists_sub_one_mem_and_smul_le_of_fg_of_le_sup"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00DV",
@@ -6252,7 +6252,7 @@
      "db": "stacks",
      "comment": "(4)"}],
    "module": "Mathlib.RingTheory.Nakayama",
-   "line": 170,
+   "line": 171,
    "decl": "Submodule.smul_le_of_le_smul_of_le_jacobson"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00DV",
@@ -6260,7 +6260,7 @@
      "db": "stacks",
      "comment": "(4)"}],
    "module": "Mathlib.RingTheory.Nakayama",
-   "line": 147,
+   "line": 148,
    "decl": "Submodule.sup_smul_eq_sup_smul_of_le_smul_of_le_jacobson"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q929536",
@@ -6447,7 +6447,7 @@
      "comment":
      "This Mathlib declaration captures 'unique factorization'.\nUse in conjunction with `IsDomain` to capture unique factorization domain."}],
    "module": "Mathlib.RingTheory.UniqueFactorizationDomain.Defs",
-   "line": 131,
+   "line": 132,
    "decl": "UniqueFactorizationMonoid"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0AFT",
@@ -6608,7 +6608,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.UrysohnsLemma",
-   "line": 322,
+   "line": 323,
    "decl": "exists_continuous_zero_one_of_isClosed"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q193286",
@@ -6616,7 +6616,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Analysis.Calculus.LocalExtr.Rolle",
-   "line": 61,
+   "line": 62,
    "decl": "exists_deriv_eq_zero"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/03GD",
@@ -6739,7 +6739,7 @@
      "db": "stacks",
      "comment": "See also https://en.wikipedia.org/wiki/Zariski%27s_lemma."}],
    "module": "Mathlib.RingTheory.Jacobson.Ring",
-   "line": 692,
+   "line": 693,
    "decl": "finite_of_finite_type_of_isJacobsonRing"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q875399",
@@ -6966,7 +6966,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.LinearIndependent.Basic",
-   "line": 516,
+   "line": 517,
    "decl": "linearIndependent_monoidHom"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1138992",
@@ -7083,7 +7083,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Dimension.Free",
-   "line": 63,
+   "line": 64,
    "decl": "rank_mul_rank"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q97623888",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "66f20c74af93380e30c6f16bad25e5ea77dd19c5"}
+ "commit": "c47f9ad906c5ec32a953f99911b446cd26dcc123"}
