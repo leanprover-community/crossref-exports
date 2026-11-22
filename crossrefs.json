@@ -1,4 +1,4 @@
-{"generated": "2026-11-21T10:39:46Z",
+{"generated": "2026-11-22T13:09:39Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -5897,7 +5897,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.NumberTheory.LSeries.RiemannZeta",
-   "line": 185,
+   "line": 186,
    "decl": "RiemannHypothesis"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q161172",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c47f9ad906c5ec32a953f99911b446cd26dcc123"}
+ "commit": "6ebcce37335bcb6bca64596e5d57bb3035648030"}
