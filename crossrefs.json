@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T18:43:39Z",
+{"generated": "2026-11-23T19:18:44Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -1671,7 +1671,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.Baire.CompleteMetrizable",
-   "line": 27,
+   "line": 30,
    "decl": "BaireSpace.of_completelyPseudoMetrizable"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1052678",
@@ -1679,7 +1679,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.Baire.LocallyCompactRegular",
-   "line": 24,
+   "line": 27,
    "decl": "BaireSpace.of_t2Space_locallyCompactSpace"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q91578938",
@@ -5613,7 +5613,7 @@
      "db": "stacks",
      "comment": "The last condition for spectral spaces"}],
    "module": "Mathlib.Topology.Spectral.Prespectral",
-   "line": 27,
+   "line": 30,
    "decl": "PrespectralSpace"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00EC",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "c40b024c1b01ed03644cc90a38d53e6783bc315d"}
+ "commit": "7e3f759d0331b2875f4ed859b2ca5f0613e74b38"}
