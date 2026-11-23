@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T02:24:07Z",
+{"generated": "2026-11-23T02:53:18Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -594,7 +594,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Etale.Weakly",
-   "line": 56,
+   "line": 55,
    "decl": "Algebra.WeaklyEtale.instOfEtale"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/092H",
@@ -602,7 +602,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Etale.Weakly",
-   "line": 64,
+   "line": 63,
    "decl": "Algebra.WeaklyEtale.instTensorProduct"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/092J",
@@ -610,7 +610,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Etale.Weakly",
-   "line": 81,
+   "line": 80,
    "decl": "Algebra.WeaklyEtale.trans"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00Q9",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "3ee314d977fc900978adb3f259f6652934bb50d9"}
+ "commit": "add4fb610c0b662c12fe96084d7a419ec9a09dd1"}
