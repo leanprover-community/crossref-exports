@@ -1,4 +1,4 @@
-{"generated": "2026-11-22T13:09:39Z",
+{"generated": "2026-11-23T02:24:07Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -134,7 +134,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.Algebra.Algebra.Equiv",
-   "line": 738,
+   "line": 736,
    "decl": "AlgEquiv.aut"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BME",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "6ebcce37335bcb6bca64596e5d57bb3035648030"}
+ "commit": "3ee314d977fc900978adb3f259f6652934bb50d9"}
