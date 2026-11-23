@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T16:59:28Z",
+{"generated": "2026-11-23T18:04:50Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -78,7 +78,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.Coset.Card",
-   "line": 70,
+   "line": 73,
    "decl": "AddSubgroup.card_addSubgroup_dvd_card"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1464168",
@@ -142,7 +142,7 @@
      "db": "stacks",
      "comment": "Part 2"}],
    "module": "Mathlib.FieldTheory.Normal.Basic",
-   "line": 189,
+   "line": 192,
    "decl": "AlgHom.liftNormal"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BME",
@@ -756,7 +756,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
-   "line": 44,
+   "line": 47,
    "decl": "AlgebraicGeometry.AlgebraicCycle"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BE2",
@@ -764,7 +764,7 @@
      "db": "stacks",
      "comment": "(2), as a predicate on algebraic cycles."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
-   "line": 143,
+   "line": 146,
    "decl": "AlgebraicGeometry.AlgebraicCycle.IsWeilDivisor"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0AZ2",
@@ -772,7 +772,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
-   "line": 95,
+   "line": 98,
    "decl": "AlgebraicGeometry.AlgebraicCycle.degree"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02R4",
@@ -781,7 +781,7 @@
      "comment":
      "(2) with arbitrary weight function instead of `δ`-dimension."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
-   "line": 69,
+   "line": 72,
    "decl": "AlgebraicGeometry.AlgebraicCycle.map"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02R4",
@@ -789,7 +789,7 @@
      "db": "stacks",
      "comment": "The multiplicity appearing in (1)."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
-   "line": 55,
+   "line": 58,
    "decl": "AlgebraicGeometry.AlgebraicCycle.mapCoeff"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BE2",
@@ -797,7 +797,7 @@
      "db": "stacks",
      "comment": "The group Div(X) of (2)."}],
    "module": "Mathlib.AlgebraicGeometry.AlgebraicCycle.Basic",
-   "line": 164,
+   "line": 167,
    "decl": "AlgebraicGeometry.AlgebraicCycle.weilDivisors"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02VW",
@@ -949,7 +949,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Cover.QuasiCompact",
-   "line": 39,
+   "line": 42,
    "decl": "AlgebraicGeometry.QuasiCompactCover"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022D",
@@ -957,7 +957,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.AlgebraicGeometry.Cover.QuasiCompact",
-   "line": 127,
+   "line": 130,
    "decl": "AlgebraicGeometry.QuasiCompactCover.instBindScheme"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022D",
@@ -965,7 +965,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.Cover.QuasiCompact",
-   "line": 172,
+   "line": 175,
    "decl": "AlgebraicGeometry.QuasiCompactCover.instCoverOfIsIso"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022D",
@@ -973,7 +973,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.AlgebraicGeometry.Cover.QuasiCompact",
-   "line": 96,
+   "line": 99,
    "decl": "AlgebraicGeometry.QuasiCompactCover.instPullback₁Scheme"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/03L8",
@@ -981,7 +981,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Cover.QuasiCompact",
-   "line": 85,
+   "line": 88,
    "decl": "AlgebraicGeometry.QuasiCompactCover.of_hom"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022C",
@@ -989,7 +989,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Cover.QuasiCompact",
-   "line": 74,
+   "line": 77,
    "decl": "AlgebraicGeometry.QuasiCompactCover.of_isOpenMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A20",
@@ -1031,7 +1031,7 @@
      "db": "stacks",
      "comment": "(1) => (3)"}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Finite",
-   "line": 208,
+   "line": 211,
    "decl":
    "AlgebraicGeometry.Scheme.Hom.closedPoints_subset_preimage_closedPoints"},
   {"refs":
@@ -1083,7 +1083,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.FinitePresentation",
-   "line": 160,
+   "line": 163,
    "decl": "AlgebraicGeometry.Scheme.Hom.isConstructible_image"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/054I",
@@ -1091,7 +1091,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.FinitePresentation",
-   "line": 167,
+   "line": 170,
    "decl": "AlgebraicGeometry.Scheme.Hom.isConstructible_preimage"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/054K",
@@ -1099,7 +1099,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.FinitePresentation",
-   "line": 116,
+   "line": 119,
    "decl": "AlgebraicGeometry.Scheme.Hom.isLocallyConstructible_image"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04XU",
@@ -1107,7 +1107,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyClosed",
-   "line": 158,
+   "line": 161,
    "decl": "AlgebraicGeometry.Scheme.Hom.isProperMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/035H",
@@ -1147,7 +1147,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 266,
+   "line": 269,
    "decl": "AlgebraicGeometry.Scheme.PartialMap.equiv"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/098K",
@@ -1163,7 +1163,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 391,
+   "line": 394,
    "decl": "AlgebraicGeometry.Scheme.RationalMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1Z",
@@ -1179,7 +1179,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 409,
+   "line": 412,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.IsOver"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1X",
@@ -1187,7 +1187,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 587,
+   "line": 590,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.domain"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0A1Y",
@@ -1195,7 +1195,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 621,
+   "line": 624,
    "decl": "AlgebraicGeometry.Scheme.RationalMap.toPartialMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01ZC",
@@ -1240,7 +1240,7 @@
      "db": "stacks",
      "comment": "last part"}],
    "module": "Mathlib.AlgebraicGeometry.Birational.RationalMap",
-   "line": 665,
+   "line": 668,
    "decl":
    "AlgebraicGeometry.Scheme.instIsOverToPartialMapOfIsSeparatedOfIsOver"},
   {"refs":
@@ -1289,7 +1289,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyOpen",
-   "line": 141,
+   "line": 144,
    "decl": "AlgebraicGeometry.UniversallyOpen.of_flat"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01KE",
@@ -1482,7 +1482,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.QuasiCompact",
-   "line": 212,
+   "line": 215,
    "decl": "AlgebraicGeometry.isClosedMap_iff_specializingMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01TB",
@@ -1490,7 +1490,7 @@
      "db": "stacks",
      "comment": "(1) => (2)"}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.Finite",
-   "line": 224,
+   "line": 227,
    "decl": "AlgebraicGeometry.isClosed_singleton_iff_locallyOfFiniteType"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BFD",
@@ -1507,7 +1507,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyOpen",
-   "line": 104,
+   "line": 107,
    "decl": "AlgebraicGeometry.isOpenMap_of_generalizingMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/023Q",
@@ -1531,7 +1531,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Sites.SheafQuasiCompact",
-   "line": 100,
+   "line": 103,
    "decl": "AlgebraicGeometry.isSheaf_propQCTopology_iff"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022H",
@@ -1539,7 +1539,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Sites.SheafQuasiCompact",
-   "line": 36,
+   "line": 39,
    "decl": "AlgebraicGeometry.isSheaf_type_propQCTopology_iff"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01P0",
@@ -1579,7 +1579,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.Morphisms.UniversallyInjective",
-   "line": 106,
+   "line": 109,
    "decl": "AlgebraicGeometry.tfae_universallyInjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/030E",
@@ -2156,7 +2156,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Subobject.ArtinianObject",
-   "line": 54,
+   "line": 57,
    "decl": "CategoryTheory.IsArtinianObject"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0032",
@@ -2221,7 +2221,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Subobject.NoetherianObject",
-   "line": 54,
+   "line": 57,
    "decl": "CategoryTheory.IsNoetherianObject"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/05QK",
@@ -2392,7 +2392,7 @@
      "db": "stacks",
      "comment": "We do not define 'strictly full' subcategories."}],
    "module": "Mathlib.CategoryTheory.ObjectProperty.FullSubcategory",
-   "line": 38,
+   "line": 41,
    "decl": "CategoryTheory.ObjectProperty.FullSubcategory"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09SJ",
@@ -2408,7 +2408,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.CategoryTheory.Sites.Point.Conservative",
-   "line": 50,
+   "line": 53,
    "decl": "CategoryTheory.ObjectProperty.IsConservativeFamilyOfPoints"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00YL",
@@ -2416,7 +2416,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.CategoryTheory.Sites.Point.Conservative",
-   "line": 101,
+   "line": 104,
    "decl":
    "CategoryTheory.ObjectProperty.IsConservativeFamilyOfPoints.jointlyFaithful"},
   {"refs":
@@ -2425,7 +2425,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.CategoryTheory.Sites.Point.Conservative",
-   "line": 93,
+   "line": 96,
    "decl":
    "CategoryTheory.ObjectProperty.IsConservativeFamilyOfPoints.jointlyReflectEpimorphisms"},
   {"refs":
@@ -2434,7 +2434,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.CategoryTheory.Sites.Point.Conservative",
-   "line": 73,
+   "line": 76,
    "decl":
    "CategoryTheory.ObjectProperty.IsConservativeFamilyOfPoints.jointlyReflectIsomorphisms"},
   {"refs":
@@ -2443,7 +2443,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.CategoryTheory.Sites.Point.Conservative",
-   "line": 86,
+   "line": 89,
    "decl":
    "CategoryTheory.ObjectProperty.IsConservativeFamilyOfPoints.jointlyReflectMonomorphisms"},
   {"refs":
@@ -2485,7 +2485,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.ObjectProperty.Orthogonal",
-   "line": 46,
+   "line": 49,
    "decl": "CategoryTheory.ObjectProperty.leftOrthogonal"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FX2",
@@ -2502,7 +2502,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.ObjectProperty.Orthogonal",
-   "line": 37,
+   "line": 40,
    "decl": "CategoryTheory.ObjectProperty.rightOrthogonal"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001G",
@@ -2697,7 +2697,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Yoneda",
-   "line": 41,
+   "line": 44,
    "decl":
    "CategoryTheory.Pretriangulated.instIsHomologicalAddCommGrpCatObjOppositeFunctorPreadditiveCoyoneda"},
   {"refs":
@@ -2706,7 +2706,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Triangulated.Yoneda",
-   "line": 49,
+   "line": 52,
    "decl":
    "CategoryTheory.Pretriangulated.instIsHomologicalOppositeAddCommGrpCatObjFunctorPreadditiveYoneda"},
   {"refs":
@@ -2885,7 +2885,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Subobject.ArtinianObject",
-   "line": 46,
+   "line": 49,
    "decl": "CategoryTheory.isArtinianObject"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FCG",
@@ -2893,7 +2893,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Subobject.NoetherianObject",
-   "line": 46,
+   "line": 49,
    "decl": "CategoryTheory.isNoetherianObject"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/003C",
@@ -3110,7 +3110,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Complex.FiniteDimensional",
-   "line": 31,
+   "line": 34,
    "decl": "Complex.finrank_real_complex"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q192760",
@@ -3158,7 +3158,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Complex.FiniteDimensional",
-   "line": 72,
+   "line": 75,
    "decl": "Complex.rank_rat_complex"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.14.E1",
@@ -3383,7 +3383,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Even",
-   "line": 54,
+   "line": 57,
    "decl": "Even"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09FD",
@@ -3503,7 +3503,7 @@
      "db": "stacks",
      "comment": "First part. We don't require `p` to be a prime in mathlib."}],
    "module": "Mathlib.Algebra.CharP.Basic",
-   "line": 196,
+   "line": 199,
    "decl": "Fin.charP"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HY",
@@ -3607,7 +3607,7 @@
      "db": "stacks",
      "comment": "(1) and (2)"}],
    "module": "Mathlib.Algebra.Homology.Embedding.StupidTrunc",
-   "line": 35,
+   "line": 38,
    "decl": "HomologicalComplex.stupidTrunc"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0118",
@@ -3615,7 +3615,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.Algebra.Homology.Embedding.StupidTrunc",
-   "line": 141,
+   "line": 144,
    "decl": "HomologicalComplex.ιStupidTrunc"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0118",
@@ -3623,7 +3623,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.Algebra.Homology.Embedding.StupidTrunc",
-   "line": 229,
+   "line": 232,
    "decl": "HomologicalComplex.πStupidTrunc"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1203540",
@@ -3776,7 +3776,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Geometry.Euclidean.Angle.Unoriented.Basic",
-   "line": 41,
+   "line": 44,
    "decl": "InnerProductGeometry.angle"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q214159",
@@ -3832,7 +3832,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
-   "line": 496,
+   "line": 499,
    "decl": "IntermediateField.adjoin.finrank"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09G1",
@@ -3840,7 +3840,7 @@
      "db": "stacks",
      "comment": "Algebraic case"}],
    "module": "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
-   "line": 424,
+   "line": 427,
    "decl": "IntermediateField.adjoinRootEquivAdjoin"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GQ",
@@ -3857,7 +3857,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
-   "line": 48,
+   "line": 51,
    "decl": "IntermediateField.normalClosure"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HP",
@@ -3865,7 +3865,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.Normal.Basic",
-   "line": 140,
+   "line": 143,
    "decl": "IntermediateField.normal_iInf"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HQ",
@@ -3874,7 +3874,7 @@
      "comment":
      "stronger version replacing an algebraic closure by a normal extension"}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
-   "line": 284,
+   "line": 287,
    "decl": "IntermediateField.normal_iff_forall_fieldRange_eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HP",
@@ -3882,7 +3882,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.FieldTheory.Normal.Basic",
-   "line": 155,
+   "line": 158,
    "decl": "IntermediateField.normal_inf"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BR3",
@@ -3890,7 +3890,7 @@
      "db": "stacks",
      "comment": "first part"}],
    "module": "Mathlib.FieldTheory.Normal.Basic",
-   "line": 120,
+   "line": 123,
    "decl": "IntermediateField.splits_of_mem_adjoin"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q607728",
@@ -4338,7 +4338,7 @@
      "db": "stacks",
      "comment": "Predicate version"}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
-   "line": 40,
+   "line": 43,
    "decl": "IsNormalClosure"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1991405",
@@ -4387,7 +4387,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.IsPrimePow",
-   "line": 28,
+   "line": 31,
    "decl": "IsPrimePow"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02JJ",
@@ -4487,7 +4487,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Even",
-   "line": 56,
+   "line": 59,
    "decl": "IsSquare"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00PZ",
@@ -4639,7 +4639,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Symmetric",
-   "line": 33,
+   "line": 36,
    "decl": "Matrix.IsSymm"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q849705",
@@ -5320,7 +5320,7 @@
      "db": "oeis",
      "comment": "starting from the 2nd element"}],
    "module": "Mathlib.Data.Nat.PrimeFin",
-   "line": 38,
+   "line": 41,
    "decl": "Nat.primeFactors"},
   {"refs":
    [{"url": "https://oeis.org/A027746",
@@ -5368,7 +5368,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.Data.Nat.Factorial.SuperFactorial",
-   "line": 29,
+   "line": 32,
    "decl": "Nat.superFactorial"},
   {"refs":
    [{"url": "https://oeis.org/A000010",
@@ -5400,7 +5400,7 @@
      "db": "stacks",
      "comment": "Normal part"}],
    "module": "Mathlib.FieldTheory.Normal.Basic",
-   "line": 62,
+   "line": 65,
    "decl": "Normal.of_isSplittingField"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09HN",
@@ -5540,7 +5540,7 @@
      "db": "stacks",
      "comment": "Predicate version"}],
    "module": "Mathlib.FieldTheory.SplittingField.IsSplittingField",
-   "line": 47,
+   "line": 50,
    "decl": "Polynomial.IsSplittingField"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09H1",
@@ -6026,7 +6026,7 @@
      "db": "kerodon",
      "comment": ""}],
    "module": "Mathlib.AlgebraicTopology.Quasicategory.InnerFibration",
-   "line": 65,
+   "line": 68,
    "decl": "SSet.innerFibrations"},
   {"refs":
    [{"url": "https://kerodon.net/tag/02MT",
@@ -6058,7 +6058,7 @@
      "db": "kerodon",
      "comment": ""}],
    "module": "Mathlib.AlgebraicTopology.Quasicategory.InnerFibration",
-   "line": 84,
+   "line": 87,
    "decl": "SSet.quasicategory_iff_of_isTerminal"},
   {"refs":
    [{"url": "https://kerodon.net/tag/01BJ",
@@ -6066,7 +6066,7 @@
      "db": "kerodon",
      "comment": ""}],
    "module": "Mathlib.AlgebraicTopology.Quasicategory.InnerFibration",
-   "line": 93,
+   "line": 96,
    "decl": "SSet.quasicategory_of_innerFibration"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q173740",
@@ -6178,7 +6178,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.GroupTheory.Coset.Card",
-   "line": 72,
+   "line": 75,
    "decl": "Subgroup.card_subgroup_dvd_card"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q3229345",
@@ -6202,7 +6202,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Span.Defs",
-   "line": 50,
+   "line": 53,
    "decl": "Submodule.IsPrincipal"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00DV",
@@ -6560,7 +6560,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.FreeModule.Finite.Matrix",
-   "line": 92,
+   "line": 95,
    "decl": "card_algHom_le_finrank"},
   {"refs":
    [{"url": "https://oeis.org/A000108",
@@ -7031,7 +7031,7 @@
      "comment":
      "When `L` is normal over `K`, this agrees with 0BMG (1) finiteness."}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
-   "line": 173,
+   "line": 176,
    "decl": "normalClosure.is_finiteDimensional"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BMG",
@@ -7039,7 +7039,7 @@
      "db": "stacks",
      "comment": "(1) normality."}],
    "module": "Mathlib.FieldTheory.Normal.Closure",
-   "line": 167,
+   "line": 170,
    "decl": "normalClosure.normal"},
   {"refs":
    [{"url": "https://oeis.org/A000166",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "4262a73679e394f358d869a18597d623d6afefc7"}
+ "commit": "9974623ff232d288c2db2dfa311b2febefaf5bd0"}
