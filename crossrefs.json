@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T03:50:04Z",
+{"generated": "2026-11-23T13:29:46Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2196,7 +2196,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Presentable.Directed",
-   "line": 542,
+   "line": 541,
    "decl": "CategoryTheory.IsFiltered.exists_directed"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/079B",
@@ -5460,7 +5460,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.SetTheory.Cardinal.Regular",
-   "line": 102,
+   "line": 103,
    "decl": "Ordinal.exists_lt_cof"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q311627",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "90e6eec9fe53b02d431c90718e4a1d22d67a204e"}
+ "commit": "d16077d8a70b1d4d0ff3149ee40a97ad376d2e93"}
