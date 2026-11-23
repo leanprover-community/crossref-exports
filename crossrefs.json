@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T13:29:46Z",
+{"generated": "2026-11-23T16:59:28Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2000,7 +2000,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.EssentialImage",
-   "line": 106,
+   "line": 109,
    "decl": "CategoryTheory.Functor.EssSurj"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001C",
@@ -2204,7 +2204,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Abelian.GrothendieckCategory.Basic",
-   "line": 68,
+   "line": 71,
    "decl": "CategoryTheory.IsGrothendieckAbelian"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/079H",
@@ -2299,7 +2299,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Types.Colimits",
-   "line": 120,
+   "line": 123,
    "decl": "CategoryTheory.Limits.Types.hasColimitsOfSize"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/002U",
@@ -2460,7 +2460,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Abelian.SerreClass.Localization",
-   "line": 415,
+   "line": 418,
    "decl": "CategoryTheory.ObjectProperty.SerreClassLocalization.abelian"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FX1",
@@ -2542,7 +2542,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Galois.Equivalence",
-   "line": 92,
+   "line": 95,
    "decl":
    "CategoryTheory.PreGaloisCategory.instIsEquivalenceContActionFintypeCatFunObjFiniteAutFunctorFunctorToContAction"},
   {"refs":
@@ -3046,7 +3046,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 33,
+   "line": 36,
    "decl": "Complex.cos"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.28.E2",
@@ -3054,7 +3054,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 53,
+   "line": 56,
    "decl": "Complex.cosh"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.35.E11",
@@ -3062,7 +3062,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 278,
+   "line": 281,
    "decl": "Complex.cosh_sq_sub_sinh_sq"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.35.E27",
@@ -3070,7 +3070,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 290,
+   "line": 293,
    "decl": "Complex.cosh_two_mul"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.14.E7",
@@ -3078,7 +3078,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 43,
+   "line": 46,
    "decl": "Complex.cot"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.28.E7",
@@ -3086,7 +3086,7 @@
      "db": "dlmf",
      "comment": "defined as the reciprocal of tanh"}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 63,
+   "line": 66,
    "decl": "Complex.coth"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.34.E2",
@@ -3118,7 +3118,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Polynomial.Basic",
-   "line": 53,
+   "line": 56,
    "decl": "Complex.isAlgClosed"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/10.6.E2",
@@ -3166,7 +3166,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 28,
+   "line": 31,
    "decl": "Complex.sin"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.28.E1",
@@ -3174,7 +3174,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 48,
+   "line": 51,
    "decl": "Complex.sinh"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.35.E26",
@@ -3182,7 +3182,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 293,
+   "line": 296,
    "decl": "Complex.sinh_two_mul"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.14.E4",
@@ -3190,7 +3190,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 38,
+   "line": 41,
    "decl": "Complex.tan"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/4.28.E4",
@@ -3198,7 +3198,7 @@
      "db": "dlmf",
      "comment": ""}],
    "module": "Mathlib.Analysis.Complex.Trigonometric",
-   "line": 58,
+   "line": 61,
    "decl": "Complex.tanh"},
   {"refs":
    [{"url": "https://dlmf.nist.gov/10.6.E1",
@@ -5877,7 +5877,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Analysis.SpecialFunctions.Log.Basic",
-   "line": 44,
+   "line": 47,
    "decl": "Real.log"},
   {"refs":
    [{"url": "https://oeis.org/A000796",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "d16077d8a70b1d4d0ff3149ee40a97ad376d2e93"}
+ "commit": "4262a73679e394f358d869a18597d623d6afefc7"}
