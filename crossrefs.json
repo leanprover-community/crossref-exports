@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T02:53:18Z",
+{"generated": "2026-11-23T03:36:46Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -1767,7 +1767,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Abelian.Images",
-   "line": 102,
+   "line": 84,
    "decl": "CategoryTheory.Abelian.coimageImageComparison"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/05PP",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "add4fb610c0b662c12fe96084d7a419ec9a09dd1"}
+ "commit": "7514e0527865ad186e9566546aff88e1a4e6fb01"}
