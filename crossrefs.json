@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T03:36:46Z",
+{"generated": "2026-11-23T03:50:04Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2551,7 +2551,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Preadditive.Basic",
-   "line": 62,
+   "line": 60,
    "decl": "CategoryTheory.Preadditive"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00VR",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "7514e0527865ad186e9566546aff88e1a4e6fb01"}
+ "commit": "90e6eec9fe53b02d431c90718e4a1d22d67a204e"}
