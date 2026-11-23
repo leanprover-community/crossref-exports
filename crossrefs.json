@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T18:04:50Z",
+{"generated": "2026-11-23T18:43:39Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -159,7 +159,7 @@
      "comment":
      "Note that this is a different definition from this Stacks entry, but\n<https://stacks.math.columbia.edu/tag/00UR> shows that it is equivalent to the definition here."}],
    "module": "Mathlib.RingTheory.Etale.Basic",
-   "line": 202,
+   "line": 205,
    "decl": "Algebra.Etale"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00U2",
@@ -199,7 +199,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Etale.Basic",
-   "line": 44,
+   "line": 47,
    "decl": "Algebra.FormallyEtale"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00TI",
@@ -376,7 +376,7 @@
      "db": "stacks",
      "comment": "Algebraic extensions"}],
    "module": "Mathlib.RingTheory.Algebraic.Defs",
-   "line": 68,
+   "line": 71,
    "decl": "Algebra.IsAlgebraic"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GK",
@@ -384,7 +384,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Cardinality",
-   "line": 72,
+   "line": 75,
    "decl": "Algebra.IsAlgebraic.cardinalMk_le_max"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GG",
@@ -416,7 +416,7 @@
      "db": "stacks",
      "comment": "part two"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 475,
+   "line": 478,
    "decl": "Algebra.IsAlgebraic.tower_top"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GJ",
@@ -917,7 +917,7 @@
      "db": "stacks",
      "comment": "First part"}],
    "module": "Mathlib.RingTheory.Spectrum.Prime.IsOpenComapC",
-   "line": 69,
+   "line": 72,
    "decl": "AlgebraicGeometry.Polynomial.isOpenMap_comap_C"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01MC",
@@ -1611,7 +1611,7 @@
      "db": "oeis",
      "comment": "the sequence skips `n = 0`"}],
    "module": "Mathlib.NumberTheory.ArithmeticFunction.Carmichael",
-   "line": 48,
+   "line": 51,
    "decl": "ArithmeticFunction.carmichael"},
   {"refs":
    [{"url": "https://oeis.org/A001477",
@@ -1635,7 +1635,7 @@
      "db": "oeis",
      "comment": "the sequence skips `n = 0`"}],
    "module": "Mathlib.NumberTheory.ArithmeticFunction.Moebius",
-   "line": 53,
+   "line": 56,
    "decl": "ArithmeticFunction.moebius"},
   {"refs":
    [{"url": "https://oeis.org/A000005",
@@ -1651,7 +1651,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.NumberTheory.ArithmeticFunction.Zeta",
-   "line": 39,
+   "line": 42,
    "decl": "ArithmeticFunction.zeta"},
   {"refs":
    [{"url": "https://topology.pi-base.org/properties/P000064",
@@ -3631,7 +3631,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Maximal",
-   "line": 46,
+   "line": 49,
    "decl": "Ideal.IsMaximal"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/05K9",
@@ -3655,7 +3655,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Prime",
-   "line": 40,
+   "line": 43,
    "decl": "Ideal.IsPrime"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04PR",
@@ -4002,7 +4002,7 @@
      "db": "stacks",
      "comment": "Algebraic elements"}],
    "module": "Mathlib.RingTheory.Algebraic.Defs",
-   "line": 45,
+   "line": 48,
    "decl": "IsAlgebraic"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GF",
@@ -4010,7 +4010,7 @@
      "db": "stacks",
      "comment": "part one"}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 463,
+   "line": 466,
    "decl": "IsAlgebraic.tower_top"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00GW",
@@ -4106,7 +4106,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Coprime.Basic",
-   "line": 43,
+   "line": 46,
    "decl": "IsCoprime"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q245462",
@@ -4122,7 +4122,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Flat.TorsionFree",
-   "line": 138,
+   "line": 141,
    "decl": "IsDedekindDomain.flat_iff_torsion_eq_bot"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09FE",
@@ -4266,7 +4266,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.LocalRing.Defs",
-   "line": 28,
+   "line": 31,
    "decl": "IsLocalRing"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q7315530",
@@ -4274,7 +4274,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.LocalRing.ResidueField.Defs",
-   "line": 27,
+   "line": 30,
    "decl": "IsLocalRing.ResidueField"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00LI",
@@ -4306,7 +4306,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.LocalRing.RingHom.Basic",
-   "line": 76,
+   "line": 79,
    "decl": "IsLocalRing.local_hom_tfae"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1747745",
@@ -4567,7 +4567,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 112,
+   "line": 115,
    "decl": "LocalSubring.exists_le_valuationSubring"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/090P",
@@ -4575,7 +4575,7 @@
      "db": "stacks",
      "comment": "part (2)"}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 170,
+   "line": 173,
    "decl": "LocalSubring.exists_le_valuationSubring_of_isIntegrallyClosedIn"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00IB",
@@ -4583,7 +4583,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 89,
+   "line": 92,
    "decl": "LocalSubring.exists_valuationRing_of_isMax"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00I9",
@@ -4599,7 +4599,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 59,
+   "line": 62,
    "decl": "LocalSubring.mem_of_isMax_of_isIntegral"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00UI",
@@ -4720,7 +4720,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.MeasureTheory.Measure.Dirac.Def",
-   "line": 30,
+   "line": 33,
    "decl": "MeasureTheory.Measure.dirac"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1139334",
@@ -4840,7 +4840,7 @@
      "db": "stacks",
      "comment": "Generalized valuation ring to Bezout domain"}],
    "module": "Mathlib.RingTheory.Flat.TorsionFree",
-   "line": 93,
+   "line": 96,
    "decl": "Module.Flat.flat_iff_torsion_eq_bot_of_isBezout"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/058D",
@@ -4940,7 +4940,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Localization",
-   "line": 78,
+   "line": 81,
    "decl":
    "Module.associatedPrimes.comap_mem_associatedPrimes_of_mem_associatedPrimes_of_isLocalizedModule_of_fg"},
   {"refs":
@@ -4949,7 +4949,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Localization",
-   "line": 38,
+   "line": 41,
    "decl":
    "Module.associatedPrimes.mem_associatedPrimes_of_comap_mem_associatedPrimes_of_isLocalizedModule"},
   {"refs":
@@ -4958,7 +4958,7 @@
      "db": "stacks",
      "comment": "(3)"}],
    "module": "Mathlib.RingTheory.Ideal.AssociatedPrime.Localization",
-   "line": 117,
+   "line": 120,
    "decl":
    "Module.associatedPrimes.preimage_comap_associatedPrimes_eq_associatedPrimes_of_isLocalizedModule"},
   {"refs":
@@ -5144,7 +5144,7 @@
      "db": "oeis",
      "comment": ""}],
    "module": "Mathlib.NumberTheory.AlmostPrime",
-   "line": 51,
+   "line": 54,
    "decl": "Nat.IsSemiprime"},
   {"refs":
    [{"url": "https://oeis.org/A000009",
@@ -5736,7 +5736,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Probability.CDF",
-   "line": 56,
+   "line": 59,
    "decl": "ProbabilityTheory.cdf"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q327069",
@@ -5760,7 +5760,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Probability.Distributions.Gaussian.Real",
-   "line": 219,
+   "line": 222,
    "decl": "ProbabilityTheory.gaussianReal"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q205692",
@@ -5776,7 +5776,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Probability.CentralLimitTheorem",
-   "line": 122,
+   "line": 125,
    "decl": "ProbabilityTheory.tendstoInDistribution_inv_sqrt_mul_sum_sub"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q175199",
@@ -5853,7 +5853,7 @@
      "db": "oeis",
      "comment": "decimal expansion"}],
    "module": "Mathlib.NumberTheory.Harmonic.EulerMascheroni",
-   "line": 131,
+   "line": 134,
    "decl": "Real.eulerMascheroniConstant"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q168698",
@@ -5913,7 +5913,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.OrderOfVanishing.Basic",
-   "line": 37,
+   "line": 40,
    "decl": "Ring.ord"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02MD",
@@ -5921,7 +5921,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.OrderOfVanishing.Basic",
-   "line": 325,
+   "line": 328,
    "decl": "Ring.ordFrac"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/02MD",
@@ -5929,7 +5929,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.OrderOfVanishing.Basic",
-   "line": 240,
+   "line": 243,
    "decl": "Ring.ordMonoidWithZeroHom"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q1194212",
@@ -5945,7 +5945,7 @@
      "db": "stacks",
      "comment": "Part (4)"}],
    "module": "Mathlib.RingTheory.RingHom.FaithfullyFlat",
-   "line": 25,
+   "line": 28,
    "decl": "RingHom.FaithfullyFlat"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0563",
@@ -6146,7 +6146,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Algebraic.Basic",
-   "line": 674,
+   "line": 677,
    "decl": "Subalgebra.isField_of_algebraic"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09FD",
@@ -6235,7 +6235,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Finiteness.Nakayama",
-   "line": 27,
+   "line": 30,
    "decl": "Submodule.exists_sub_one_mem_and_smul_eq_zero_of_fg_of_le_smul"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00DV",
@@ -6276,7 +6276,7 @@
      "db": "stacks",
      "comment": "part (1)"}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 153,
+   "line": 156,
    "decl": "Subring.exists_le_valuationSubring_of_isIntegrallyClosedIn"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0B31",
@@ -6463,7 +6463,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Valuation.LocalSubring",
-   "line": 75,
+   "line": 78,
    "decl": "ValuationSubring.isMax_toLocalSubring"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00Q1",
@@ -6723,7 +6723,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.Basic",
-   "line": 220,
+   "line": 223,
    "decl": "fg_adjoin_of_finite"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00IS",
@@ -6759,7 +6759,7 @@
      "db": "oeis",
      "comment": "denominators; the sequence skips `n = 0`"}],
    "module": "Mathlib.NumberTheory.Harmonic.Defs",
-   "line": 23,
+   "line": 26,
    "decl": "harmonic"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q190546",
@@ -6775,7 +6775,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.GoingDown",
-   "line": 47,
+   "line": 50,
    "decl":
    "instHasGoingDownOfIsDomainOfFaithfulSMulOfIsIntegralOfIsIntegrallyClosed"},
   {"refs":
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "9974623ff232d288c2db2dfa311b2febefaf5bd0"}
+ "commit": "c40b024c1b01ed03644cc90a38d53e6783bc315d"}
