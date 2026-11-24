@@ -1,4 +1,4 @@
-{"generated": "2026-11-24T00:36:02Z",
+{"generated": "2026-11-24T11:12:20Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -94,7 +94,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.RingTheory.AdicCompletion.Completeness",
-   "line": 180,
+   "line": 181,
    "decl": "AdicCompletion.isAdicComplete"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/05GG",
@@ -102,7 +102,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.AdicCompletion.Completeness",
-   "line": 150,
+   "line": 151,
    "decl": "AdicCompletion.pow_smul_top_eq_ker_eval"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09FX",
@@ -288,7 +288,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Kaehler.JacobiZariski",
-   "line": 557,
+   "line": 558,
    "decl": "Algebra.H1Cotangent.exact_liftBaseChange_map_of_flat"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00S2",
@@ -296,7 +296,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Kaehler.JacobiZariski",
-   "line": 542,
+   "line": 543,
    "decl": "Algebra.H1Cotangent.exact_map_δ"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00S2",
@@ -304,7 +304,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Kaehler.JacobiZariski",
-   "line": 550,
+   "line": 551,
    "decl": "Algebra.H1Cotangent.exact_δ_mapBaseChange"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00HV",
@@ -553,7 +553,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Smooth.StandardSmoothCotangent",
-   "line": 224,
+   "line": 225,
    "decl": "Algebra.SubmersivePresentation.basisKaehler"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00T7",
@@ -569,7 +569,7 @@
      "db": "stacks",
      "comment": "(2)"}],
    "module": "Mathlib.RingTheory.Smooth.StandardSmoothCotangent",
-   "line": 237,
+   "line": 238,
    "decl": "Algebra.SubmersivePresentation.free_kaehlerDifferential"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00UT",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "e62b985f6c61653ebb17cb81d85565022fb1103d"}
+ "commit": "424ec419641b6d1b7f67729f5321aa54720f7e23"}
