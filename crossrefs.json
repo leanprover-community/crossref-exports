@@ -1,4 +1,4 @@
-{"generated": "2026-11-23T19:18:44Z",
+{"generated": "2026-11-24T00:36:02Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2966,7 +2966,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.RingTheory.ClassGroup.Basic",
-   "line": 89,
+   "line": 90,
    "decl": "ClassGroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q674689",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 545,
    "decl": "trdeg_add_eq"}],
- "commit": "7e3f759d0331b2875f4ed859b2ca5f0613e74b38"}
+ "commit": "e62b985f6c61653ebb17cb81d85565022fb1103d"}
