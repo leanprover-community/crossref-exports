@@ -1,4 +1,4 @@
-{"generated": "2026-11-25T14:11:12Z",
+{"generated": "2026-11-25T15:07:24Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -877,7 +877,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 330,
+   "line": 331,
    "decl": "AlgebraicGeometry.IsProper.eq_valuativeCriterion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01W6",
@@ -893,7 +893,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 341,
+   "line": 342,
    "decl": "AlgebraicGeometry.IsProper.of_valuativeCriterion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01L0",
@@ -901,7 +901,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 246,
+   "line": 247,
    "decl": "AlgebraicGeometry.IsSeparated.of_valuativeCriterion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01KZ",
@@ -909,7 +909,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 274,
+   "line": 275,
    "decl": "AlgebraicGeometry.IsSeparated.valuativeCriterion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00FB",
@@ -1265,7 +1265,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 231,
+   "line": 232,
    "decl": "AlgebraicGeometry.UniversallyClosed.eq_valuativeCriterion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01W6",
@@ -1281,7 +1281,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 237,
+   "line": 238,
    "decl": "AlgebraicGeometry.UniversallyClosed.of_valuativeCriterion"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01UA",
@@ -1297,7 +1297,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 217,
+   "line": 218,
    "decl": "AlgebraicGeometry.ValuativeCriterion.Existence.eq"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01KE",
@@ -1305,7 +1305,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ValuativeCriterion",
-   "line": 115,
+   "line": 116,
    "decl": "AlgebraicGeometry.ValuativeCriterion.Existence.specializingMap"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/094P",
@@ -2016,7 +2016,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 94,
+   "line": 95,
    "decl": "CategoryTheory.Functor.Final"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04E7",
@@ -2024,7 +2024,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 342,
+   "line": 343,
    "decl": "CategoryTheory.Functor.Final.colimitIso"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001C",
@@ -2040,7 +2040,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 693,
+   "line": 694,
    "decl": "CategoryTheory.Functor.Initial.limitIso"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001Q",
@@ -2853,7 +2853,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Abelian.Transfer",
-   "line": 86,
+   "line": 87,
    "decl": "CategoryTheory.abelianOfAdjunction"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001P",
@@ -5572,7 +5572,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.Algebra.Ideal",
-   "line": 91,
+   "line": 92,
    "decl": "Polynomial.exists_monic_aeval_eq_zero_forall_mem_of_mem_map"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00H6",
@@ -5985,7 +5985,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.RootSystem.WeylGroup",
-   "line": 57,
+   "line": 58,
    "decl": "RootPairing.weylGroup"},
   {"refs":
    [{"url": "https://kerodon.net/tag/02MG",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "c44d09c9afd6296ba2d4c0c3712b3592ac899078"}
+ "commit": "be2ca7deeab4b502669422006289645bb1a94675"}
