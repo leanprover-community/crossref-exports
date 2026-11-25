@@ -1,4 +1,4 @@
-{"generated": "2026-11-24T20:33:02Z",
+{"generated": "2026-11-25T11:37:56Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -925,7 +925,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 133,
+   "line": 134,
    "decl": "AlgebraicGeometry.Proj.instIsSeparated"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01MF",
@@ -933,7 +933,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 321,
+   "line": 322,
    "decl": "AlgebraicGeometry.Proj.valuativeCriterion_existence"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/01MF",
@@ -941,7 +941,7 @@
      "db": "stacks",
      "comment": "algebraic part"}],
    "module": "Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper",
-   "line": 205,
+   "line": 206,
    "decl": "AlgebraicGeometry.Proj.valuativeCriterion_existence_aux"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/022B",
@@ -2016,7 +2016,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 92,
+   "line": 94,
    "decl": "CategoryTheory.Functor.Final"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04E7",
@@ -2024,7 +2024,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 340,
+   "line": 342,
    "decl": "CategoryTheory.Functor.Final.colimitIso"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001C",
@@ -2040,7 +2040,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Final",
-   "line": 691,
+   "line": 693,
    "decl": "CategoryTheory.Functor.Initial.limitIso"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001Q",
@@ -2172,7 +2172,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Filtered.Basic",
-   "line": 589,
+   "line": 590,
    "decl": "CategoryTheory.IsCofiltered"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/002S",
@@ -2188,7 +2188,7 @@
      "db": "stacks",
      "comment": "They also define a diagram being filtered."}],
    "module": "Mathlib.CategoryTheory.Filtered.Basic",
-   "line": 95,
+   "line": 96,
    "decl": "CategoryTheory.IsFiltered"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0032",
@@ -2249,7 +2249,7 @@
      "db": "kerodon",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Limits.Shapes.Pullback.Categorical.Basic",
-   "line": 82,
+   "line": 83,
    "decl": "CategoryTheory.Limits.CategoricalPullback"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04AP",
@@ -2805,7 +2805,7 @@
      "db": "kerodon",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Bicategory.Functor.StrictlyUnitary",
-   "line": 59,
+   "line": 60,
    "decl": "CategoryTheory.StrictlyUnitaryLaxFunctor"},
   {"refs":
    [{"url": "https://kerodon.net/tag/008R",
@@ -2813,7 +2813,7 @@
      "db": "kerodon",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Bicategory.Functor.StrictlyUnitary",
-   "line": 223,
+   "line": 224,
    "decl": "CategoryTheory.StrictlyUnitaryPseudofunctor"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FFW",
@@ -6640,7 +6640,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.NoetherNormalization",
-   "line": 281,
+   "line": 282,
    "decl": "exists_integral_inj_algHom_of_fg"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00PV",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "aad247f928b1eb7c58478742119fdd15a37f0ffd"}
+ "commit": "03a891adb31b705e9f7e325531c095c294232746"}
