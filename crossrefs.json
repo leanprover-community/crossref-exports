@@ -1,4 +1,4 @@
-{"generated": "2026-11-25T11:37:56Z",
+{"generated": "2026-11-25T14:11:12Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -4744,7 +4744,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.MetricSpace.Pseudo.Defs",
-   "line": 369,
+   "line": 394,
    "decl": "Metric.ball"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q253214",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "03a891adb31b705e9f7e325531c095c294232746"}
+ "commit": "c44d09c9afd6296ba2d4c0c3712b3592ac899078"}
