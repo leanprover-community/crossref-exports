@@ -1,4 +1,4 @@
-{"generated": "2026-11-25T15:07:24Z",
+{"generated": "2026-11-25T17:07:12Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -732,7 +732,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.AlgebraicIndependent.Basic",
-   "line": 45,
+   "line": 48,
    "decl": "Algebra.trdeg"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/09GK",
@@ -2008,7 +2008,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Functor.FullyFaithful",
-   "line": 51,
+   "line": 54,
    "decl": "CategoryTheory.Functor.Faithful"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04E6",
@@ -2032,7 +2032,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Functor.FullyFaithful",
-   "line": 44,
+   "line": 47,
    "decl": "CategoryTheory.Functor.Full"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04E7",
@@ -2258,7 +2258,7 @@
      "comment": ""}],
    "module":
    "Mathlib.CategoryTheory.Limits.Shapes.BinaryProducts.BinaryProducts",
-   "line": 261,
+   "line": 264,
    "decl": "CategoryTheory.Limits.HasBinaryCoproducts"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001T",
@@ -2267,7 +2267,7 @@
      "comment": ""}],
    "module":
    "Mathlib.CategoryTheory.Limits.Shapes.BinaryProducts.BinaryProducts",
-   "line": 255,
+   "line": 258,
    "decl": "CategoryTheory.Limits.HasBinaryProducts"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001W",
@@ -4018,7 +4018,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
-   "line": 27,
+   "line": 30,
    "decl": "IsAlmostIntegral"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00H0",
@@ -4034,7 +4034,7 @@
      "db": "stacks",
      "comment": "Part 3"}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
-   "line": 116,
+   "line": 119,
    "decl": "IsAlmostIntegral.isIntegral"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00J5",
@@ -4242,7 +4242,7 @@
      "db": "stacks",
      "comment": "Part 2"}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
-   "line": 79,
+   "line": 82,
    "decl": "IsIntegral.isAlmostIntegral"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/004V",
@@ -6447,7 +6447,7 @@
      "comment":
      "This Mathlib declaration captures 'unique factorization'.\nUse in conjunction with `IsDomain` to capture unique factorization domain."}],
    "module": "Mathlib.RingTheory.UniqueFactorizationDomain.Defs",
-   "line": 133,
+   "line": 136,
    "decl": "UniqueFactorizationMonoid"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0AFT",
@@ -6592,7 +6592,7 @@
      "db": "stacks",
      "comment": "Part 1"}],
    "module": "Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral",
-   "line": 32,
+   "line": 35,
    "decl": "completeIntegralClosure"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00J9",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "be2ca7deeab4b502669422006289645bb1a94675"}
+ "commit": "23327636db1943ed6df8cfc609477c12b62a8e76"}
