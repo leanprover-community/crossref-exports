@@ -1,4 +1,4 @@
-{"generated": "2026-11-26T12:48:50Z",
+{"generated": "2026-11-26T14:53:15Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -4226,7 +4226,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Topology.Homeomorph.Defs",
-   "line": 552,
+   "line": 549,
    "decl": "IsHomeomorph"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00H0",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "e54979a532247ae4eb9d5578a8fd40a1bc332101"}
+ "commit": "9b70bd3b12fd5a4a570ea4e74448675a2b9a7c3a"}
