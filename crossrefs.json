@@ -1,4 +1,4 @@
-{"generated": "2026-11-25T17:07:12Z",
+{"generated": "2026-11-26T12:48:50Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -4647,7 +4647,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.LinearAlgebra.Matrix.Charpoly.Basic",
-   "line": 140,
+   "line": 146,
    "decl": "Matrix.charpoly"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q178546",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "23327636db1943ed6df8cfc609477c12b62a8e76"}
+ "commit": "e54979a532247ae4eb9d5578a8fd40a1bc332101"}
