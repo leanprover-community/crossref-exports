@@ -1,4 +1,4 @@
-{"generated": "2026-11-27T11:40:58Z",
+{"generated": "2026-11-27T13:31:20Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -5776,7 +5776,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Probability.CentralLimitTheorem",
-   "line": 125,
+   "line": 134,
    "decl": "ProbabilityTheory.tendstoInDistribution_inv_sqrt_mul_sum_sub"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q175199",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "a8a89e8998add1f21bba958c7c6a57f3725a3142"}
+ "commit": "ce2559a2e7a2805ed7a5cfee128299a2b39e72b5"}
