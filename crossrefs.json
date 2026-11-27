@@ -1,4 +1,4 @@
-{"generated": "2026-11-26T14:53:15Z",
+{"generated": "2026-11-27T11:40:58Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -62,7 +62,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 304,
+   "line": 305,
    "decl": "AddSubgroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q743179",
@@ -70,7 +70,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 612,
+   "line": 613,
    "decl": "AddSubgroup.Normal"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q505798",
@@ -256,7 +256,7 @@
      "db": "stacks",
      "comment": "(1)"}],
    "module": "Mathlib.RingTheory.Extension.Cotangent.LocalizationAway",
-   "line": 199,
+   "line": 200,
    "decl": "Algebra.Generators.cotangentCompLocalizationAwayEquiv"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/07CF",
@@ -280,7 +280,7 @@
      "db": "stacks",
      "comment": "part of (1)"}],
    "module": "Mathlib.RingTheory.Extension.Cotangent.LocalizationAway",
-   "line": 127,
+   "line": 128,
    "decl": "Algebra.Generators.liftBaseChange_injective_of_isLocalizationAway"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00S2",
@@ -6162,7 +6162,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 298,
+   "line": 299,
    "decl": "Subgroup"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q743179",
@@ -6170,7 +6170,7 @@
      "db": "wikidata",
      "comment": ""}],
    "module": "Mathlib.Algebra.Group.Subgroup.Defs",
-   "line": 603,
+   "line": 604,
    "decl": "Subgroup.Normal"},
   {"refs":
    [{"url": "https://www.wikidata.org/wiki/Q505798",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "9b70bd3b12fd5a4a570ea4e74448675a2b9a7c3a"}
+ "commit": "a8a89e8998add1f21bba958c7c6a57f3725a3142"}
