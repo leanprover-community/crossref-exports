@@ -1,4 +1,4 @@
-{"generated": "2026-11-27T13:31:20Z",
+{"generated": "2026-11-27T14:10:39Z",
  "entries":
  [{"refs":
    [{"url": "https://www.wikidata.org/wiki/Q288465",
@@ -2518,7 +2518,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Comma.Over.Basic",
-   "line": 177,
+   "line": 176,
    "decl": "CategoryTheory.Over.forget"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001G",
@@ -2526,7 +2526,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Comma.Over.Basic",
-   "line": 198,
+   "line": 197,
    "decl": "CategoryTheory.Over.map"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0BN4",
@@ -2877,7 +2877,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 354,
+   "line": 352,
    "decl": "CategoryTheory.epi_iff_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/0FCF",
@@ -2901,7 +2901,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 328,
+   "line": 326,
    "decl": "CategoryTheory.mono_iff_injective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/003C",
@@ -2909,7 +2909,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 336,
+   "line": 334,
    "decl": "CategoryTheory.ofHom_epi_iff_surjective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/003C",
@@ -2917,7 +2917,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Types.Basic",
-   "line": 315,
+   "line": 313,
    "decl": "CategoryTheory.ofHom_mono_iff_injective"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/001K",
@@ -2925,7 +2925,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.CategoryTheory.Products.Basic",
-   "line": 110,
+   "line": 120,
    "decl": "CategoryTheory.prod'"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/00XK",
@@ -3760,7 +3760,7 @@
      "db": "stacks",
      "comment": ""}],
    "module": "Mathlib.RingTheory.Ideal.Operations",
-   "line": 1057,
+   "line": 1055,
    "decl": "Ideal.subset_union_prime"},
   {"refs":
    [{"url": "https://stacks.math.columbia.edu/tag/04PT",
@@ -7182,4 +7182,4 @@
    "module": "Mathlib.RingTheory.AlgebraicIndependent.TranscendenceBasis",
    "line": 546,
    "decl": "trdeg_add_eq"}],
- "commit": "ce2559a2e7a2805ed7a5cfee128299a2b39e72b5"}
+ "commit": "0188d54e82cffab13d6ef781aac4cc3a6946b0f4"}
